@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 
 export default function Home() {
-  const targetDate = new Date('2026-05-26T00:00:00').getTime(); // GTA 6 (example date)
+  const targetDate = new Date('2026-11-19T00:00:00').getTime(); // GTA 6 (example date)
   const [timeLeft, setTimeLeft] = useState({
     days: 0,
     hours: 0,
@@ -55,7 +55,7 @@ export default function Home() {
         {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
       </div>
       <p className="mt-8 text-yellow-200 text-lg font-semibold drop-shadow">
-        Coming 26th May, 2026
+        Coming 19th November, 2026
       </p>
     </div>
   );
