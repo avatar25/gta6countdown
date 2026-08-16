@@ -40,8 +40,15 @@ const events = [
         date: 'June 25, 2026',
         title: 'Pre-Orders Open',
         description: 'Rockstar opened the official pre-order phase, revealed the Ultimate Edition and detailed the Vintage Vice City Pack pre-order bonus as the November launch campaign accelerates.',
-        source: 'https://www.rockstargames.com/VI',
-        sourceLabel: 'Official pre-order page',
+        source: 'https://www.rockstargames.com/newswire/article/5171972o3ak5oa/pre-order-grand-theft-auto-vi-on-june-25',
+        sourceLabel: 'Rockstar Newswire',
+    },
+    {
+        date: 'August 6, 2026',
+        title: 'An Extended Look Announced',
+        description: 'Rockstar announced Grand Theft Auto VI: An Extended Look for August 27. It premieres on Netflix at 3 p.m. ET, followed by the official Rockstar Games YouTube channel and GTA VI site at 9 p.m. ET.',
+        source: 'https://www.netflix.com/GTAVI',
+        sourceLabel: 'Official premiere page',
         latest: true,
     },
 ];
@@ -51,7 +58,7 @@ const Timeline = () => {
         <div className="w-full max-w-4xl mx-auto mt-16 p-6 bg-black/30 backdrop-blur-md rounded-2xl border border-white/10 shadow-2xl">
             <div className="mb-10 text-center">
                 <p className="mb-3 text-xs font-mono uppercase tracking-[0.28em] text-yellow-300">
-                    Verified June 25, 2026
+                    Verified August 16, 2026
                 </p>
                 <h2 className="text-3xl font-bold text-white uppercase tracking-widest drop-shadow-lg">
                     Development Timeline
