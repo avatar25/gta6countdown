@@ -96,9 +96,9 @@ export default function Home() {
             color: "#fff",
           }}
         >
-          {isReleased ? "GTA 6 IS HERE! 🚀" : "Countdown to GTA 6 🚀"}
+          {isReleased ? "GTA 6 IS HERE!" : "Countdown to GTA 6"}
         </h1>
-        <div className="text-4xl md:text-7xl font-extrabold font-mono text-yellow-300 drop-shadow-2xl bg-black/60 backdrop-blur-sm rounded-xl px-8 py-6 my-4 border-4 border-yellow-400 shadow-2xl animate-bounce">
+        <div className="countdown-neon my-4 rounded-xl px-5 py-6 font-mono text-4xl font-extrabold tabular-nums md:px-8 md:text-7xl">
           {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
         </div>
         <p className="mt-8 text-yellow-200 text-lg md:text-2xl font-semibold drop-shadow bg-black/40 px-4 py-2 rounded-lg">
