@@ -49,6 +49,26 @@ const events = [
         description: 'Rockstar announced Grand Theft Auto VI: An Extended Look for August 27. It premieres on Netflix at 3 p.m. ET, followed by the official Rockstar Games YouTube channel and GTA VI site at 9 p.m. ET.',
         source: 'https://www.netflix.com/GTAVI',
         sourceLabel: 'Official premiere page',
+        badge: 'Latest official update',
+    },
+    {
+        date: 'August 18, 2026',
+        title: 'Alleged Gameplay Clips Surface',
+        description: 'Unverified development footage shared online appears to show Jason driving, exploring a home and shooting hoops. File metadata has fueled claims that the clips may date to 2023, so none of the mechanics or visuals should be treated as final.',
+        source: 'https://www.reddit.com/r/PS5/comments/1vrx9rm/new_grand_theft_auto_vi_leaks_are_starting_to/',
+        sourceLabel: 'Community discussion',
+        badge: 'Unverified leak',
+        unverified: true,
+        latest: true,
+    },
+    {
+        date: 'August 18, 2026',
+        title: 'Five-County Map Claim Circulates',
+        description: 'A separate alleged in-game map image points to five Leonida counties and a larger view of the Keys and Grassrivers region. Rockstar has not authenticated the image, and locations may have changed since the reported build.',
+        source: 'https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vs4b54/because_videos_and_screenshots_of_the_latest/',
+        sourceLabel: 'Leak claims & discussion',
+        badge: 'Unverified leak',
+        unverified: true,
         latest: true,
     },
 ];
@@ -58,34 +78,47 @@ const Timeline = () => {
         <div className="w-full max-w-4xl mx-auto mt-16 p-6 bg-black/30 backdrop-blur-md rounded-2xl border border-white/10 shadow-2xl">
             <div className="mb-10 text-center">
                 <p className="mb-3 text-xs font-mono uppercase tracking-[0.28em] text-yellow-300">
-                    Verified August 16, 2026
+                    Updated August 19, 2026
                 </p>
                 <h2 className="text-3xl font-bold text-white uppercase tracking-widest drop-shadow-lg">
-                    Development Timeline
+                    Development & News Timeline
                 </h2>
+                <p className="mx-auto mt-4 max-w-2xl text-sm leading-relaxed text-gray-300">
+                    Official updates and clearly labeled community reports. Rumors remain unconfirmed, and no leaked media is hosted here.
+                </p>
             </div>
             <div className="relative border-l-4 border-yellow-500 ml-4 md:ml-10">
                 {events.map((event, index) => (
                     <div key={index} className="mb-10 ml-8 relative">
                         <div
                             className={`absolute -left-[45px] w-6 h-6 rounded-full border-4 border-black ${
-                                event.latest ? 'bg-white shadow-[0_0_22px_#facc15] animate-pulse' : 'bg-yellow-400'
+                                event.latest
+                                    ? event.unverified
+                                        ? 'bg-white shadow-[0_0_22px_#f472b6] animate-pulse'
+                                        : 'bg-white shadow-[0_0_22px_#facc15] animate-pulse'
+                                    : 'bg-yellow-400'
                             }`}
                         />
                         <article
                             className={`p-6 rounded-lg border shadow-lg transition-all duration-300 hover:-translate-y-1 ${
-                                event.latest
-                                    ? 'bg-yellow-400/15 border-yellow-300/70 hover:bg-yellow-400/20'
+                                event.unverified
+                                    ? 'bg-pink-400/10 border-pink-300/50 hover:bg-pink-400/15'
+                                    : event.latest
+                                      ? 'bg-yellow-400/15 border-yellow-300/70 hover:bg-yellow-400/20'
                                     : 'bg-white/10 border-white/10 hover:bg-white/20'
                             }`}
                         >
                             <div className="mb-2 flex flex-wrap items-center gap-3">
-                                <span className="block text-sm text-yellow-300 font-mono uppercase tracking-wider">
+                                <span className={`block text-sm font-mono uppercase tracking-wider ${
+                                    event.unverified ? 'text-pink-300' : 'text-yellow-300'
+                                }`}>
                                     {event.date}
                                 </span>
-                                {event.latest && (
-                                    <span className="rounded-full bg-yellow-300 px-2.5 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-black">
-                                        Latest official update
+                                {event.badge && (
+                                    <span className={`rounded-full px-2.5 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-black ${
+                                        event.unverified ? 'bg-pink-300' : 'bg-yellow-300'
+                                    }`}>
+                                        {event.badge}
                                     </span>
                                 )}
                             </div>
@@ -94,7 +127,11 @@ const Timeline = () => {
                                 {event.description}
                             </p>
                             <a
-                                className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-yellow-300 transition-colors hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-yellow-300"
+                                className={`mt-4 inline-flex items-center gap-2 text-sm font-semibold transition-colors hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 ${
+                                    event.unverified
+                                        ? 'text-pink-300 focus-visible:outline-pink-300'
+                                        : 'text-yellow-300 focus-visible:outline-yellow-300'
+                                }`}
                                 href={event.source}
                                 target="_blank"
                                 rel="noreferrer"
