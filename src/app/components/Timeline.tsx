@@ -1,84 +1,28 @@
 import React from 'react';
+import {
+  events,
+  formatTimestamp,
+  isLatest,
+  isUnverified,
+  lastCheckedAt,
+  updatedAt,
+  type TimelineEvent,
+} from '@/lib/events';
 
-const events = [
-    {
-        date: 'February 4, 2022',
-        title: 'Initial Confirmation',
-        description: 'Rockstar Games officially confirmed that development for the next entry in the Grand Theft Auto series was "well underway."',
-        source: 'https://www.rockstargames.com/newswire/article/ak73k92o47ko75/grand-theft-auto-community-update',
-        sourceLabel: 'Rockstar Newswire',
-    },
-    {
-        date: 'December 4, 2023',
-        title: 'The Announcement (Trailer 1)',
-        description: 'Rockstar released Trailer 1 ahead of schedule after it leaked online, officially revealing Lucia, Vice City and an initial 2025 release window.',
-        source: 'https://www.youtube.com/watch?v=QdBZY2fkU-0',
-        sourceLabel: 'Watch Trailer 1',
-    },
-    {
-        date: 'May 2, 2025',
-        title: 'First Major Delay',
-        description: 'Rockstar moved the game from its 2025 window to May 26, 2026, saying the additional time was needed to deliver the expected level of quality.',
-        source: 'https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026',
-        sourceLabel: 'Rockstar announcement',
-    },
-    {
-        date: 'May 6, 2025',
-        title: 'Trailer 2 & Leonida Expanded',
-        description: 'Trailer 2 put Jason and Lucia at the center of the story, while Rockstar revealed more of Leonida, its characters and locations. The footage was captured in-game on PlayStation 5.',
-        source: 'https://www.rockstargames.com/VI',
-        sourceLabel: 'Official GTA VI site',
-    },
-    {
-        date: 'November 6, 2025',
-        title: 'Second Delay',
-        description: 'Rockstar shifted the launch by almost six months, setting the current release date of November 19, 2026 for PlayStation 5 and Xbox Series X|S.',
-        source: 'https://www.rockstargames.com/VI',
-        sourceLabel: 'Official GTA VI site',
-    },
-    {
-        date: 'June 25, 2026',
-        title: 'Pre-Orders Open',
-        description: 'Rockstar opened the official pre-order phase, revealed the Ultimate Edition and detailed the Vintage Vice City Pack pre-order bonus as the November launch campaign accelerates.',
-        source: 'https://www.rockstargames.com/newswire/article/5171972o3ak5oa/pre-order-grand-theft-auto-vi-on-june-25',
-        sourceLabel: 'Rockstar Newswire',
-    },
-    {
-        date: 'August 6, 2026',
-        title: 'An Extended Look Announced',
-        description: 'Rockstar announced Grand Theft Auto VI: An Extended Look for August 27. It premieres on Netflix at 3 p.m. ET, followed by the official Rockstar Games YouTube channel and GTA VI site at 9 p.m. ET.',
-        source: 'https://www.netflix.com/GTAVI',
-        sourceLabel: 'Official premiere page',
-        badge: 'Latest official update',
-    },
-    {
-        date: 'August 18, 2026',
-        title: 'Alleged Gameplay Clips Surface',
-        description: 'Unverified development footage shared online appears to show Jason driving, exploring a home and shooting hoops. File metadata has fueled claims that the clips may date to 2023, so none of the mechanics or visuals should be treated as final.',
-        source: 'https://www.reddit.com/r/PS5/comments/1vrx9rm/new_grand_theft_auto_vi_leaks_are_starting_to/',
-        sourceLabel: 'Community discussion',
-        badge: 'Unverified leak',
-        unverified: true,
-        latest: true,
-    },
-    {
-        date: 'August 18, 2026',
-        title: 'Five-County Map Claim Circulates',
-        description: 'A separate alleged in-game map image points to five Leonida counties and a larger view of the Keys and Grassrivers region. Rockstar has not authenticated the image, and locations may have changed since the reported build.',
-        source: 'https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vs4b54/because_videos_and_screenshots_of_the_latest/',
-        sourceLabel: 'Leak claims & discussion',
-        badge: 'Unverified leak',
-        unverified: true,
-        latest: true,
-    },
-];
+const sourceTypeLabel: Record<TimelineEvent['sourceType'], string> = {
+  official: 'First party',
+  storefront: 'Storefront',
+  filing: 'Filing',
+  press: 'Press',
+  community: 'Community',
+};
 
 const Timeline = () => {
     return (
         <div className="w-full max-w-4xl mx-auto mt-16 p-6 bg-black/30 backdrop-blur-md rounded-2xl border border-white/10 shadow-2xl">
             <div className="mb-10 text-center">
                 <p className="mb-3 text-xs font-mono uppercase tracking-[0.28em] text-yellow-300">
-                    Updated August 19, 2026
+                    Updated {formatTimestamp(updatedAt)}
                 </p>
                 <h2 className="text-3xl font-bold text-white uppercase tracking-widest drop-shadow-lg">
                     Development & News Timeline
@@ -86,14 +30,23 @@ const Timeline = () => {
                 <p className="mx-auto mt-4 max-w-2xl text-sm leading-relaxed text-gray-300">
                     Official updates and clearly labeled community reports. Rumors remain unconfirmed, and no leaked media is hosted here.
                 </p>
+                <p className="mx-auto mt-3 max-w-2xl text-xs font-mono text-gray-400">
+                    Storefront and first-party listings are polled automatically; every
+                    entry below was reviewed by a human before it was published.
+                    Last checked {formatTimestamp(lastCheckedAt)}.
+                </p>
             </div>
             <div className="relative border-l-4 border-yellow-500 ml-4 md:ml-10">
-                {events.map((event, index) => (
-                    <div key={index} className="mb-10 ml-8 relative">
+                {events.map((event) => {
+                    const unverified = isUnverified(event);
+                    const latest = isLatest(event);
+
+                    return (
+                    <div key={event.id} className="mb-10 ml-8 relative">
                         <div
                             className={`absolute -left-[45px] w-6 h-6 rounded-full border-4 border-black ${
-                                event.latest
-                                    ? event.unverified
+                                latest
+                                    ? unverified
                                         ? 'bg-white shadow-[0_0_22px_#f472b6] animate-pulse'
                                         : 'bg-white shadow-[0_0_22px_#facc15] animate-pulse'
                                     : 'bg-yellow-400'
@@ -101,24 +54,43 @@ const Timeline = () => {
                         />
                         <article
                             className={`p-6 rounded-lg border shadow-lg transition-all duration-300 hover:-translate-y-1 ${
-                                event.unverified
+                                unverified
                                     ? 'bg-pink-400/10 border-pink-300/50 hover:bg-pink-400/15'
-                                    : event.latest
+                                    : latest
                                       ? 'bg-yellow-400/15 border-yellow-300/70 hover:bg-yellow-400/20'
                                     : 'bg-white/10 border-white/10 hover:bg-white/20'
                             }`}
                         >
                             <div className="mb-2 flex flex-wrap items-center gap-3">
                                 <span className={`block text-sm font-mono uppercase tracking-wider ${
-                                    event.unverified ? 'text-pink-300' : 'text-yellow-300'
+                                    unverified ? 'text-pink-300' : 'text-yellow-300'
                                 }`}>
                                     {event.date}
                                 </span>
                                 {event.badge && (
                                     <span className={`rounded-full px-2.5 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-black ${
-                                        event.unverified ? 'bg-pink-300' : 'bg-yellow-300'
+                                        unverified ? 'bg-pink-300' : 'bg-yellow-300'
                                     }`}>
                                         {event.badge}
+                                    </span>
+                                )}
+                                <span className="rounded-full border border-white/25 px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.16em] text-gray-200">
+                                    {sourceTypeLabel[event.sourceType]}
+                                </span>
+                                {event.confidence < 1 && (
+                                    <span
+                                        className="rounded-full border border-white/15 px-2.5 py-1 font-mono text-[10px] uppercase tracking-[0.16em] text-gray-300"
+                                        title="How much weight this entry carries, from the source's measured track record."
+                                    >
+                                        confidence {Math.round(event.confidence * 100)}%
+                                    </span>
+                                )}
+                                {event.autoGenerated && (
+                                    <span
+                                        className="rounded-full border border-cyan-300/40 px-2.5 py-1 font-mono text-[10px] uppercase tracking-[0.16em] text-cyan-200"
+                                        title="Detected by the monitor, then reviewed and approved by a human."
+                                    >
+                                        auto-detected
                                     </span>
                                 )}
                             </div>
@@ -126,9 +98,15 @@ const Timeline = () => {
                             <p className="text-gray-200 leading-relaxed">
                                 {event.description}
                             </p>
+                            {event.corroborations.length > 0 && (
+                                <p className="mt-3 font-mono text-xs text-gray-400">
+                                    Corroborated by {event.corroborations.length} other{' '}
+                                    {event.corroborations.length === 1 ? 'entry' : 'entries'}.
+                                </p>
+                            )}
                             <a
                                 className={`mt-4 inline-flex items-center gap-2 text-sm font-semibold transition-colors hover:text-white focus-visible:outline-2 focus-visible:outline-offset-4 ${
-                                    event.unverified
+                                    unverified
                                         ? 'text-pink-300 focus-visible:outline-pink-300'
                                         : 'text-yellow-300 focus-visible:outline-yellow-300'
                                 }`}
@@ -141,8 +119,15 @@ const Timeline = () => {
                             </a>
                         </article>
                     </div>
-                ))}
+                    );
+                })}
             </div>
+            <p className="mt-2 text-center font-mono text-xs text-gray-500">
+                Machine-readable feed:{' '}
+                <a className="text-gray-400 underline hover:text-yellow-300" href="/api/events.json">
+                    /api/events.json
+                </a>
+            </p>
         </div>
     );
 };

@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# countdown.shiben.dev — release-signal monitor
 
-## Getting Started
+A countdown page that keeps itself current. Storefront listings and first-party
+channels are polled every 15 minutes; anything that moves is hashed, diffed and
+parked in a review queue. Nothing reaches the public timeline without a human
+approving it.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+GitHub Actions (*/15)
+  → poll sources
+  → hash, diff against the last snapshot
+  → queue candidates in data/pending.json
+  → human approves  →  data/events.json
+  → Vercel redeploys the static site
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The site itself stays static: every route is prerendered, the data files are
+bundled at build, and git history is the audit log — what was observed, when,
+and what a human did about it.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Layout
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Path | What it is |
+|---|---|
+| `sources/` | One file per source. Each exports `{ id, poll(), parse(raw) }`. |
+| `scripts/poll.ts` | The monitor loop: poll, diff, queue, notify. |
+| `scripts/approve.ts` | The manual gate. The only path to publication. |
+| `scripts/ledger.ts` | Credibility ledger — per-source accuracy over time. |
+| `scripts/notify.ts` | Discord / Telegram webhooks. |
+| `data/events.json` | The published timeline. |
+| `data/pending.json` | Awaiting review, plus a rejection list that suppresses re-queues. |
+| `data/snapshots.json` | Change-detection state. **Hashes only, never payloads.** |
+| `data/ledger.json` | Computed source scores. |
+| `data/target.json` | What is being counted down to. Drives the countdown. |
 
-## Learn More
+## Day-to-day
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run poll                # poll everything, queue what moved
+npm run poll -- --dry-run   # poll and report, write nothing
+npm run poll -- xbox-store  # poll one source
+npm run queue               # list what is awaiting review
+npm run queue -- show <id>  # full detail on one candidate
+npm run approve -- <id>     # publish it
+npm run queue -- reject <id> "why"
+npm run ledger -- --print   # source scorecard
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Approving accepts `--title=`, `--description=`, `--badge=`, `--confidence=` and
+`--provenance=` to rewrite an entry before it goes live.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Adding a source
 
-## Deploy on Vercel
+Drop a file in `sources/`, export a `Source`, register it in `sources/index.ts`,
+then run `npm run poll -- --baseline <id>` once. Baseline records what the source
+currently says without queueing it, so the queue starts at "no change since"
+rather than at every value the listing happens to hold today.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Nothing downstream knows what any source is watching, and every URL and id is
+overridable by environment variable (`MONITOR_<SOURCE_ID>_<KEY>`), so the whole
+pipeline can be repointed at another unannounced title after November 19.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Sources
+
+| id | type | what it catches |
+|---|---|---|
+| `xbox-store` | storefront | Release date, package size, editions, pricing, pre-order state, straight from the public Microsoft catalog API. Package size appearing is the earliest hard preload signal. |
+| `playstation-store` | storefront | Release date, price, platform and publisher fields off the product listing. |
+| `rockstar-youtube` | official | New uploads, at the second they go public. Shorts are collapsed into their full-length counterpart. |
+| `rockstar-site` | official | Dates and copy printed on the official site. |
+| `netflix-premiere` | official | Scheduled premiere timestamps. |
+| `press-coverage` | press | Outlet coverage, filtered to an allowlist of publications and to headlines that actually claim a shipping fact. |
+
+Deliberately absent: any scraper pointed at leak communities. Unverified material
+stays hand-curated.
+
+## Environment
+
+| Variable | Used for |
+|---|---|
+| `DISCORD_WEBHOOK_URL` | Alerts on new candidates. Optional. |
+| `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | Same, via Telegram. Optional. |
+| `NOTIFY_ON_APPROVE=1` | Also announce entries when they are published. |
+| `MONITOR_DISABLED_SOURCES` | Comma-separated ids to skip. |
+| `MONITOR_MAX_CANDIDATES` | Cap per source per poll. Default 10. |
+| `SITE_URL`, `NEXT_PUBLIC_SITE_URL` | Canonical URL for alerts and metadata. |
+
+Webhook secrets go in the repository's Actions secrets. `npm run notify:test`
+sends a single line to whatever is configured.
+
+## Public interfaces
+
+- `/api/events.json` — the timeline, the credibility ledger and the stated
+  provenance policy. Static, CORS-open.
+- `/llms.txt` — a plain-text brief for agents, written so a summariser cannot
+  flatten a rumour into a fact.
+
+## Editorial rules, enforced in code
+
+- Two provenance tags, `official` and `unverified leak`, on every entry, in the
+  page and in the feed.
+- No leaked media is hosted, and claims link to outlet coverage rather than to
+  the thread hosting the material.
+- Unverified entries are announced by webhook without their description and
+  without a link — the alert says a claim surfaced, not what it shows.
+- `press-coverage` drops headlines centred on named individuals.
+- No user-submitted input ships, so there is no 512(c) exposure to register a
+  DMCA agent against. That changes the day any submission form does.

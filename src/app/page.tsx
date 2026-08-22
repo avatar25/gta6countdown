@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import Confetti from 'react-confetti';
 import { useWindowSize } from 'react-use';
 import Timeline from './components/Timeline';
+import { target } from '@/lib/events';
 
 const backgrounds = [
   { src: "/image.png", alt: "GTA VI key art featuring Lucia and Jason" },
@@ -18,7 +19,8 @@ const backgrounds = [
 export default function Home() {
   // SIMULATION: Set target date to past to show fireworks
   //const targetDate = new Date().getTime() - 5000;
-  const targetDate = new Date('2026-11-19T00:00:00').getTime();
+  // Driven by data/target.json, which the storefront watchers keep honest.
+  const targetDate = new Date(target.releaseDate).getTime();
   const [timeLeft, setTimeLeft] = useState({
     days: 0,
     hours: 0,
@@ -96,13 +98,15 @@ export default function Home() {
             color: "#fff",
           }}
         >
-          {isReleased ? "GTA 6 IS HERE!" : "Countdown to GTA 6"}
+          {isReleased
+            ? `${target.shortName} IS HERE!`
+            : `Countdown to ${target.shortName}`}
         </h1>
         <div className="countdown-neon my-4 rounded-xl px-5 py-6 font-mono text-4xl font-extrabold tabular-nums md:px-8 md:text-7xl">
           {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
         </div>
         <p className="mt-8 text-yellow-200 text-lg md:text-2xl font-semibold drop-shadow bg-black/40 px-4 py-2 rounded-lg">
-          {isReleased ? "Out Now!" : "Coming 19th November, 2026"}
+          {isReleased ? "Out Now!" : `Coming ${target.releaseDateLabel}`}
         </p>
         <a
           className="mt-4 inline-flex items-center gap-2 rounded-full border border-white/30 bg-black/45 px-5 py-2.5 text-sm font-bold uppercase tracking-[0.16em] text-white backdrop-blur-md transition duration-300 hover:-translate-y-0.5 hover:border-yellow-300 hover:text-yellow-200 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-yellow-300"
