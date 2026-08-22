@@ -1,7 +1,29 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T15:41:25.780Z",
+  "updatedAt": "2026-08-22T18:15:47.665Z",
   "pending": [
+    {
+      "id": "netflix-premiere:schedule",
+      "sourceId": "netflix-premiere",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Netflix listing schedule reads 2026-08-06T12:00:00.000Z",
+      "description": "Scheduled timestamps published on the Netflix listing: 2026-08-06T12:00:00.000Z.",
+      "url": "https://www.netflix.com/GTAVI",
+      "sourceLabel": "Netflix listing",
+      "occurredAt": "2026-08-22T18:15:49.438Z",
+      "fields": {
+        "schedule": "2026-08-06T12:00:00.000Z"
+      },
+      "detectedAt": "2026-08-22T18:15:47.665Z",
+      "firstSeenAt": "2026-08-22T18:15:47.665Z",
+      "contentHash": "d4a04f25f08a11e8",
+      "timesSeen": 1,
+      "confidence": 0.9,
+      "corroborations": [
+        "netflix-premiere:listing"
+      ]
+    },
     {
       "id": "press-coverage:CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U",
       "sourceId": "press-coverage",
