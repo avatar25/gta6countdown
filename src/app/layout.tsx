@@ -18,7 +18,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://countdown.shiben.de
 
 const description =
   "An automatically updated countdown and release-signal monitor for Grand Theft Auto VI. " +
-  "Storefront listings and first-party channels are polled every 15 minutes; every published " +
+  "Storefront listings and first-party channels are polled every six hours; every published " +
   "entry is reviewed by a human and tagged official or unverified. No leaked media is hosted here.";
 
 export const metadata: Metadata = {

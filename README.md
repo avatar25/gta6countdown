@@ -1,12 +1,12 @@
 # countdown.shiben.dev — release-signal monitor
 
 A countdown page that keeps itself current. Storefront listings and first-party
-channels are polled every 15 minutes; anything that moves is hashed, diffed and
+channels are polled every six hours; anything that moves is hashed, diffed and
 parked in a review queue. Nothing reaches the public timeline without a human
 approving it.
 
 ```
-GitHub Actions (*/15)
+GitHub Actions (every 6h)
   → poll sources
   → hash, diff against the last snapshot
   → queue candidates in data/pending.json

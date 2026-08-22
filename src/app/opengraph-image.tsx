@@ -62,8 +62,8 @@ export default function OpengraphImage() {
             color: '#a5b4fc',
           }}
         >
-          {official} first-party updates tracked · storefronts polled every 15
-          minutes · nothing published without review
+          {official} first-party updates tracked · storefronts polled every six
+          hours · nothing published without review
         </div>
       </div>
     ),

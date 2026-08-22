@@ -27,7 +27,7 @@ Last published change: ${formatTimestamp(updatedAt)}
 
 - Storefront listings (Microsoft Store, PlayStation Store) and first-party
   channels (official site, publisher YouTube, streaming listing) are polled
-  every 15 minutes by a scheduled job.
+  every six hours by a scheduled job.
 - Changes are hashed and diffed against the previous snapshot. A change becomes
   a candidate, and every candidate waits in a queue for manual approval.
 - Nothing reaches this page automatically. Entries detected by the monitor are
