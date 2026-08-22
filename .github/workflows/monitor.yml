@@ -1,13 +1,13 @@
 name: monitor
 
-# Vercel's hobby tier caps cron at once a day, which is useless for monitoring,
-# so the schedule lives here. The job commits to data/, Vercel picks the commit
+# Vercel's hobby tier caps cron at once a day, which is too coarse even for a
+# six-hourly check, so the schedule lives here. The job commits to data/, Vercel picks the commit
 # up and redeploys, and git history doubles as the audit log: what was observed,
 # when, and what a human did about it.
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
     inputs:
       mode:

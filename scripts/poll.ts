@@ -1,5 +1,5 @@
 /**
- * The monitor loop, run from GitHub Actions every 15 minutes.
+ * The monitor loop, run from GitHub Actions every six hours.
  *
  *   poll sources -> hash -> diff against the last snapshot -> queue candidates
  *
