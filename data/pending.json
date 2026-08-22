@@ -1,6 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T15:19:20.260Z",
-  "pending": [],
+  "updatedAt": "2026-08-22T15:41:25.780Z",
+  "pending": [
+    {
+      "id": "press-coverage:CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos",
+      "description": "Engadget published: \"GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos - Engadget\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U?oc=5",
+      "sourceLabel": "Engadget",
+      "occurredAt": "2026-08-18T20:29:54.000Z",
+      "fields": {
+        "outlet": "Engadget",
+        "headline": "GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos - Engadget"
+      },
+      "detectedAt": "2026-08-22T15:41:25.780Z",
+      "firstSeenAt": "2026-08-22T15:41:25.780Z",
+      "contentHash": "89764a079f2fd8ff",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    }
+  ],
   "rejected": []
 }
