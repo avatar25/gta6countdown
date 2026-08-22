@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T15:41:29.635Z",
+  "updatedAt": "2026-08-22T16:00:55.313Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
       "sourceType": "official",
       "candidates": 0,
-      "approved": 9,
+      "approved": 12,
       "rejected": 0,
       "pending": 0,
-      "corroborated": 2,
+      "corroborated": 5,
       "approvalRate": 1,
-      "score": 0.85,
+      "score": 0.88,
       "meanLeadHours": null,
-      "lastApprovedAt": "2026-08-19T00:00:00.000Z",
+      "lastApprovedAt": "2026-08-22T00:00:00.000Z",
       "polls": 0,
       "errors": 0,
       "uptime": null
