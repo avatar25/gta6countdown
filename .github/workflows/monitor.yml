@@ -1,0 +1,80 @@
+name: monitor
+
+# Vercel's hobby tier caps cron at once a day, which is useless for monitoring,
+# so the schedule lives here. The job commits to data/, Vercel picks the commit
+# up and redeploys, and git history doubles as the audit log: what was observed,
+# when, and what a human did about it.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'poll (queue changes) or baseline (record without queueing)'
+        type: choice
+        options: [poll, baseline]
+        default: poll
+      sources:
+        description: 'Space-separated source ids, blank for all'
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+# Overlapping runs would race on data/*.json.
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Poll sources
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: https://countdown.shiben.dev
+        run: |
+          npm run poll -- \
+            ${{ github.event.inputs.mode == 'baseline' && '--baseline' || '' }} \
+            ${{ github.event.inputs.sources }}
+
+      - name: Recompute the credibility ledger
+        run: npm run ledger
+
+      - name: Commit any movement
+        run: |
+          if git diff --quiet -- data; then
+            echo "no change"
+            exit 0
+          fi
+
+          queued=$(node -p "require('./data/pending.json').pending.length")
+
+          git config user.name  "release-signal-monitor[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "monitor: snapshot update (${queued} awaiting review)"
+
+          # A 15-minute schedule will occasionally collide with a human push.
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+              git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          exit 1

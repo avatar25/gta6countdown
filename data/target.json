@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "Grand Theft Auto VI",
+  "shortName": "GTA 6",
+  "releaseDate": "2026-11-19T00:00:00",
+  "releaseDateLabel": "19th November, 2026",
+  "preloadDate": "2026-11-12",
+  "platforms": ["PlayStation 5", "Xbox Series X|S"],
+  "confirmedBy": "official",
+  "storefrontReleaseDates": {
+    "xbox-store": "2026-11-19T05:00:00Z",
+    "playstation-store": "2026-11-19T05:00:00Z"
+  }
+}
