@@ -34,9 +34,12 @@ const parsedSnapshots = snapshotsFile as unknown as SnapshotFile;
 
 export const target = targetFile as unknown as Target;
 
-/** Oldest first — the order the timeline has always read in. */
+/**
+ * Newest first. A reader arriving cold should land on what just happened,
+ * not scroll through four years of history to reach it.
+ */
 export const events: TimelineEvent[] = [...parsedEvents.events].sort((a, b) =>
-  a.occurredAt.localeCompare(b.occurredAt),
+  b.occurredAt.localeCompare(a.occurredAt),
 );
 
 /** When the published timeline last changed. */
@@ -49,7 +52,7 @@ export const lastCheckedAt: string = parsedSnapshots.updatedAt;
  * The newest day on the timeline. Everything sharing that day is highlighted,
  * which replaces the hand-maintained `latest: true` flags.
  */
-const newestDay = events.at(-1)?.occurredAt.slice(0, 10) ?? '';
+const newestDay = events[0]?.occurredAt.slice(0, 10) ?? '';
 
 export function isLatest(event: TimelineEvent): boolean {
   return event.occurredAt.slice(0, 10) === newestDay;
