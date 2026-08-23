@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Confetti from 'react-confetti';
 import { useWindowSize } from 'react-use';
 import Timeline from './components/Timeline';
@@ -15,6 +15,13 @@ const backgrounds = [
   { src: "/screenshots/VINTAGE_VICE_CITY_PACK_01.jpg", alt: "GTA VI Vintage Vice City Pack screenshot" },
   { src: "/screenshots/VINTAGE_VICE_CITY_PACK_02.jpg", alt: "GTA VI Vintage Vice City Pack screenshot" },
 ];
+
+function roundedRectPath(x0: number, y0: number, width: number, height: number, radius: number) {
+  const r = Math.min(radius, width / 2, height / 2);
+  const x1 = x0 + width;
+  const y1 = y0 + height;
+  return `M${x0 + r},${y0} H${x1 - r} A${r},${r} 0 0 1 ${x1},${y0 + r} V${y1 - r} A${r},${r} 0 0 1 ${x1 - r},${y1} H${x0 + r} A${r},${r} 0 0 1 ${x0},${y1 - r} V${y0 + r} A${r},${r} 0 0 1 ${x0 + r},${y0} Z`;
+}
 
 export default function Home() {
   // SIMULATION: Set target date to past to show fireworks
@@ -31,6 +38,34 @@ export default function Home() {
   const { width, height } = useWindowSize();
   const [isClient, setIsClient] = useState(false);
   const [backgroundIndex, setBackgroundIndex] = useState(0);
+  const neonBoxRef = useRef<HTMLDivElement>(null);
+  const [neonSize, setNeonSize] = useState({ width: 0, height: 0 });
+
+  useEffect(() => {
+    const el = neonBoxRef.current;
+    if (!el) return;
+
+    // The bulb ring is drawn by .countdown-neon::before at inset -10px, so it is
+    // laid out against the PADDING box. contentRect would exclude the padding and
+    // leave the tracer far inside the bulbs, so derive the padding box instead.
+    // clientWidth/clientHeight are the padding box, and unlike getBoundingClientRect
+    // they ignore CSS transforms — so the viewBox always matches the CSS-driven size.
+    const measure = () => {
+      setNeonSize({ width: el.clientWidth, height: el.clientHeight });
+    };
+
+    // Measure up front: ResizeObserver only delivers during a rendering step, so a
+    // tab that starts hidden would otherwise render the box with no tracer at all.
+    measure();
+
+    const observer = new ResizeObserver(measure);
+    observer.observe(el);
+
+    // Font swaps resize the box without a layout change the observer reports first.
+    document.fonts?.ready.then(measure).catch(() => {});
+
+    return () => observer.disconnect();
+  }, []);
 
   useEffect(() => {
     setIsClient(true);
@@ -102,7 +137,34 @@ export default function Home() {
             ? `${target.shortName} IS HERE!`
             : `Countdown to ${target.shortName}`}
         </h1>
-        <div className="countdown-neon my-4 rounded-xl px-5 py-6 font-mono text-4xl font-extrabold tabular-nums md:px-8 md:text-7xl">
+        <div
+          ref={neonBoxRef}
+          className="countdown-neon my-4 rounded-xl px-5 py-6 font-mono text-4xl font-extrabold tabular-nums md:px-8 md:text-7xl"
+        >
+          {neonSize.width > 0 && neonSize.height > 0 && (() => {
+            const trackWidth = neonSize.width + 20;
+            const trackHeight = neonSize.height + 20;
+            const bulbInset = 4;
+            const d = roundedRectPath(
+              bulbInset,
+              bulbInset,
+              trackWidth - bulbInset * 2,
+              trackHeight - bulbInset * 2,
+              0
+            );
+            return (
+              <svg
+                className="countdown-neon-track"
+                viewBox={`0 0 ${trackWidth} ${trackHeight}`}
+                preserveAspectRatio="none"
+                aria-hidden="true"
+              >
+                <path className="neon-track-tail" d={d} pathLength={100} strokeDasharray="6 94" />
+                <path className="neon-track-core" d={d} pathLength={100} strokeDasharray="6 94" />
+                <path className="neon-track-lead" d={d} pathLength={100} strokeDasharray="6 94" />
+              </svg>
+            );
+          })()}
           {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
         </div>
         <p className="mt-8 text-yellow-200 text-lg md:text-2xl font-semibold drop-shadow bg-black/40 px-4 py-2 rounded-lg">
