@@ -1,0 +1,24 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#2a0a24"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="55%" stop-color="#fff8d6"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#bg)"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="#67e8f9" stroke-width="2" opacity="0.9"/>
+
+  <circle cx="32" cy="34" r="15" fill="url(#sun)"/>
+  <rect x="8" y="34" width="48" height="24" fill="url(#bg)"/>
+  <line x1="8" y1="38" x2="56" y2="38" stroke="#f472b6" stroke-width="2" opacity="0.85"/>
+  <line x1="8" y1="44" x2="56" y2="44" stroke="#f472b6" stroke-width="2" opacity="0.6"/>
+  <line x1="8" y1="50" x2="56" y2="50" stroke="#f472b6" stroke-width="2" opacity="0.4"/>
+
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="#67e8f9" stroke-width="1.5" opacity="0.6"/>
+</svg>

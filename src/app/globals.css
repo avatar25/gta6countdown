@@ -72,44 +72,50 @@ body {
   pointer-events: none;
 }
 
-.countdown-neon::after {
-  --neon-tracer-angle: 0deg;
+/* Sized to match .countdown-neon::before exactly: the bulb ring is an absolutely
+   positioned box at inset -10px, so it spans the padding box grown by 10px on
+   every side. Explicit width/height are required — with them left to auto the SVG
+   falls back to its intrinsic aspect ratio instead of stretching. */
+.countdown-neon-track {
   position: absolute;
-  inset: -10px;
-  padding: 5px;
-  border-radius: 1rem;
-  background: conic-gradient(
-    from var(--neon-tracer-angle),
-    transparent 0deg 334deg,
-    #67e8f9 339deg,
-    #ffffff 345deg,
-    #f472b6 351deg,
-    transparent 356deg 360deg
-  );
-  -webkit-mask:
-    linear-gradient(#000 0 0) content-box,
-    linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-  mask:
-    linear-gradient(#000 0 0) content-box,
-    linear-gradient(#000 0 0);
-  mask-composite: exclude;
-  content: "";
-  filter: blur(1px) drop-shadow(0 0 9px rgba(255, 255, 255, 0.95));
-  mix-blend-mode: screen;
+  left: -10px;
+  top: -10px;
+  width: calc(100% + 20px);
+  height: calc(100% + 20px);
+  overflow: visible;
   pointer-events: none;
+  mix-blend-mode: screen;
+}
+
+.countdown-neon-track path {
+  fill: none;
+  stroke-linecap: round;
   animation: neon-border-run 2.4s linear infinite;
 }
 
-@property --neon-tracer-angle {
-  syntax: "<angle>";
-  inherits: false;
-  initial-value: 0deg;
+.countdown-neon-track path.neon-track-core {
+  stroke: #ffffff;
+  stroke-width: 3;
+  filter: blur(1px) drop-shadow(0 0 9px rgba(255, 255, 255, 0.95));
+}
+
+.countdown-neon-track path.neon-track-lead {
+  stroke: #f472b6;
+  stroke-width: 2.5;
+  opacity: 0.85;
+  animation-delay: -0.07s;
+}
+
+.countdown-neon-track path.neon-track-tail {
+  stroke: #67e8f9;
+  stroke-width: 2.5;
+  opacity: 0.85;
+  animation-delay: 0.07s;
 }
 
 @keyframes neon-border-run {
   to {
-    --neon-tracer-angle: 1turn;
+    stroke-dashoffset: -100;
   }
 }
 
@@ -123,8 +129,7 @@ body {
     transform: none;
   }
 
-  .countdown-neon::after {
+  .countdown-neon-track path {
     animation: none;
-    --neon-tracer-angle: 135deg;
   }
 }
