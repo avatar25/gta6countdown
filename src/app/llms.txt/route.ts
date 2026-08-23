@@ -8,8 +8,8 @@ import { events, formatTimestamp, target, updatedAt } from '@/lib/events';
 export const dynamic = 'force-static';
 
 export function GET(): Response {
-  const recent = [...events]
-    .reverse()
+  // `events` is already newest-first.
+  const recent = events
     .slice(0, 12)
     .map(
       (event) =>
