@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T12:27:50.981Z",
+  "updatedAt": "2026-08-24T18:25:36.499Z",
   "pending": [
     {
       "id": "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs",
@@ -8,18 +8,18 @@
       "sourceType": "press",
       "provenance": "official",
       "title": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers",
-      "description": "Bloomberg published: \"Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "description": "Bloomberg.com published: \"Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg.com\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs?oc=5",
-      "sourceLabel": "Bloomberg",
+      "sourceLabel": "Bloomberg.com",
       "occurredAt": "2026-08-07T07:00:00.000Z",
       "fields": {
-        "outlet": "Bloomberg",
-        "headline": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg"
+        "outlet": "Bloomberg.com",
+        "headline": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg.com"
       },
-      "detectedAt": "2026-08-24T06:36:50.792Z",
+      "detectedAt": "2026-08-24T18:25:36.499Z",
       "firstSeenAt": "2026-08-24T06:36:50.792Z",
-      "contentHash": "20de6c9b623e90e6",
-      "timesSeen": 1,
+      "contentHash": "98bf02011cf54b92",
+      "timesSeen": 2,
       "confidence": 0.6,
       "corroborations": []
     },
