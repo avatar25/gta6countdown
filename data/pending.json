@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T18:25:05.474Z",
+  "updatedAt": "2026-08-26T00:42:04.570Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers",
+      "description": "Bloomberg.com published: \"Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg.com\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs?oc=5",
+      "sourceLabel": "Bloomberg.com",
+      "occurredAt": "2026-08-07T07:00:00.000Z",
+      "fields": {
+        "outlet": "Bloomberg.com",
+        "headline": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg.com"
+      },
+      "detectedAt": "2026-08-26T00:42:04.570Z",
+      "firstSeenAt": "2026-08-24T06:36:50.792Z",
+      "contentHash": "98bf02011cf54b92",
+      "timesSeen": 4,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMimwFBVV95cUxQU3o0dFluYXdCbElLV1VLQTA2WV9VNnJ6UHZlUWtvdDRjLTlHMUhvNlcwSU9EcmFETkh6WS1wcEwySzBoQWtrUDNaZmtyZ0oxdlhKcVpSYVBFN1E2VHE5MFhpa0didE9CVmhQM3pmaE0zdXh1cldvdFc4bTNlUUN5MXRZSjVoNXd0a3U1eV9aTUtLMndhZDlncjl3MA",
       "sourceId": "press-coverage",
@@ -20,27 +41,6 @@
       "firstSeenAt": "2026-08-25T18:25:05.474Z",
       "contentHash": "771f353af80a21fa",
       "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers",
-      "description": "Bloomberg published: \"Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs?oc=5",
-      "sourceLabel": "Bloomberg",
-      "occurredAt": "2026-08-07T07:00:00.000Z",
-      "fields": {
-        "outlet": "Bloomberg",
-        "headline": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg"
-      },
-      "detectedAt": "2026-08-25T00:41:07.943Z",
-      "firstSeenAt": "2026-08-24T06:36:50.792Z",
-      "contentHash": "20de6c9b623e90e6",
-      "timesSeen": 3,
       "confidence": 0.6,
       "corroborations": []
     },
