@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T05:47:40.686Z",
+  "updatedAt": "2026-08-27T17:06:05.120Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiggJBVV95cUxQOFliTFAyQ0V0Q21BZUtKOTZpazlKREEyS2tHOC1kZENucnJIQTFJemtHY3BfZkpGMGRzOS1vWGFKSnB5TktYS2VOcXpNemxreEV6TEdQYjMycmg1dVkwdWhWR2Ftby1YaXh0RmN2MjBJSS10VU9fdV81clpGQ2NmSE1TNGRrdENVSlVOem1fWWw4aDB1Mk9WNGJrMnltdUFEaXFrQlhraWktSTFaMVpkbEFxdW1QdVZySW9iSXV3UXN2dGVXb3FnU1FINVRBbVhZZ3hubk5vQUlyeE9HNFhxX2dOb0Z5YUlWNzlqTDFTS1FoMWpxZVJsWHI1MHdMamtPNXc",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us",
+      "description": "Rock Paper Shotgun published: \"GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us - Rock Paper Shotgun\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry g…",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOFliTFAyQ0V0Q21BZUtKOTZpazlKREEyS2tHOC1kZENucnJIQTFJemtHY3BfZkpGMGRzOS1vWGFKSnB5TktYS2VOcXpNemxreEV6TEdQYjMycmg1dVkwdWhWR2Ftby1YaXh0RmN2MjBJSS10VU9fdV81clpGQ2NmSE1TNGRrdENVSlVOem1fWWw4aDB1Mk9WNGJrMnltdUFEaXFrQlhraWktSTFaMVpkbEFxdW1QdVZySW9iSXV3UXN2dGVXb3FnU1FINVRBbVhZZ3hubk5vQUlyeE9HNFhxX2dOb0Z5YUlWNzlqTDFTS1FoMWpxZVJsWHI1MHdMamtPNXc?oc=5",
+      "sourceLabel": "Rock Paper Shotgun",
+      "occurredAt": "2026-08-27T08:51:45.000Z",
+      "fields": {
+        "outlet": "Rock Paper Shotgun",
+        "headline": "GTA 6 life simulation elements confirmed: thank god, we can turn the offensively hot Jason and Lucia into exhausted slobs like the rest of us - Rock Paper Shotgun"
+      },
+      "detectedAt": "2026-08-27T17:06:05.120Z",
+      "firstSeenAt": "2026-08-27T17:06:05.120Z",
+      "contentHash": "1a7a7c69ffecb53a",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs",
       "sourceId": "press-coverage",
