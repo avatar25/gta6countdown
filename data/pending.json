@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T01:54:51.279Z",
+  "updatedAt": "2026-08-28T17:53:43.195Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More",
+      "description": "IGN published: \"What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-08-28T12:38:56.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More - IGN"
+      },
+      "detectedAt": "2026-08-28T17:53:43.195Z",
+      "firstSeenAt": "2026-08-28T17:53:43.195Z",
+      "contentHash": "2261bb9d6e763325",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "netflix-premiere:schedule",
       "sourceId": "netflix-premiere",
