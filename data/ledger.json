@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T17:06:14.328Z",
+  "updatedAt": "2026-08-28T01:54:54.419Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
@@ -24,13 +24,13 @@
       "candidates": 2,
       "approved": 0,
       "rejected": 0,
-      "pending": 1,
+      "pending": 2,
       "corroborated": 0,
       "approvalRate": null,
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 23,
+      "polls": 24,
       "errors": 0,
       "uptime": 1
     },
@@ -46,7 +46,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 23,
+      "polls": 24,
       "errors": 0,
       "uptime": 1
     },
@@ -62,7 +62,7 @@
       "score": 0.6,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 23,
+      "polls": 24,
       "errors": 0,
       "uptime": 1
     },
@@ -72,31 +72,31 @@
       "candidates": 2,
       "approved": 0,
       "rejected": 0,
-      "pending": 0,
+      "pending": 1,
       "corroborated": 0,
       "approvalRate": null,
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 23,
+      "polls": 24,
       "errors": 0,
       "uptime": 1
     },
     "rockstar-youtube": {
       "sourceId": "rockstar-youtube",
       "sourceType": "official",
-      "candidates": 8,
+      "candidates": 15,
       "approved": 0,
       "rejected": 0,
-      "pending": 0,
+      "pending": 7,
       "corroborated": 0,
       "approvalRate": null,
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 23,
+      "polls": 24,
       "errors": 2,
-      "uptime": 0.91
+      "uptime": 0.92
     },
     "xbox-store": {
       "sourceId": "xbox-store",
@@ -110,7 +110,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 23,
+      "polls": 24,
       "errors": 0,
       "uptime": 1
     }

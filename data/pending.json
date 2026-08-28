@@ -1,7 +1,270 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T17:06:05.120Z",
+  "updatedAt": "2026-08-28T01:54:51.279Z",
   "pending": [
+    {
+      "id": "netflix-premiere:schedule",
+      "sourceId": "netflix-premiere",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Netflix listing schedule reads 2026-08-27T19:00:00.000Z",
+      "description": "Scheduled timestamps published on the Netflix listing: 2026-08-27T19:00:00.000Z.",
+      "url": "https://www.netflix.com/GTAVI",
+      "sourceLabel": "Netflix listing",
+      "occurredAt": "2026-08-28T01:54:53.309Z",
+      "fields": {
+        "schedule": "2026-08-27T19:00:00.000Z"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-22T18:15:47.665Z",
+      "contentHash": "4e07bf70602dbd43",
+      "timesSeen": 2,
+      "confidence": 0.9,
+      "corroborations": [
+        "netflix-premiere:listing"
+      ]
+    },
+    {
+      "id": "rockstar-youtube:yt:video:MJOrsRRa9GM",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "description": "#GrandTheftAutoVI #GTAVI",
+      "url": "https://www.youtube.com/shorts/MJOrsRRa9GM",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-08-28T01:01:30.000Z",
+      "fields": {
+        "videoId": "yt:video:MJOrsRRa9GM",
+        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "3dc0f8e5bbb4969a",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-youtube:yt:video:53C6gUqRpK4",
+        "rockstar-youtube:yt:video:mAfR_ybf5WM",
+        "rockstar-youtube:yt:video:L-9NI3mHZVo",
+        "rockstar-youtube:yt:video:GVTE_MuInQg",
+        "rockstar-youtube:yt:video:Xzxv75FjMJk",
+        "rockstar-youtube:yt:video:tJbzMqJGH4k"
+      ]
+    },
+    {
+      "id": "rockstar-youtube:yt:video:53C6gUqRpK4",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "description": "#GrandTheftAutoVI #GTAVI",
+      "url": "https://www.youtube.com/shorts/53C6gUqRpK4",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-08-28T01:01:28.000Z",
+      "fields": {
+        "videoId": "yt:video:53C6gUqRpK4",
+        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "e8213b09c0b8f2b7",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-youtube:yt:video:MJOrsRRa9GM",
+        "rockstar-youtube:yt:video:mAfR_ybf5WM",
+        "rockstar-youtube:yt:video:L-9NI3mHZVo",
+        "rockstar-youtube:yt:video:GVTE_MuInQg",
+        "rockstar-youtube:yt:video:Xzxv75FjMJk",
+        "rockstar-youtube:yt:video:tJbzMqJGH4k"
+      ]
+    },
+    {
+      "id": "rockstar-youtube:yt:video:mAfR_ybf5WM",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "description": "#GrandTheftAutoVI #GTAVI",
+      "url": "https://www.youtube.com/shorts/mAfR_ybf5WM",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-08-28T01:01:24.000Z",
+      "fields": {
+        "videoId": "yt:video:mAfR_ybf5WM",
+        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "2643957d351d31ef",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-youtube:yt:video:MJOrsRRa9GM",
+        "rockstar-youtube:yt:video:53C6gUqRpK4",
+        "rockstar-youtube:yt:video:L-9NI3mHZVo",
+        "rockstar-youtube:yt:video:GVTE_MuInQg",
+        "rockstar-youtube:yt:video:Xzxv75FjMJk",
+        "rockstar-youtube:yt:video:tJbzMqJGH4k"
+      ]
+    },
+    {
+      "id": "rockstar-youtube:yt:video:L-9NI3mHZVo",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "description": "#GrandTheftAutoVI #GTAVI",
+      "url": "https://www.youtube.com/shorts/L-9NI3mHZVo",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-08-28T01:01:21.000Z",
+      "fields": {
+        "videoId": "yt:video:L-9NI3mHZVo",
+        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "723d5be38dbe31b9",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-youtube:yt:video:MJOrsRRa9GM",
+        "rockstar-youtube:yt:video:53C6gUqRpK4",
+        "rockstar-youtube:yt:video:mAfR_ybf5WM",
+        "rockstar-youtube:yt:video:GVTE_MuInQg",
+        "rockstar-youtube:yt:video:Xzxv75FjMJk",
+        "rockstar-youtube:yt:video:tJbzMqJGH4k"
+      ]
+    },
+    {
+      "id": "rockstar-youtube:yt:video:GVTE_MuInQg",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "description": "#GrandTheftAutoVI #GTAVI",
+      "url": "https://www.youtube.com/shorts/GVTE_MuInQg",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-08-28T01:01:18.000Z",
+      "fields": {
+        "videoId": "yt:video:GVTE_MuInQg",
+        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "35d1a9ef69638aa0",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-youtube:yt:video:MJOrsRRa9GM",
+        "rockstar-youtube:yt:video:53C6gUqRpK4",
+        "rockstar-youtube:yt:video:mAfR_ybf5WM",
+        "rockstar-youtube:yt:video:L-9NI3mHZVo",
+        "rockstar-youtube:yt:video:Xzxv75FjMJk",
+        "rockstar-youtube:yt:video:tJbzMqJGH4k"
+      ]
+    },
+    {
+      "id": "rockstar-youtube:yt:video:Xzxv75FjMJk",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "description": "#GrandTheftAutoVI #GTAVI",
+      "url": "https://www.youtube.com/shorts/Xzxv75FjMJk",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-08-28T01:01:15.000Z",
+      "fields": {
+        "videoId": "yt:video:Xzxv75FjMJk",
+        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "4744834bd85066e7",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-youtube:yt:video:MJOrsRRa9GM",
+        "rockstar-youtube:yt:video:53C6gUqRpK4",
+        "rockstar-youtube:yt:video:mAfR_ybf5WM",
+        "rockstar-youtube:yt:video:L-9NI3mHZVo",
+        "rockstar-youtube:yt:video:GVTE_MuInQg",
+        "rockstar-youtube:yt:video:tJbzMqJGH4k"
+      ]
+    },
+    {
+      "id": "rockstar-youtube:yt:video:tJbzMqJGH4k",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look",
+      "description": "Captured entirely from in-game footage on PlayStation 5, this extended look at the next Grand Theft Auto showcases the biggest, most immersive evolution of the series yet. Grand Theft Auto VI plays best on PlayStation 5. Coming November 19.",
+      "url": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-08-28T01:00:48.000Z",
+      "fields": {
+        "videoId": "yt:video:tJbzMqJGH4k",
+        "title": "Grand Theft Auto VI: An Extended Look"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "853d68f55f42c1a9",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-youtube:yt:video:MJOrsRRa9GM",
+        "rockstar-youtube:yt:video:53C6gUqRpK4",
+        "rockstar-youtube:yt:video:mAfR_ybf5WM",
+        "rockstar-youtube:yt:video:L-9NI3mHZVo",
+        "rockstar-youtube:yt:video:GVTE_MuInQg",
+        "rockstar-youtube:yt:video:Xzxv75FjMJk"
+      ]
+    },
+    {
+      "id": "rockstar-site:stated-dates",
+      "sourceId": "rockstar-site",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, June 24, 2026, May 6, 2025, November 19, 2026, November 6, 2025",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, June 24, 2026, May 6, 2025, November 19, 2026, November 6, 2025. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "url": "https://www.rockstargames.com/VI",
+      "sourceLabel": "Official site",
+      "occurredAt": "2026-08-28T01:54:52.114Z",
+      "fields": {
+        "dates": "August 27, 2026|December 4, 2023|June 24, 2026|May 6, 2025|November 19, 2026|November 6, 2025"
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "6edf932cd14c066f",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-site:page-copy"
+      ]
+    },
+    {
+      "id": "netflix-premiere:listing",
+      "sourceId": "netflix-premiere",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Netflix listing copy changed",
+      "description": "The Netflix listing now reads \"Watch Grand Theft Auto VI: An Extended Look | Netflix\": See the next evolution in the groundbreaking Grand Theft Auto series. Coming November 19 to PlayStation 5 and XBOX Series X|S.",
+      "url": "https://www.netflix.com/GTAVI",
+      "sourceLabel": "Netflix listing",
+      "occurredAt": "2026-08-28T01:54:53.309Z",
+      "fields": {
+        "title": "Watch Grand Theft Auto VI: An Extended Look | Netflix",
+        "description": "See the next evolution in the groundbreaking Grand Theft Auto series. Coming November 19 to PlayStation 5 and XBOX Series X|S."
+      },
+      "detectedAt": "2026-08-28T01:54:51.279Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "f63d6d1286f59e4d",
+      "timesSeen": 1,
+      "confidence": 0.9,
+      "corroborations": [
+        "netflix-premiere:schedule"
+      ]
+    },
     {
       "id": "press-coverage:CBMiggJBVV95cUxQOFliTFAyQ0V0Q21BZUtKOTZpazlKREEyS2tHOC1kZENucnJIQTFJemtHY3BfZkpGMGRzOS1vWGFKSnB5TktYS2VOcXpNemxreEV6TEdQYjMycmg1dVkwdWhWR2Ftby1YaXh0RmN2MjBJSS10VU9fdV81clpGQ2NmSE1TNGRrdENVSlVOem1fWWw4aDB1Mk9WNGJrMnltdUFEaXFrQlhraWktSTFaMVpkbEFxdW1QdVZySW9iSXV3UXN2dGVXb3FnU1FINVRBbVhZZ3hubk5vQUlyeE9HNFhxX2dOb0Z5YUlWNzlqTDFTS1FoMWpxZVJsWHI1MHdMamtPNXc",
       "sourceId": "press-coverage",
@@ -64,28 +327,6 @@
       "timesSeen": 1,
       "confidence": 0.6,
       "corroborations": []
-    },
-    {
-      "id": "netflix-premiere:schedule",
-      "sourceId": "netflix-premiere",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Netflix listing schedule reads 2026-08-06T12:00:00.000Z",
-      "description": "Scheduled timestamps published on the Netflix listing: 2026-08-06T12:00:00.000Z.",
-      "url": "https://www.netflix.com/GTAVI",
-      "sourceLabel": "Netflix listing",
-      "occurredAt": "2026-08-22T18:15:49.438Z",
-      "fields": {
-        "schedule": "2026-08-06T12:00:00.000Z"
-      },
-      "detectedAt": "2026-08-22T18:15:47.665Z",
-      "firstSeenAt": "2026-08-22T18:15:47.665Z",
-      "contentHash": "d4a04f25f08a11e8",
-      "timesSeen": 1,
-      "confidence": 0.9,
-      "corroborations": [
-        "netflix-premiere:listing"
-      ]
     },
     {
       "id": "press-coverage:CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U",
