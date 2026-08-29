@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T17:53:43.195Z",
+  "updatedAt": "2026-08-29T01:19:13.393Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMipwFBVV95cUxPQjM3ZmgwQ21IaVlNZjB1MUJBWHRIQ1pKNHdhZEtQNWp4NUk1MUVqaENydHBCUnE2eGg5Y0pzaXlVX0R1bG4zZzlmNkdselV5QjVmRmRTdWdMTTE3WVBSaEVsOTZzamdyZW9jTEpMZ0liclUzczRKOFRKQUFDTGltNWNPT3NaVFBReEZJcGFNZDNZMmluVzBJQmYxbV9ON29CY2NvNDNEcw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6: With 30FPS Seemingly Confirmed, Is 60FPS Actually Realistic?",
+      "description": "Digital Foundry published: \"GTA 6: With 30FPS Seemingly Confirmed, Is 60FPS Actually Realistic? - Digital Foundry\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjM3ZmgwQ21IaVlNZjB1MUJBWHRIQ1pKNHdhZEtQNWp4NUk1MUVqaENydHBCUnE2eGg5Y0pzaXlVX0R1bG4zZzlmNkdselV5QjVmRmRTdWdMTTE3WVBSaEVsOTZzamdyZW9jTEpMZ0liclUzczRKOFRKQUFDTGltNWNPT3NaVFBReEZJcGFNZDNZMmluVzBJQmYxbV9ON29CY2NvNDNEcw?oc=5",
+      "sourceLabel": "Digital Foundry",
+      "occurredAt": "2026-08-28T18:30:00.000Z",
+      "fields": {
+        "outlet": "Digital Foundry",
+        "headline": "GTA 6: With 30FPS Seemingly Confirmed, Is 60FPS Actually Realistic? - Digital Foundry"
+      },
+      "detectedAt": "2026-08-29T01:19:13.393Z",
+      "firstSeenAt": "2026-08-29T01:19:13.393Z",
+      "contentHash": "441bd2e320300b34",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw"
+      ]
+    },
     {
       "id": "press-coverage:CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw",
       "sourceId": "press-coverage",
