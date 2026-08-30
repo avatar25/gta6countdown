@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T10:55:15.999Z",
+  "updatedAt": "2026-08-30T15:43:23.830Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMisAFBVV95cUxNVXowdmVuUWRDQ2ptTGd3YW1pZk5rYzE0Q3ZGbS1ib1M3a0Y5eklYbTN0UDZJOHA4VUZiMmFJMzBiSGoyMU5KZzJWZjhIUGk5Y0FlSXVlWXpmOTVLV185Qi0yRnFoNlRpV0lyVHVFbUlPeWxPX0VqRU1HR0lFQXViV2NSZHZ6X3FRV1Jnb0dRYWZiRlRheG9idk1DYk9vV2RJWW10RUp0MmVfYlFpR3doTg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Netflix Trailer: Every Song We Heard, Including Deep Cuts",
+      "description": "Kotaku published: \"GTA 6 Netflix Trailer: Every Song We Heard, Including Deep Cuts - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXowdmVuUWRDQ2ptTGd3YW1pZk5rYzE0Q3ZGbS1ib1M3a0Y5eklYbTN0UDZJOHA4VUZiMmFJMzBiSGoyMU5KZzJWZjhIUGk5Y0FlSXVlWXpmOTVLV185Qi0yRnFoNlRpV0lyVHVFbUlPeWxPX0VqRU1HR0lFQXViV2NSZHZ6X3FRV1Jnb0dRYWZiRlRheG9idk1DYk9vV2RJWW10RUp0MmVfYlFpR3doTg?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-08-29T20:40:53.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "GTA 6 Netflix Trailer: Every Song We Heard, Including Deep Cuts - Kotaku"
+      },
+      "detectedAt": "2026-08-30T15:43:23.830Z",
+      "firstSeenAt": "2026-08-30T15:43:23.830Z",
+      "contentHash": "51db0a8ec6329868",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMipwFBVV95cUxPQjM3ZmgwQ21IaVlNZjB1MUJBWHRIQ1pKNHdhZEtQNWp4NUk1MUVqaENydHBCUnE2eGg5Y0pzaXlVX0R1bG4zZzlmNkdselV5QjVmRmRTdWdMTTE3WVBSaEVsOTZzamdyZW9jTEpMZ0liclUzczRKOFRKQUFDTGltNWNPT3NaVFBReEZJcGFNZDNZMmluVzBJQmYxbV9ON29CY2NvNDNEcw",
       "sourceId": "press-coverage",

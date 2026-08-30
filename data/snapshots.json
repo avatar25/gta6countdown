@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T10:55:15.999Z",
+  "updatedAt": "2026-08-30T15:43:23.830Z",
   "sources": {
     "xbox-store": {
-      "lastPolledAt": "2026-08-30T10:55:15.999Z",
-      "status": "unchanged",
+      "lastPolledAt": "2026-08-30T15:43:23.830Z",
+      "status": "ok",
       "candidates": {
         "xbox-store:9P3H4968GRSM:release-date": "2409d3dbc4c33b33",
         "xbox-store:9P3H4968GRSM:0017:price": "4a3a30ebb39058cf",
@@ -13,12 +13,12 @@
         "xbox-store:9NNZSNHLR63L:0017:price": "70ccdfb5a18dcc18",
         "xbox-store:9NNZSNHLR63L:editions": "173fb12d6a53cdd2"
       },
-      "polls": 31,
+      "polls": 32,
       "errors": 0,
-      "bodyHash": "d578d7dac0eafe45"
+      "bodyHash": "579f12dfd7341d62"
     },
     "playstation-store": {
-      "lastPolledAt": "2026-08-30T10:55:15.999Z",
+      "lastPolledAt": "2026-08-30T15:43:23.830Z",
       "status": "unchanged",
       "candidates": {
         "playstation-store:EP1004-PPSA01547_00-GTAVISTANDARD001:release-date": "3b819205c17e609d",
@@ -30,12 +30,12 @@
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:platforms": "bc33753171cc1cb6",
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:publisher": "38034553550ad168"
       },
-      "polls": 31,
+      "polls": 32,
       "errors": 0,
       "bodyHash": "91abff7ee97c85b8"
     },
     "rockstar-youtube": {
-      "lastPolledAt": "2026-08-30T10:55:15.999Z",
+      "lastPolledAt": "2026-08-30T15:43:23.830Z",
       "status": "ok",
       "candidates": {
         "rockstar-youtube:yt:video:qq76pQsI1iw": "3e51df6e34f80af9",
@@ -54,34 +54,34 @@
         "rockstar-youtube:yt:video:Xzxv75FjMJk": "4744834bd85066e7",
         "rockstar-youtube:yt:video:tJbzMqJGH4k": "853d68f55f42c1a9"
       },
-      "polls": 31,
+      "polls": 32,
       "errors": 2,
-      "bodyHash": "b6ee5586df7c74d5"
+      "bodyHash": "873745be1d4fb318"
     },
     "rockstar-site": {
-      "lastPolledAt": "2026-08-30T10:55:15.999Z",
+      "lastPolledAt": "2026-08-30T15:43:23.830Z",
       "status": "unchanged",
       "candidates": {
         "rockstar-site:page-copy": "3cd730354cfdb9a2",
         "rockstar-site:stated-dates": "6edf932cd14c066f"
       },
-      "polls": 31,
+      "polls": 32,
       "errors": 0,
       "bodyHash": "5006dafd0b437610"
     },
     "netflix-premiere": {
-      "lastPolledAt": "2026-08-30T10:55:15.999Z",
+      "lastPolledAt": "2026-08-30T15:43:23.830Z",
       "status": "ok",
       "candidates": {
         "netflix-premiere:listing": "f63d6d1286f59e4d",
         "netflix-premiere:schedule": "4e07bf70602dbd43"
       },
-      "polls": 31,
+      "polls": 32,
       "errors": 0,
-      "bodyHash": "62b1d8898af7186d"
+      "bodyHash": "87f8e809f3ae3495"
     },
     "press-coverage": {
-      "lastPolledAt": "2026-08-30T10:55:15.999Z",
+      "lastPolledAt": "2026-08-30T15:43:23.830Z",
       "status": "ok",
       "candidates": {
         "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs": "20de6c9b623e90e6",
@@ -89,11 +89,12 @@
         "press-coverage:CBMimwFBVV95cUxQU3o0dFluYXdCbElLV1VLQTA2WV9VNnJ6UHZlUWtvdDRjLTlHMUhvNlcwSU9EcmFETkh6WS1wcEwySzBoQWtrUDNaZmtyZ0oxdlhKcVpSYVBFN1E2VHE5MFhpa0didE9CVmhQM3pmaE0zdXh1cldvdFc4bTNlUUN5MXRZSjVoNXd0a3U1eV9aTUtLMndhZDlncjl3MA": "771f353af80a21fa",
         "press-coverage:CBMiggJBVV95cUxQOFliTFAyQ0V0Q21BZUtKOTZpazlKREEyS2tHOC1kZENucnJIQTFJemtHY3BfZkpGMGRzOS1vWGFKSnB5TktYS2VOcXpNemxreEV6TEdQYjMycmg1dVkwdWhWR2Ftby1YaXh0RmN2MjBJSS10VU9fdV81clpGQ2NmSE1TNGRrdENVSlVOem1fWWw4aDB1Mk9WNGJrMnltdUFEaXFrQlhraWktSTFaMVpkbEFxdW1QdVZySW9iSXV3UXN2dGVXb3FnU1FINVRBbVhZZ3hubk5vQUlyeE9HNFhxX2dOb0Z5YUlWNzlqTDFTS1FoMWpxZVJsWHI1MHdMamtPNXc": "1a7a7c69ffecb53a",
         "press-coverage:CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw": "2261bb9d6e763325",
-        "press-coverage:CBMipwFBVV95cUxPQjM3ZmgwQ21IaVlNZjB1MUJBWHRIQ1pKNHdhZEtQNWp4NUk1MUVqaENydHBCUnE2eGg5Y0pzaXlVX0R1bG4zZzlmNkdselV5QjVmRmRTdWdMTTE3WVBSaEVsOTZzamdyZW9jTEpMZ0liclUzczRKOFRKQUFDTGltNWNPT3NaVFBReEZJcGFNZDNZMmluVzBJQmYxbV9ON29CY2NvNDNEcw": "441bd2e320300b34"
+        "press-coverage:CBMipwFBVV95cUxPQjM3ZmgwQ21IaVlNZjB1MUJBWHRIQ1pKNHdhZEtQNWp4NUk1MUVqaENydHBCUnE2eGg5Y0pzaXlVX0R1bG4zZzlmNkdselV5QjVmRmRTdWdMTTE3WVBSaEVsOTZzamdyZW9jTEpMZ0liclUzczRKOFRKQUFDTGltNWNPT3NaVFBReEZJcGFNZDNZMmluVzBJQmYxbV9ON29CY2NvNDNEcw": "441bd2e320300b34",
+        "press-coverage:CBMisAFBVV95cUxNVXowdmVuUWRDQ2ptTGd3YW1pZk5rYzE0Q3ZGbS1ib1M3a0Y5eklYbTN0UDZJOHA4VUZiMmFJMzBiSGoyMU5KZzJWZjhIUGk5Y0FlSXVlWXpmOTVLV185Qi0yRnFoNlRpV0lyVHVFbUlPeWxPX0VqRU1HR0lFQXViV2NSZHZ6X3FRV1Jnb0dRYWZiRlRheG9idk1DYk9vV2RJWW10RUp0MmVfYlFpR3doTg": "51db0a8ec6329868"
       },
-      "polls": 31,
+      "polls": 32,
       "errors": 0,
-      "bodyHash": "08b32a308b5970a6"
+      "bodyHash": "cea8b44e4dd01a3b"
     }
   }
 }
