@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T15:29:02.824Z",
+  "updatedAt": "2026-09-03T20:17:32.101Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic",
+      "description": "GameSpot published: \"GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-09-03T13:54:57.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic - GameSpot"
+      },
+      "detectedAt": "2026-09-03T20:17:32.101Z",
+      "firstSeenAt": "2026-09-03T20:17:32.101Z",
+      "contentHash": "656f15c57ae7733c",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ",
+        "press-coverage:CBMikgFBVV95cUxQMFBBbzlJZm50ZWNUQzExLU1PV1lybzIzSUxNUGRCazBtU2o4Y0pmc3NCcS1Yd1V4cnl6V0ZFb19ROW53d05xZXA3Z3k2Y09qTl9JV2ZEUVNNMlA5RWtSazBPMEpYNTBoMUpHbHR0N212dE5xZzM1RG1JVEV6dGlacnhERkR3VWlvY3ZLelF2VXJJZw"
+      ]
+    },
+    {
+      "id": "press-coverage:CBMikgFBVV95cUxQMFBBbzlJZm50ZWNUQzExLU1PV1lybzIzSUxNUGRCazBtU2o4Y0pmc3NCcS1Yd1V4cnl6V0ZFb19ROW53d05xZXA3Z3k2Y09qTl9JV2ZEUVNNMlA5RWtSazBPMEpYNTBoMUpHbHR0N212dE5xZzM1RG1JVEV6dGlacnhERkR3VWlvY3ZLelF2VXJJZw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Everything Announced at the Sony State of Play - September 2026",
+      "description": "IGN published: \"Everything Announced at the Sony State of Play - September 2026 - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFBBbzlJZm50ZWNUQzExLU1PV1lybzIzSUxNUGRCazBtU2o4Y0pmc3NCcS1Yd1V4cnl6V0ZFb19ROW53d05xZXA3Z3k2Y09qTl9JV2ZEUVNNMlA5RWtSazBPMEpYNTBoMUpHbHR0N212dE5xZzM1RG1JVEV6dGlacnhERkR3VWlvY3ZLelF2VXJJZw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-03T18:59:37.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Everything Announced at the Sony State of Play - September 2026 - IGN"
+      },
+      "detectedAt": "2026-09-03T20:17:32.101Z",
+      "firstSeenAt": "2026-09-03T20:17:32.101Z",
+      "contentHash": "58e985fdb4cce4e7",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
+        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ"
+      ]
+    },
     {
       "id": "press-coverage:CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF",
       "sourceId": "press-coverage",
