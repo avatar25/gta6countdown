@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T10:23:44.136Z",
+  "updatedAt": "2026-09-03T15:29:02.824Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "PlayStation reveals limited-edition GTA VI controllers.",
+      "description": "The Verge published: \"PlayStation reveals limited-edition GTA VI controllers. - The Verge\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF?oc=5",
+      "sourceLabel": "The Verge",
+      "occurredAt": "2026-09-03T13:57:09.000Z",
+      "fields": {
+        "outlet": "The Verge",
+        "headline": "PlayStation reveals limited-edition GTA VI controllers. - The Verge"
+      },
+      "detectedAt": "2026-09-03T15:29:02.824Z",
+      "firstSeenAt": "2026-09-03T15:29:02.824Z",
+      "contentHash": "af8523d407d94073",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ"
+      ]
+    },
+    {
+      "id": "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November",
+      "description": "Push Square published: \"GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ?oc=5",
+      "sourceLabel": "Push Square",
+      "occurredAt": "2026-09-03T13:40:00.000Z",
+      "fields": {
+        "outlet": "Push Square",
+        "headline": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square"
+      },
+      "detectedAt": "2026-09-03T15:29:02.824Z",
+      "firstSeenAt": "2026-09-03T15:29:02.824Z",
+      "contentHash": "517e42f873366cfb",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF"
+      ]
+    },
     {
       "id": "press-coverage:CBMi2wFBVV95cUxOQnA4TTBWTHZWaHVRd3diNy1RZWROaUxvTWVLT0xETUhjSklYWEFqRnhoVTA1RGxDa1RXa1UwOW5VSnBZODIyUEVJWGZnZnNDdGRPZm8yUDN4TUx2dDdUMXU4QUlpZzNSLXp5ZmdERElhRTdIY0hya0tENmV2UGNpTlZQUE93dk5jNFM5NzNKVXdqdGU4X1RWMnFHRmtUU1BJLUpOZ3BNcHhQWDhFUzlTVDNJNjdIMHNiWk1MalZLWGtrd0c4R0lSTXE0alZmS1dWdXRUalBnOXZGck0",
       "sourceId": "press-coverage",
