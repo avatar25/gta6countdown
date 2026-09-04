@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T20:17:32.101Z",
+  "updatedAt": "2026-09-04T02:05:24.309Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMihwFBVV95cUxOVkI2cjBfdkpIaXZBOGFrZnZOM2pRSlF6bU00LWVGZVJES183cEMyc0x2ajZuS2dHRlRqMUpKSVNCZlc0S3ZkQzlUY1laNXdDU1RJUTFCZ05ENkNvVi1fS0d1QzVIRjBwcVNGLVdTdW15Z29JbHdQOTVpSXNPNGctdVRhakw5cDg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Grand Theft Auto 6 Preorder Discount: Here's How to Save $12 for the PS5 Game – But the Deal Ends Soon",
+      "description": "IGN published: \"Grand Theft Auto 6 Preorder Discount: Here's How to Save $12 for the PS5 Game – But the Deal Ends Soon - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkI2cjBfdkpIaXZBOGFrZnZOM2pRSlF6bU00LWVGZVJES183cEMyc0x2ajZuS2dHRlRqMUpKSVNCZlc0S3ZkQzlUY1laNXdDU1RJUTFCZ05ENkNvVi1fS0d1QzVIRjBwcVNGLVdTdW15Z29JbHdQOTVpSXNPNGctdVRhakw5cDg?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-03T18:41:37.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Grand Theft Auto 6 Preorder Discount: Here's How to Save $12 for the PS5 Game – But the Deal Ends Soon - IGN"
+      },
+      "detectedAt": "2026-09-04T02:05:24.309Z",
+      "firstSeenAt": "2026-09-04T02:05:24.309Z",
+      "contentHash": "46519184dd9ef23d",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
+        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ"
+      ]
+    },
     {
       "id": "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
       "sourceId": "press-coverage",
