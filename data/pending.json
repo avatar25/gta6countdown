@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T02:07:55.482Z",
+  "updatedAt": "2026-09-10T10:15:44.003Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 DualSense Controller Preorders Are Now Live in the UK",
+      "description": "IGN published: \"GTA 6 DualSense Controller Preorders Are Now Live in the UK - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-10T09:55:53.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 DualSense Controller Preorders Are Now Live in the UK - IGN"
+      },
+      "detectedAt": "2026-09-10T10:15:44.003Z",
+      "firstSeenAt": "2026-09-10T10:15:44.003Z",
+      "contentHash": "8022bf59c8faeed4",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ"
+      ]
+    },
+    {
+      "id": "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Where to Pre-Order GTA 6 Controllers for PS5",
+      "description": "Push Square published: \"Where to Pre-Order GTA 6 Controllers for PS5 - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ?oc=5",
+      "sourceLabel": "Push Square",
+      "occurredAt": "2026-09-10T09:19:58.000Z",
+      "fields": {
+        "outlet": "Push Square",
+        "headline": "Where to Pre-Order GTA 6 Controllers for PS5 - Push Square"
+      },
+      "detectedAt": "2026-09-10T10:15:44.003Z",
+      "firstSeenAt": "2026-09-10T10:15:44.003Z",
+      "contentHash": "1e9b0cf8d931b7ce",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ"
+      ]
+    },
     {
       "id": "press-coverage:CBMimAFBVV95cUxOV2hVelNqUGNqc1phUk12R01qUUF6bmtBSVhBUE9ZSWFGWFJVZDR6bTFMbU1hWkRPUGNWT3A0LXhSd3oxRE8zSjl3ZEduczk5dkJKLWU4ZkZaS25QdnpjR3ZMdHgxV051LWp6eUNRNFlYRk1jdDYtOXJuNWlZOTd2N2pYMVBjRGxiQUNpMW41T3ZSaDdjSnlQUA",
       "sourceId": "press-coverage",
