@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T15:29:49.916Z",
+  "updatedAt": "2026-09-10T20:14:03.745Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiuwFBVV95cUxOUnNldGsyc0F0aHVUU0dkTnZ2UmhGNXNWTENVZGQ0Mk1sanhJcEJwekJoZ0ZuQ1hMVkhnakpydDIwR2pqTXl5UGJFZ3luWklsckJwMnBJRnE4VmMyZU4zazQ2Sm52bFdNLTJaSUxqMTUzVS1oVEwxb0hpbVNDSTI1Nmk1OXphRUkzTkhhVUxrbnVGckRERTZoUjg1UXJvOFNxazh1REhuc0RkSzRfdnMyOW4tSlNxbU85VmdF",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers",
+      "description": "Kotaku published: \"GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnNldGsyc0F0aHVUU0dkTnZ2UmhGNXNWTENVZGQ0Mk1sanhJcEJwekJoZ0ZuQ1hMVkhnakpydDIwR2pqTXl5UGJFZ3luWklsckJwMnBJRnE4VmMyZU4zazQ2Sm52bFdNLTJaSUxqMTUzVS1oVEwxb0hpbVNDSTI1Nmk1OXphRUkzTkhhVUxrbnVGckRERTZoUjg1UXJvOFNxazh1REhuc0RkSzRfdnMyOW4tSlNxbU85VmdF?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-09-10T14:27:54.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - Kotaku"
+      },
+      "detectedAt": "2026-09-10T20:14:03.745Z",
+      "firstSeenAt": "2026-09-10T20:14:03.745Z",
+      "contentHash": "13ddd254fe77faa5",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ"
+      ]
+    },
     {
       "id": "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ",
       "sourceId": "press-coverage",
