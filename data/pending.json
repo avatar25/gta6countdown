@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T20:11:57.236Z",
+  "updatedAt": "2026-09-10T02:07:55.482Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMimAFBVV95cUxOV2hVelNqUGNqc1phUk12R01qUUF6bmtBSVhBUE9ZSWFGWFJVZDR6bTFMbU1hWkRPUGNWT3A0LXhSd3oxRE8zSjl3ZEduczk5dkJKLWU4ZkZaS25QdnpjR3ZMdHgxV051LWp6eUNRNFlYRk1jdDYtOXJuNWlZOTd2N2pYMVBjRGxiQUNpMW41T3ZSaDdjSnlQUA",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Was Not \"Fully Formed\" When Trailer 1 Came Out In 2023",
+      "description": "GameSpot published: \"GTA 6 Was Not \"Fully Formed\" When Trailer 1 Came Out In 2023 - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2hVelNqUGNqc1phUk12R01qUUF6bmtBSVhBUE9ZSWFGWFJVZDR6bTFMbU1hWkRPUGNWT3A0LXhSd3oxRE8zSjl3ZEduczk5dkJKLWU4ZkZaS25QdnpjR3ZMdHgxV051LWp6eUNRNFlYRk1jdDYtOXJuNWlZOTd2N2pYMVBjRGxiQUNpMW41T3ZSaDdjSnlQUA?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-09-09T14:58:46.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6 Was Not \"Fully Formed\" When Trailer 1 Came Out In 2023 - GameSpot"
+      },
+      "detectedAt": "2026-09-10T02:07:55.482Z",
+      "firstSeenAt": "2026-09-10T02:07:55.482Z",
+      "contentHash": "d37dae23cdf552fc",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMi2AFBVV95cUxQSnF0NVQ4b1pZYXU4YVUxNHVsMFBxUVpVZkl4Z2NzS1pkNlJmX2Jlb0RmMTVWV3NvcFhMZnlnbXhpZXlHTVhBZ0NvVW1QVU13ZjUySEFMeUk5RDhFMzJRWjhSV3IweFpHeWN1OXIycXRpV2g5TV9VVktuRDU1RUcyNW1ncWhxYzFaWkkxM3Foalh3VEl3TklLMHBBbmItaGlyS0tLT0JZTkZWa2pmbmJVX2Jkd1k4ZnFDc0drSkVXVFZ6Rlp0WnpKVWE3Ry1FV1k0MWl2NmliT2w",
       "sourceId": "press-coverage",
