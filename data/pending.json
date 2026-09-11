@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T20:14:03.745Z",
+  "updatedAt": "2026-09-11T02:05:07.388Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited",
+      "description": "IGN published: \"GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-10T15:34:09.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited - IGN"
+      },
+      "detectedAt": "2026-09-11T02:05:07.388Z",
+      "firstSeenAt": "2026-09-11T02:05:07.388Z",
+      "contentHash": "995435210c7a454b",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
+        "press-coverage:CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz",
+        "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ"
+      ]
+    },
+    {
+      "id": "press-coverage:CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6's PS5 Controller Preorders Create Chaos on PlayStation Store as Scalpers Take Advantage of Scarcity",
+      "description": "IGN published: \"GTA 6's PS5 Controller Preorders Create Chaos on PlayStation Store as Scalpers Take Advantage of Scarcity - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-10T17:27:15.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6's PS5 Controller Preorders Create Chaos on PlayStation Store as Scalpers Take Advantage of Scarcity - IGN"
+      },
+      "detectedAt": "2026-09-11T02:05:07.388Z",
+      "firstSeenAt": "2026-09-11T02:05:07.388Z",
+      "contentHash": "27b775af026bcfdf",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
+        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
+        "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ"
+      ]
+    },
     {
       "id": "press-coverage:CBMiuwFBVV95cUxOUnNldGsyc0F0aHVUU0dkTnZ2UmhGNXNWTENVZGQ0Mk1sanhJcEJwekJoZ0ZuQ1hMVkhnakpydDIwR2pqTXl5UGJFZ3luWklsckJwMnBJRnE4VmMyZU4zazQ2Sm52bFdNLTJaSUxqMTUzVS1oVEwxb0hpbVNDSTI1Nmk1OXphRUkzTkhhVUxrbnVGckRERTZoUjg1UXJvOFNxazh1REhuc0RkSzRfdnMyOW4tSlNxbU85VmdF",
       "sourceId": "press-coverage",
