@@ -1,7 +1,32 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T10:14:01.931Z",
+  "updatedAt": "2026-09-11T15:32:08.512Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 PS5 Controller Preorders Spark Store Chaos",
+      "description": "IGN published: \"GTA 6 PS5 Controller Preorders Spark Store Chaos - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-10T07:00:00.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 PS5 Controller Preorders Spark Store Chaos - IGN"
+      },
+      "detectedAt": "2026-09-11T15:32:08.512Z",
+      "firstSeenAt": "2026-09-11T15:32:08.512Z",
+      "contentHash": "9e5b1cf4ab0aa713",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
+        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
+        "press-coverage:CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz"
+      ]
+    },
     {
       "id": "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
       "sourceId": "press-coverage",
