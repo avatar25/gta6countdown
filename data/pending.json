@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T20:13:14.718Z",
+  "updatedAt": "2026-09-12T02:10:11.553Z",
   "pending": [
     {
       "id": "press-coverage:CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ",
       "sourceId": "press-coverage",
       "sourceType": "press",
       "provenance": "official",
-      "title": "GTA 6 PS5 Controller Preorders Spark Store Chaos",
-      "description": "IGN published: \"GTA 6 PS5 Controller Preorders Spark Store Chaos - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "title": "GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay",
+      "description": "IGN published: \"GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ?oc=5",
       "sourceLabel": "IGN",
       "occurredAt": "2026-09-10T07:00:00.000Z",
       "fields": {
         "outlet": "IGN",
-        "headline": "GTA 6 PS5 Controller Preorders Spark Store Chaos - IGN"
+        "headline": "GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay - IGN"
       },
-      "detectedAt": "2026-09-11T15:32:08.512Z",
+      "detectedAt": "2026-09-12T02:10:11.553Z",
       "firstSeenAt": "2026-09-11T15:32:08.512Z",
-      "contentHash": "9e5b1cf4ab0aa713",
-      "timesSeen": 1,
+      "contentHash": "6cff5abd6798e556",
+      "timesSeen": 2,
       "confidence": 0.6,
       "corroborations": [
         "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
