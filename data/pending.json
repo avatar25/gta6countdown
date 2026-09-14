@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T11:15:19.522Z",
+  "updatedAt": "2026-09-14T17:15:38.651Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Will GTA 6's Ultimate Edition Be Worth The Extra Cost? Here's What It'll Come With",
+      "description": "Engadget published: \"Will GTA 6's Ultimate Edition Be Worth The Extra Cost? Here's What It'll Come With - Engadget\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg?oc=5",
+      "sourceLabel": "Engadget",
+      "occurredAt": "2026-09-14T14:30:00.000Z",
+      "fields": {
+        "outlet": "Engadget",
+        "headline": "Will GTA 6's Ultimate Edition Be Worth The Extra Cost? Here's What It'll Come With - Engadget"
+      },
+      "detectedAt": "2026-09-14T17:15:38.651Z",
+      "firstSeenAt": "2026-09-14T17:15:38.651Z",
+      "contentHash": "23fff24b5e36871d",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc",
       "sourceId": "press-coverage",
