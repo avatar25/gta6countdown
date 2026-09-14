@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T02:24:30.011Z",
+  "updatedAt": "2026-09-14T11:15:19.522Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "'You're Gonna See Me in It' — King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So",
+      "description": "IGN published: \"'You're Gonna See Me in It' — King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-14T10:14:59.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "'You're Gonna See Me in It' — King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So - IGN"
+      },
+      "detectedAt": "2026-09-14T11:15:19.522Z",
+      "firstSeenAt": "2026-09-14T11:15:19.522Z",
+      "contentHash": "3abfa65576dfeded",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMilwFBVV95cUxOTTg3N2VtVEZzRno3dHBJdE9kRW5PaGVKNldCVVJaVmpKUnRpNXNkb29oTVJScTZuMnJFN3MxYm1kZHlfVG84QW5XbFJBN2g1RkY4TGRwTHdtdnVpYkxTQTVJX0lTR1dHTGdKNTZMR00xZUhRY3JQNnVwa0NQM2ZTSTh5TkdEV096SzY4RTc5dmNBVFItNkx3"
+      ]
+    },
+    {
+      "id": "press-coverage:CBMilwFBVV95cUxOTTg3N2VtVEZzRno3dHBJdE9kRW5PaGVKNldCVVJaVmpKUnRpNXNkb29oTVJScTZuMnJFN3MxYm1kZHlfVG84QW5XbFJBN2g1RkY4TGRwTHdtdnVpYkxTQTVJX0lTR1dHTGdKNTZMR00xZUhRY3JQNnVwa0NQM2ZTSTh5TkdEV096SzY4RTc5dmNBVFItNkx3",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name",
+      "description": "GameSpot published: \"First GTA 6 Actor Officially Confirmed, And It’s A Big Name - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTg3N2VtVEZzRno3dHBJdE9kRW5PaGVKNldCVVJaVmpKUnRpNXNkb29oTVJScTZuMnJFN3MxYm1kZHlfVG84QW5XbFJBN2g1RkY4TGRwTHdtdnVpYkxTQTVJX0lTR1dHTGdKNTZMR00xZUhRY3JQNnVwa0NQM2ZTSTh5TkdEV096SzY4RTc5dmNBVFItNkx3?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-09-14T10:28:14.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name - GameSpot"
+      },
+      "detectedAt": "2026-09-14T11:15:19.522Z",
+      "firstSeenAt": "2026-09-14T11:15:19.522Z",
+      "contentHash": "8ff47b639a0e334f",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc"
+      ]
+    },
     {
       "id": "press-coverage:CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ",
       "sourceId": "press-coverage",
