@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T15:54:59.468Z",
+  "updatedAt": "2026-09-15T20:39:19.006Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMihAFBVV95cUxNVkFrZ1JZWk5WeWhka0tVbnBFdDZmZ2hTbFBWQmVXeGhwTVpsZ3dxMm9IaHd3SnN4NzBJbXdNLXNTWHFLX01fX09XNUFBMks2bWlXT3RrSVlkTmZIMG5BWmpPb2xfWHZuLVJqMkpCWTRfSklGcHdEOFcxM0pvSjhoOUF4NVc",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Soundtrack – All Confirmed Songs So Far",
+      "description": "GameSpot published: \"GTA 6 Soundtrack – All Confirmed Songs So Far - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVkFrZ1JZWk5WeWhka0tVbnBFdDZmZ2hTbFBWQmVXeGhwTVpsZ3dxMm9IaHd3SnN4NzBJbXdNLXNTWHFLX01fX09XNUFBMks2bWlXT3RrSVlkTmZIMG5BWmpPb2xfWHZuLVJqMkpCWTRfSklGcHdEOFcxM0pvSjhoOUF4NVc?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-09-15T17:52:07.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6 Soundtrack – All Confirmed Songs So Far - GameSpot"
+      },
+      "detectedAt": "2026-09-15T20:39:19.006Z",
+      "firstSeenAt": "2026-09-15T20:39:19.006Z",
+      "contentHash": "87615ea25f2b8fee",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMibkFVX3lxTE1hVjh5VWhzcmJpc3Nib3BVZG5pclN1VGNReGh4d0IwN3Q2NUs1T3NSZ1g5ZFE4YTVhN0VLc0VNU2dqRlRKSlFKODUtdldNenh5LUtiQ1p3UEp2VlFHTndhci1pdHFNdnFmSU5CU1pB",
       "sourceId": "press-coverage",
