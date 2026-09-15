@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T10:41:49.137Z",
+  "updatedAt": "2026-09-15T15:54:59.468Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMibkFVX3lxTE1hVjh5VWhzcmJpc3Nib3BVZG5pclN1VGNReGh4d0IwN3Q2NUs1T3NSZ1g5ZFE4YTVhN0VLc0VNU2dqRlRKSlFKODUtdldNenh5LUtiQ1p3UEp2VlFHTndhci1pdHFNdnFmSU5CU1pB",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Grand Theft Auto 6 Ultimate Edition Is $11 Off on PS5 if You Use This Trick (Today Only)",
+      "description": "IGN published: \"Grand Theft Auto 6 Ultimate Edition Is $11 Off on PS5 if You Use This Trick (Today Only) - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hVjh5VWhzcmJpc3Nib3BVZG5pclN1VGNReGh4d0IwN3Q2NUs1T3NSZ1g5ZFE4YTVhN0VLc0VNU2dqRlRKSlFKODUtdldNenh5LUtiQ1p3UEp2VlFHTndhci1pdHFNdnFmSU5CU1pB?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-15T14:08:29.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Grand Theft Auto 6 Ultimate Edition Is $11 Off on PS5 if You Use This Trick (Today Only) - IGN"
+      },
+      "detectedAt": "2026-09-15T15:54:59.468Z",
+      "firstSeenAt": "2026-09-15T15:54:59.468Z",
+      "contentHash": "76e9048f4a39bad0",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMilwFBVV95cUxNTzdkekotdnRUX2pDclFIaVlpNklSUHgzMUU3RW9mZlZEZFEycFMwTkVMdjZtVEc2M0s3dmtCck1MMnExR1daT2lncmhmZVBtREl2Q291V1NKSVNiOHdMendaNHNNX29SSmllZHl3eWE3ZHE4dlFvOGEwVExVQkVmYnRKU0ZoOWpOeW1NcmNoVUI5LVdKazEw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6′ s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out",
+      "description": "Kotaku published: \"GTA 6′ s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzdkekotdnRUX2pDclFIaVlpNklSUHgzMUU3RW9mZlZEZFEycFMwTkVMdjZtVEc2M0s3dmtCck1MMnExR1daT2lncmhmZVBtREl2Q291V1NKSVNiOHdMendaNHNNX29SSmllZHl3eWE3ZHE4dlFvOGEwVExVQkVmYnRKU0ZoOWpOeW1NcmNoVUI5LVdKazEw?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-09-14T11:45:37.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "GTA 6′ s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out - Kotaku"
+      },
+      "detectedAt": "2026-09-15T15:54:59.468Z",
+      "firstSeenAt": "2026-09-15T15:54:59.468Z",
+      "contentHash": "d945e1cca0e33b04",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg"
+      ]
+    },
     {
       "id": "press-coverage:CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg",
       "sourceId": "press-coverage",
