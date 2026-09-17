@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T15:53:22.229Z",
+  "updatedAt": "2026-09-17T20:45:27.035Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms",
+      "description": "IGN published: \"GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-17T12:31:30.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms - IGN"
+      },
+      "detectedAt": "2026-09-17T20:45:27.035Z",
+      "firstSeenAt": "2026-09-17T20:45:27.035Z",
+      "contentHash": "1fa9533404cef280",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw"
+      ]
+    },
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
