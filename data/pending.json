@@ -1,7 +1,50 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T10:39:41.426Z",
+  "updatedAt": "2026-09-17T15:53:22.229Z",
   "pending": [
+    {
+      "id": "rockstar-site:stated-dates",
+      "sourceId": "rockstar-site",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, June 24, 2026, May 6, 2025, November 19, 2026, September 17, 2026",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, June 24, 2026, May 6, 2025, November 19, 2026, September 17, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "url": "https://www.rockstargames.com/VI",
+      "sourceLabel": "Official site",
+      "occurredAt": "2026-09-17T15:53:23.602Z",
+      "fields": {
+        "dates": "August 27, 2026|December 4, 2023|June 24, 2026|May 6, 2025|November 19, 2026|September 17, 2026"
+      },
+      "detectedAt": "2026-09-17T15:53:22.229Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "bb8b6cdf38fc5f61",
+      "timesSeen": 2,
+      "confidence": 0.95,
+      "corroborations": [
+        "rockstar-site:page-copy"
+      ]
+    },
+    {
+      "id": "press-coverage:CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Grand Theft Auto VI: The Album Is Up for Preorder, Featuring 34 Tracks on Limited-Edition Vinyl, Standard Vinyl, or CD",
+      "description": "IGN published: \"Grand Theft Auto VI: The Album Is Up for Preorder, Featuring 34 Tracks on Limited-Edition Vinyl, Standard Vinyl, or CD - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-17T12:55:23.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Grand Theft Auto VI: The Album Is Up for Preorder, Featuring 34 Tracks on Limited-Edition Vinyl, Standard Vinyl, or CD - IGN"
+      },
+      "detectedAt": "2026-09-17T15:53:22.229Z",
+      "firstSeenAt": "2026-09-17T15:53:22.229Z",
+      "contentHash": "2e6682fbcba79965",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMihAFBVV95cUxNVkFrZ1JZWk5WeWhka0tVbnBFdDZmZ2hTbFBWQmVXeGhwTVpsZ3dxMm9IaHd3SnN4NzBJbXdNLXNTWHFLX01fX09XNUFBMks2bWlXT3RrSVlkTmZIMG5BWmpPb2xfWHZuLVJqMkpCWTRfSklGcHdEOFcxM0pvSjhoOUF4NVc",
       "sourceId": "press-coverage",
@@ -788,28 +831,6 @@
         "rockstar-youtube:yt:video:L-9NI3mHZVo",
         "rockstar-youtube:yt:video:GVTE_MuInQg",
         "rockstar-youtube:yt:video:Xzxv75FjMJk"
-      ]
-    },
-    {
-      "id": "rockstar-site:stated-dates",
-      "sourceId": "rockstar-site",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Official site now states: August 27, 2026, December 4, 2023, June 24, 2026, May 6, 2025, November 19, 2026, November 6, 2025",
-      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, June 24, 2026, May 6, 2025, November 19, 2026, November 6, 2025. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
-      "url": "https://www.rockstargames.com/VI",
-      "sourceLabel": "Official site",
-      "occurredAt": "2026-08-28T01:54:52.114Z",
-      "fields": {
-        "dates": "August 27, 2026|December 4, 2023|June 24, 2026|May 6, 2025|November 19, 2026|November 6, 2025"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "6edf932cd14c066f",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-site:page-copy"
       ]
     },
     {
