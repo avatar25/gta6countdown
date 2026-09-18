@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T02:13:06.872Z",
+  "updatedAt": "2026-09-18T10:15:13.568Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder",
+      "description": "IGN published: \"Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-17T18:10:00.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder - IGN"
+      },
+      "detectedAt": "2026-09-18T10:15:13.568Z",
+      "firstSeenAt": "2026-09-18T10:15:13.568Z",
+      "contentHash": "c0cd62259756aad8",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw",
+        "press-coverage:CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA"
+      ]
+    },
     {
       "id": "press-coverage:CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA",
       "sourceId": "press-coverage",
