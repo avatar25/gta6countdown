@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T15:27:40.976Z",
+  "updatedAt": "2026-09-18T20:09:46.523Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMizgFBVV95cUxPekM5VlJxM3BGajU0RjBwb3Fzd1dUZTgyLTRORUd0YWJUZExYbnprOWlVLVNCTnJaMXhzVlAtRFNfWTZGMGhaS01VRTlFeTNrc1BSa1R6NEpqV1VVT1FWcEU3ckxsSGJFRGlfcUNZMlgxUWhORHJzVmYyeE45TTQ5S2RJZ3lPMXhmeEpodnNzdUVsM2VPM21keWoxYVg4RFJRYmN0YmJYRkxhekdzRC1KaU5PS1Z5b3ZXREJidTY5WnVkS2Z4c2dLeW1MY2ZxZw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays",
+      "description": "Kotaku published: \"GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekM5VlJxM3BGajU0RjBwb3Fzd1dUZTgyLTRORUd0YWJUZExYbnprOWlVLVNCTnJaMXhzVlAtRFNfWTZGMGhaS01VRTlFeTNrc1BSa1R6NEpqV1VVT1FWcEU3ckxsSGJFRGlfcUNZMlgxUWhORHJzVmYyeE45TTQ5S2RJZ3lPMXhmeEpodnNzdUVsM2VPM21keWoxYVg4RFJRYmN0YmJYRkxhekdzRC1KaU5PS1Z5b3ZXREJidTY5WnVkS2Z4c2dLeW1MY2ZxZw?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-09-18T18:30:09.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays - Kotaku"
+      },
+      "detectedAt": "2026-09-18T20:09:46.523Z",
+      "firstSeenAt": "2026-09-18T20:09:46.523Z",
+      "contentHash": "90bb2eebde8c49e3",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE"
+      ]
+    },
     {
       "id": "press-coverage:CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE",
       "sourceId": "press-coverage",
