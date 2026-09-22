@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T21:25:03.041Z",
+  "updatedAt": "2026-09-22T02:26:46.689Z",
   "sources": {
     "xbox-store": {
-      "lastPolledAt": "2026-09-21T21:25:03.041Z",
+      "lastPolledAt": "2026-09-22T02:26:46.689Z",
       "status": "unchanged",
       "candidates": {
         "xbox-store:9P3H4968GRSM:release-date": "2409d3dbc4c33b33",
@@ -13,12 +13,12 @@
         "xbox-store:9NNZSNHLR63L:0017:price": "70ccdfb5a18dcc18",
         "xbox-store:9NNZSNHLR63L:editions": "173fb12d6a53cdd2"
       },
-      "polls": 120,
+      "polls": 121,
       "errors": 0,
       "bodyHash": "47fc758d766d24fd"
     },
     "playstation-store": {
-      "lastPolledAt": "2026-09-21T21:25:03.041Z",
+      "lastPolledAt": "2026-09-22T02:26:46.689Z",
       "status": "unchanged",
       "candidates": {
         "playstation-store:EP1004-PPSA01547_00-GTAVISTANDARD001:release-date": "3b819205c17e609d",
@@ -30,13 +30,13 @@
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:platforms": "bc33753171cc1cb6",
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:publisher": "38034553550ad168"
       },
-      "polls": 120,
+      "polls": 121,
       "errors": 0,
       "bodyHash": "d85a21a3837c435c"
     },
     "rockstar-youtube": {
-      "lastPolledAt": "2026-09-21T21:25:03.041Z",
-      "status": "ok",
+      "lastPolledAt": "2026-09-22T02:26:46.689Z",
+      "status": "error",
       "candidates": {
         "rockstar-youtube:yt:video:qq76pQsI1iw": "3e51df6e34f80af9",
         "rockstar-youtube:yt:video:vK_IL6V17Js": "f725665df3bac974",
@@ -54,35 +54,36 @@
         "rockstar-youtube:yt:video:Xzxv75FjMJk": "4744834bd85066e7",
         "rockstar-youtube:yt:video:tJbzMqJGH4k": "853d68f55f42c1a9"
       },
-      "polls": 120,
-      "errors": 12,
-      "bodyHash": "201b6072423bf68c"
+      "polls": 121,
+      "errors": 13,
+      "bodyHash": "201b6072423bf68c",
+      "error": "fetch failed for https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A: HTTP 500 Internal Server Error"
     },
     "rockstar-site": {
-      "lastPolledAt": "2026-09-21T21:25:03.041Z",
+      "lastPolledAt": "2026-09-22T02:26:46.689Z",
       "status": "unchanged",
       "candidates": {
         "rockstar-site:page-copy": "3cd730354cfdb9a2",
         "rockstar-site:stated-dates": "bb8b6cdf38fc5f61"
       },
-      "polls": 120,
+      "polls": 121,
       "errors": 0,
       "bodyHash": "45ebce601d600e4d"
     },
     "netflix-premiere": {
-      "lastPolledAt": "2026-09-21T21:25:03.041Z",
+      "lastPolledAt": "2026-09-22T02:26:46.689Z",
       "status": "ok",
       "candidates": {
         "netflix-premiere:listing": "f63d6d1286f59e4d",
         "netflix-premiere:schedule": "4e07bf70602dbd43"
       },
-      "polls": 120,
+      "polls": 121,
       "errors": 0,
-      "bodyHash": "5def12bd7ef25a77"
+      "bodyHash": "96a259f7c4b885a6"
     },
     "press-coverage": {
-      "lastPolledAt": "2026-09-21T21:25:03.041Z",
-      "status": "error",
+      "lastPolledAt": "2026-09-22T02:26:46.689Z",
+      "status": "ok",
       "candidates": {
         "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs": "20de6c9b623e90e6",
         "press-coverage:CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U": "89764a079f2fd8ff",
@@ -118,10 +119,9 @@
         "press-coverage:CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE": "c0cd62259756aad8",
         "press-coverage:CBMizgFBVV95cUxPekM5VlJxM3BGajU0RjBwb3Fzd1dUZTgyLTRORUd0YWJUZExYbnprOWlVLVNCTnJaMXhzVlAtRFNfWTZGMGhaS01VRTlFeTNrc1BSa1R6NEpqV1VVT1FWcEU3ckxsSGJFRGlfcUNZMlgxUWhORHJzVmYyeE45TTQ5S2RJZ3lPMXhmeEpodnNzdUVsM2VPM21keWoxYVg4RFJRYmN0YmJYRkxhekdzRC1KaU5PS1Z5b3ZXREJidTY5WnVkS2Z4c2dLeW1MY2ZxZw": "90bb2eebde8c49e3"
       },
-      "polls": 120,
+      "polls": 121,
       "errors": 1,
-      "bodyHash": "5b286e883f7faa1c",
-      "error": "fetch failed for https://news.google.com/rss/search?q=%22Grand%20Theft%20Auto%20VI%22&hl=en-US&gl=US&ceid=US:en: HTTP 503 Service Unavailable"
+      "bodyHash": "025c3752099118b2"
     }
   }
 }
