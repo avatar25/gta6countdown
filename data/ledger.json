@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T10:28:46.491Z",
+  "updatedAt": "2026-09-23T15:47:09.628Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
@@ -30,7 +30,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 126,
+      "polls": 127,
       "errors": 0,
       "uptime": 1
     },
@@ -46,7 +46,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 126,
+      "polls": 127,
       "errors": 0,
       "uptime": 1
     },
@@ -62,7 +62,7 @@
       "score": 0.6,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 126,
+      "polls": 127,
       "errors": 1,
       "uptime": 0.99
     },
@@ -78,7 +78,7 @@
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 126,
+      "polls": 127,
       "errors": 0,
       "uptime": 1
     },
@@ -94,7 +94,7 @@
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 126,
+      "polls": 127,
       "errors": 13,
       "uptime": 0.9
     },
@@ -110,7 +110,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 126,
+      "polls": 127,
       "errors": 0,
       "uptime": 1
     }
