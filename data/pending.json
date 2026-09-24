@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T16:08:55.365Z",
+  "updatedAt": "2026-09-24T20:56:16.199Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
+      "description": "GameSpot published: \"GTA 6 $400 Collector’s Edition Comes With Everything Except The Game - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-09-24T15:42:54.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game - GameSpot"
+      },
+      "detectedAt": "2026-09-24T20:56:16.199Z",
+      "firstSeenAt": "2026-09-24T20:56:16.199Z",
+      "contentHash": "6e00aaeaae695a7c",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
