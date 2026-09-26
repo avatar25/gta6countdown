@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T20:52:29.030Z",
+  "updatedAt": "2026-09-26T02:35:07.301Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMipAFBVV95cUxNdVFRbjVoN3NGaTF2Vk1xdWxMMjFJdlRHSzJfX21taUc2N0R0d1pUMWs0elRvemg5cGpvdmNMalhfRmxYaVIzb3lVUEl0aXVoY0VuMEEwSWxXdWc3X2pIM2FzSndLaDJENnNYakZnTnRYUW1nT0owMWZzQUduS0ZWckNaRllWOWV3QVVoMF9ZdGdyRm9zZm9NeVFpMFRoWGJuWHJqTg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+      "description": "Push Square published: \"GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVFRbjVoN3NGaTF2Vk1xdWxMMjFJdlRHSzJfX21taUc2N0R0d1pUMWs0elRvemg5cGpvdmNMalhfRmxYaVIzb3lVUEl0aXVoY0VuMEEwSWxXdWc3X2pIM2FzSndLaDJENnNYakZnTnRYUW1nT0owMWZzQUduS0ZWckNaRllWOWV3QVVoMF9ZdGdyRm9zZm9NeVFpMFRoWGJuWHJqTg?oc=5",
+      "sourceLabel": "Push Square",
+      "occurredAt": "2026-09-24T23:30:00.000Z",
+      "fields": {
+        "outlet": "Push Square",
+        "headline": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds - Push Square"
+      },
+      "detectedAt": "2026-09-26T02:35:07.301Z",
+      "firstSeenAt": "2026-09-26T02:35:07.301Z",
+      "contentHash": "582692d96091d693",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z"
+      ]
+    },
     {
       "id": "press-coverage:CBMi0wFBVV95cUxQQ1FjYWw0V25OSmgtMUJIb2MxUWlmTDJjWGJfcENNOXJPem9obld0MF9ISG1HaGFIblFzV0ZoRmw4UWhuZ0xsMzF5bmR2d2VpSnlQRHR6NDlPZkk2QS1ldTY3aXQ2VTBqaG9KSHp3dlFLclktRzJ0YXRtZTExbEpCcXNZeE04aVlibmdLYlBwMjIxRTFTRnRvZEVBaGx3UmNqLVV4Y2M4Vk1DdUVnN0Nyd2d1X2RFaVJ1OWxjLXZhV0lCZlllU0Q3elJhRzRnUlg1aWxv",
       "sourceId": "press-coverage",
