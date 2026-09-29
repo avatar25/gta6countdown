@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T17:16:45.461Z",
+  "updatedAt": "2026-09-29T21:39:31.148Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiswFBVV95cUxNY1BDYnFjQktEdmRKSjdSdmVGV04zYThoTWY2MHlVV1lpUjFtcHpKWndnZ2xjYTBXeGVkUmZ3U1JpbldJYVlKZkpvS20xRl9rU2NtSFdPNVBRQW8tVzFvdjM5YWlYQXVRNEowcmNScWZqVXVKdHdWZEV0b2lLdnQ3OUZia0ZXZUFQdEVrNzBITnNwYmN0cTlXQ2xmRHBvX29mVjVoYWdaV2dMUjEwak9Zdm0xTQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
+      "description": "IGN published: \"Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1BDYnFjQktEdmRKSjdSdmVGV04zYThoTWY2MHlVV1lpUjFtcHpKWndnZ2xjYTBXeGVkUmZ3U1JpbldJYVlKZkpvS20xRl9rU2NtSFdPNVBRQW8tVzFvdjM5YWlYQXVRNEowcmNScWZqVXVKdHdWZEV0b2lLdnQ3OUZia0ZXZUFQdEVrNzBITnNwYmN0cTlXQ2xmRHBvX29mVjVoYWdaV2dMUjEwak9Zdm0xTQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-09-29T20:43:53.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes - IGN"
+      },
+      "detectedAt": "2026-09-29T21:39:31.148Z",
+      "firstSeenAt": "2026-09-29T21:39:31.148Z",
+      "contentHash": "d6c82f96363162b4",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMipAFBVV95cUxNdVFRbjVoN3NGaTF2Vk1xdWxMMjFJdlRHSzJfX21taUc2N0R0d1pUMWs0elRvemg5cGpvdmNMalhfRmxYaVIzb3lVUEl0aXVoY0VuMEEwSWxXdWc3X2pIM2FzSndLaDJENnNYakZnTnRYUW1nT0owMWZzQUduS0ZWckNaRllWOWV3QVVoMF9ZdGdyRm9zZm9NeVFpMFRoWGJuWHJqTg",
       "sourceId": "press-coverage",
