@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T12:04:04.204Z",
+  "updatedAt": "2026-10-01T22:08:01.331Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+      "description": "IGN published: \"GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-01T20:47:43.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect - IGN"
+      },
+      "detectedAt": "2026-10-01T22:08:01.331Z",
+      "firstSeenAt": "2026-10-01T22:08:01.331Z",
+      "contentHash": "16f83e7686c76c65",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiswFBVV95cUxNY1BDYnFjQktEdmRKSjdSdmVGV04zYThoTWY2MHlVV1lpUjFtcHpKWndnZ2xjYTBXeGVkUmZ3U1JpbldJYVlKZkpvS20xRl9rU2NtSFdPNVBRQW8tVzFvdjM5YWlYQXVRNEowcmNScWZqVXVKdHdWZEV0b2lLdnQ3OUZia0ZXZUFQdEVrNzBITnNwYmN0cTlXQ2xmRHBvX29mVjVoYWdaV2dMUjEwak9Zdm0xTQ",
       "sourceId": "press-coverage",
