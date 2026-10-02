@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T17:02:59.610Z",
+  "updatedAt": "2026-10-02T21:35:21.935Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMipwFBVV95cUxOdk1rLV9iaURXWFVDMVJEVkpKTm84MmJ3enhScUNmWThqdi01R2N0S08tMWpjUnJ6N09XMnRnTXA4bnNIZUI4SVphQm1KSk5LSTE3T0RvTlNwaWNiTDBnUGliRkY0MnVPWFJlWkZkZVFfc1ZqOXRnSnlXdGhTOU5vZUhNNVY0YV95UUh5Q0w5UkhlcnhBbWk0MXhqeXJvLVluQWlIVnRaZw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time'",
+      "description": "IGN published: \"GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdk1rLV9iaURXWFVDMVJEVkpKTm84MmJ3enhScUNmWThqdi01R2N0S08tMWpjUnJ6N09XMnRnTXA4bnNIZUI4SVphQm1KSk5LSTE3T0RvTlNwaWNiTDBnUGliRkY0MnVPWFJlWkZkZVFfc1ZqOXRnSnlXdGhTOU5vZUhNNVY0YV95UUh5Q0w5UkhlcnhBbWk0MXhqeXJvLVluQWlIVnRaZw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-02T18:39:10.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' - IGN"
+      },
+      "detectedAt": "2026-10-02T21:35:21.935Z",
+      "firstSeenAt": "2026-10-02T21:35:21.935Z",
+      "contentHash": "5d79ebcd8b1b4652",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMi7AFBVV95cUxQZnhPVU5xVVpqYmlCZjBfV3FtRlo4ZjFDY1U2ZHhGSnBfdHdSRnF5Q1EycnM4a1Iycnd4OEhHOTJqS3FNcDFwN25ETVQ2UHJsS3R1aHF4UUJXMmhNMk8tT1dDMGZIWEhKNEZhRDFrZ1VTcDNaVE5tMFQ5aXBNT2J3bC1VanItemNvVFc5dDhxNi1qbFBZSEltYWZlUThWRnZWb0tHSF8xUkt4SFpYaEZaTzhOUVpoUF9vSkVjRGpfenNRSW9adWowQkhrWmg1ZzlnN1hoNG9QZUJ2eDQzbUpZYnlSSWptSUNTWmpIRQ",
       "sourceId": "press-coverage",
