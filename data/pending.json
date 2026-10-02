@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T22:08:01.331Z",
+  "updatedAt": "2026-10-02T03:10:02.095Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMimAFBVV95cUxQdGt2YU9NS25aMUQzdExrWG5oRXBvazQ2UDhhR0dER3d2NE5OT1FGWmM3dmowdHNVMWFfTWtkYmg4VU5ienNrenY5U1c5WGN6Nm9FckFxcVI1bW4zZ3ZOMGh1STk2UldPbHlnSmtUSWpBVm5FWjlHLVk2clNkdDM2UzdGdElNQVB6VlI3LTVEdlMyc3pBVGVEdg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+      "description": "IGN published: \"GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGt2YU9NS25aMUQzdExrWG5oRXBvazQ2UDhhR0dER3d2NE5OT1FGWmM3dmowdHNVMWFfTWtkYmg4VU5ienNrenY5U1c5WGN6Nm9FckFxcVI1bW4zZ3ZOMGh1STk2UldPbHlnSmtUSWpBVm5FWjlHLVk2clNkdDM2UzdGdElNQVB6VlI3LTVEdlMyc3pBVGVEdg?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-01T16:19:02.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect - IGN"
+      },
+      "detectedAt": "2026-10-02T03:10:02.095Z",
+      "firstSeenAt": "2026-10-02T03:10:02.095Z",
+      "contentHash": "ee81340171b8559a",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw"
+      ]
+    },
     {
       "id": "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw",
       "sourceId": "press-coverage",
