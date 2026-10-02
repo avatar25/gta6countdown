@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T03:10:02.095Z",
+  "updatedAt": "2026-10-02T11:35:18.192Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMi7AFBVV95cUxQZnhPVU5xVVpqYmlCZjBfV3FtRlo4ZjFDY1U2ZHhGSnBfdHdSRnF5Q1EycnM4a1Iycnd4OEhHOTJqS3FNcDFwN25ETVQ2UHJsS3R1aHF4UUJXMmhNMk8tT1dDMGZIWEhKNEZhRDFrZ1VTcDNaVE5tMFQ5aXBNT2J3bC1VanItemNvVFc5dDhxNi1qbFBZSEltYWZlUThWRnZWb0tHSF8xUkt4SFpYaEZaTzhOUVpoUF9vSkVjRGpfenNRSW9adWowQkhrWmg1ZzlnN1hoNG9QZUJ2eDQzbUpZYnlSSWptSUNTWmpIRQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+      "description": "PC Gamer published: \"Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices - PC Gamer\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZnhPVU5xVVpqYmlCZjBfV3FtRlo4ZjFDY1U2ZHhGSnBfdHdSRnF5Q1EycnM4a1Iycnd4OEhHOTJqS3FNcDFwN25ETVQ2UHJsS3R1aHF4UUJXMmhNMk8tT1dDMGZIWEhKNEZhRDFrZ1VTcDNaVE5tMFQ5aXBNT2J3bC1VanItemNvVFc5dDhxNi1qbFBZSEltYWZlUThWRnZWb0tHSF8xUkt4SFpYaEZaTzhOUVpoUF9vSkVjRGpfenNRSW9adWowQkhrWmg1ZzlnN1hoNG9QZUJ2eDQzbUpZYnlSSWptSUNTWmpIRQ?oc=5",
+      "sourceLabel": "PC Gamer",
+      "occurredAt": "2026-10-01T20:13:04.000Z",
+      "fields": {
+        "outlet": "PC Gamer",
+        "headline": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices - PC Gamer"
+      },
+      "detectedAt": "2026-10-02T11:35:18.192Z",
+      "firstSeenAt": "2026-10-02T11:35:18.192Z",
+      "contentHash": "f19cbde60994c35b",
+      "timesSeen": 1,
+      "confidence": 0.6,
+      "corroborations": [
+        "press-coverage:CBMimAFBVV95cUxQdGt2YU9NS25aMUQzdExrWG5oRXBvazQ2UDhhR0dER3d2NE5OT1FGWmM3dmowdHNVMWFfTWtkYmg4VU5ienNrenY5U1c5WGN6Nm9FckFxcVI1bW4zZ3ZOMGh1STk2UldPbHlnSmtUSWpBVm5FWjlHLVk2clNkdDM2UzdGdElNQVB6VlI3LTVEdlMyc3pBVGVEdg",
+        "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw"
+      ]
+    },
     {
       "id": "press-coverage:CBMimAFBVV95cUxQdGt2YU9NS25aMUQzdExrWG5oRXBvazQ2UDhhR0dER3d2NE5OT1FGWmM3dmowdHNVMWFfTWtkYmg4VU5ienNrenY5U1c5WGN6Nm9FckFxcVI1bW4zZ3ZOMGh1STk2UldPbHlnSmtUSWpBVm5FWjlHLVk2clNkdDM2UzdGdElNQVB6VlI3LTVEdlMyc3pBVGVEdg",
       "sourceId": "press-coverage",
