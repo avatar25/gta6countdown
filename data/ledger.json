@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T10:50:00.450Z",
+  "updatedAt": "2026-10-03T15:26:21.547Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
@@ -30,7 +30,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 164,
+      "polls": 165,
       "errors": 0,
       "uptime": 1
     },
@@ -46,7 +46,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 164,
+      "polls": 165,
       "errors": 0,
       "uptime": 1
     },
@@ -62,7 +62,7 @@
       "score": 0.77,
       "meanLeadHours": 5.1,
       "lastApprovedAt": "2026-09-24T20:56:16.199Z",
-      "polls": 164,
+      "polls": 165,
       "errors": 2,
       "uptime": 0.99
     },
@@ -78,7 +78,7 @@
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 164,
+      "polls": 165,
       "errors": 0,
       "uptime": 1
     },
@@ -94,7 +94,7 @@
       "score": 0.96,
       "meanLeadHours": 0.9,
       "lastApprovedAt": "2026-08-28T01:54:51.279Z",
-      "polls": 164,
+      "polls": 165,
       "errors": 23,
       "uptime": 0.86
     },
@@ -110,7 +110,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 164,
+      "polls": 165,
       "errors": 0,
       "uptime": 1
     }
