@@ -28,7 +28,7 @@ and what a human did about it.
 | `scripts/ledger.ts` | Credibility ledger — per-source accuracy over time. |
 | `scripts/notify.ts` | Discord / Telegram webhooks. |
 | `data/events.json` | The published timeline. |
-| `data/pending.json` | Awaiting review, plus a rejection list that suppresses re-queues. |
+| `data/pending.json` | Awaiting review, plus rejected observation hashes that suppress the same version. |
 | `data/snapshots.json` | Change-detection state. **Hashes only, never payloads.** |
 | `data/ledger.json` | Computed source scores. |
 | `data/target.json` | What is being counted down to. Drives the countdown. |
@@ -42,12 +42,29 @@ npm run poll -- xbox-store  # poll one source
 npm run queue               # list what is awaiting review
 npm run queue -- show <id>  # full detail on one candidate
 npm run approve -- <id>     # publish it
-npm run queue -- reject <id> "why"
+npm run queue -- reject <id> "why" --category=duplicate
 npm run ledger -- --print   # source scorecard
 ```
 
-Approving accepts `--title=`, `--description=`, `--badge=`, `--confidence=` and
-`--provenance=` to rewrite an entry before it goes live.
+Approving accepts `--title=`, `--description=`, `--badge=`, `--confidence=`,
+`--provenance=`, `--source=` and `--sourceLabel=` to rewrite an entry before it
+goes live. A source override must be an HTTPS URL. The original candidate remains
+available in git history; its source id/type still record the ingestion origin.
+
+Corroboration is reviewed explicitly with
+`--corroborations=published-event-id,another-published-event-id`. Each id must
+identify another published event backing the same claim from an independent
+origin. Neither matching publication dates nor promotional Shorts count as
+independent evidence. Without that option, approval carries no corroborations,
+including any date-based links stored by an older poll.
+
+Rejection suppresses the candidate's current content hash, so a later change can
+reach review under the same id. Legacy rejections without a hash retain their
+old permanent suppression. Rejection categories are `duplicate`, `out-of-scope`,
+`stale`, `incorrect` and `other` (the default). All count toward editorial
+approval rate; only `incorrect`, `other` and legacy unclassified rejections
+reduce the credibility score. True but irrelevant coverage is noise, not an
+incorrect claim. Run `npm test` for the gate and polling regression checks.
 
 ### Adding a source
 

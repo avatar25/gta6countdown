@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T02:56:28.127Z",
+  "updatedAt": "2026-10-03T06:54:04.070Z",
   "pending": [
     {
       "id": "press-coverage:CBMipwFBVV95cUxOdk1rLV9iaURXWFVDMVJEVkpKTm84MmJ3enhScUNmWThqdi01R2N0S08tMWpjUnJ6N09XMnRnTXA4bnNIZUI4SVphQm1KSk5LSTE3T0RvTlNwaWNiTDBnUGliRkY0MnVPWFJlWkZkZVFfc1ZqOXRnSnlXdGhTOU5vZUhNNVY0YV95UUh5Q0w5UkhlcnhBbWk0MXhqeXJvLVluQWlIVnRaZw",
@@ -24,30 +24,6 @@
       "corroborations": []
     },
     {
-      "id": "press-coverage:CBMi7AFBVV95cUxQZnhPVU5xVVpqYmlCZjBfV3FtRlo4ZjFDY1U2ZHhGSnBfdHdSRnF5Q1EycnM4a1Iycnd4OEhHOTJqS3FNcDFwN25ETVQ2UHJsS3R1aHF4UUJXMmhNMk8tT1dDMGZIWEhKNEZhRDFrZ1VTcDNaVE5tMFQ5aXBNT2J3bC1VanItemNvVFc5dDhxNi1qbFBZSEltYWZlUThWRnZWb0tHSF8xUkt4SFpYaEZaTzhOUVpoUF9vSkVjRGpfenNRSW9adWowQkhrWmg1ZzlnN1hoNG9QZUJ2eDQzbUpZYnlSSWptSUNTWmpIRQ",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
-      "description": "PC Gamer published: \"Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices - PC Gamer\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZnhPVU5xVVpqYmlCZjBfV3FtRlo4ZjFDY1U2ZHhGSnBfdHdSRnF5Q1EycnM4a1Iycnd4OEhHOTJqS3FNcDFwN25ETVQ2UHJsS3R1aHF4UUJXMmhNMk8tT1dDMGZIWEhKNEZhRDFrZ1VTcDNaVE5tMFQ5aXBNT2J3bC1VanItemNvVFc5dDhxNi1qbFBZSEltYWZlUThWRnZWb0tHSF8xUkt4SFpYaEZaTzhOUVpoUF9vSkVjRGpfenNRSW9adWowQkhrWmg1ZzlnN1hoNG9QZUJ2eDQzbUpZYnlSSWptSUNTWmpIRQ?oc=5",
-      "sourceLabel": "PC Gamer",
-      "occurredAt": "2026-10-01T20:13:04.000Z",
-      "fields": {
-        "outlet": "PC Gamer",
-        "headline": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices - PC Gamer"
-      },
-      "detectedAt": "2026-10-02T11:35:18.192Z",
-      "firstSeenAt": "2026-10-02T11:35:18.192Z",
-      "contentHash": "f19cbde60994c35b",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMimAFBVV95cUxQdGt2YU9NS25aMUQzdExrWG5oRXBvazQ2UDhhR0dER3d2NE5OT1FGWmM3dmowdHNVMWFfTWtkYmg4VU5ienNrenY5U1c5WGN6Nm9FckFxcVI1bW4zZ3ZOMGh1STk2UldPbHlnSmtUSWpBVm5FWjlHLVk2clNkdDM2UzdGdElNQVB6VlI3LTVEdlMyc3pBVGVEdg",
-        "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw"
-      ]
-    },
-    {
       "id": "press-coverage:CBMimAFBVV95cUxQdGt2YU9NS25aMUQzdExrWG5oRXBvazQ2UDhhR0dER3d2NE5OT1FGWmM3dmowdHNVMWFfTWtkYmg4VU5ienNrenY5U1c5WGN6Nm9FckFxcVI1bW4zZ3ZOMGh1STk2UldPbHlnSmtUSWpBVm5FWjlHLVk2clNkdDM2UzdGdElNQVB6VlI3LTVEdlMyc3pBVGVEdg",
       "sourceId": "press-coverage",
       "sourceType": "press",
@@ -64,29 +40,6 @@
       "detectedAt": "2026-10-02T03:10:02.095Z",
       "firstSeenAt": "2026-10-02T03:10:02.095Z",
       "contentHash": "ee81340171b8559a",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
-      "description": "IGN published: \"GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-10-01T20:47:43.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect - IGN"
-      },
-      "detectedAt": "2026-10-01T22:08:01.331Z",
-      "firstSeenAt": "2026-10-01T22:08:01.331Z",
-      "contentHash": "16f83e7686c76c65",
       "timesSeen": 1,
       "confidence": 0.6,
       "corroborations": []
@@ -113,29 +66,6 @@
       "corroborations": []
     },
     {
-      "id": "press-coverage:CBMipAFBVV95cUxNdVFRbjVoN3NGaTF2Vk1xdWxMMjFJdlRHSzJfX21taUc2N0R0d1pUMWs0elRvemg5cGpvdmNMalhfRmxYaVIzb3lVUEl0aXVoY0VuMEEwSWxXdWc3X2pIM2FzSndLaDJENnNYakZnTnRYUW1nT0owMWZzQUduS0ZWckNaRllWOWV3QVVoMF9ZdGdyRm9zZm9NeVFpMFRoWGJuWHJqTg",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
-      "description": "Push Square published: \"GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVFRbjVoN3NGaTF2Vk1xdWxMMjFJdlRHSzJfX21taUc2N0R0d1pUMWs0elRvemg5cGpvdmNMalhfRmxYaVIzb3lVUEl0aXVoY0VuMEEwSWxXdWc3X2pIM2FzSndLaDJENnNYakZnTnRYUW1nT0owMWZzQUduS0ZWckNaRllWOWV3QVVoMF9ZdGdyRm9zZm9NeVFpMFRoWGJuWHJqTg?oc=5",
-      "sourceLabel": "Push Square",
-      "occurredAt": "2026-09-24T23:30:00.000Z",
-      "fields": {
-        "outlet": "Push Square",
-        "headline": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds - Push Square"
-      },
-      "detectedAt": "2026-09-26T02:35:07.301Z",
-      "firstSeenAt": "2026-09-26T02:35:07.301Z",
-      "contentHash": "582692d96091d693",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z"
-      ]
-    },
-    {
       "id": "press-coverage:CBMi0wFBVV95cUxQQ1FjYWw0V25OSmgtMUJIb2MxUWlmTDJjWGJfcENNOXJPem9obld0MF9ISG1HaGFIblFzV0ZoRmw4UWhuZ0xsMzF5bmR2d2VpSnlQRHR6NDlPZkk2QS1ldTY3aXQ2VTBqaG9KSHp3dlFLclktRzJ0YXRtZTExbEpCcXNZeE04aVlibmdLYlBwMjIxRTFTRnRvZEVBaGx3UmNqLVV4Y2M4Vk1DdUVnN0Nyd2d1X2RFaVJ1OWxjLXZhV0lCZlllU0Q3elJhRzRnUlg1aWxv",
       "sourceId": "press-coverage",
       "sourceType": "press",
@@ -152,29 +82,6 @@
       "detectedAt": "2026-09-25T02:32:04.629Z",
       "firstSeenAt": "2026-09-25T02:32:04.629Z",
       "contentHash": "a118a1ad689570ba",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
-      "description": "GameSpot published: \"GTA 6 $400 Collector’s Edition Comes With Everything Except The Game - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z?oc=5",
-      "sourceLabel": "GameSpot",
-      "occurredAt": "2026-09-24T15:42:54.000Z",
-      "fields": {
-        "outlet": "GameSpot",
-        "headline": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game - GameSpot"
-      },
-      "detectedAt": "2026-09-24T20:56:16.199Z",
-      "firstSeenAt": "2026-09-24T20:56:16.199Z",
-      "contentHash": "6e00aaeaae695a7c",
       "timesSeen": 1,
       "confidence": 0.6,
       "corroborations": []
@@ -197,625 +104,6 @@
       "contentHash": "689aec26a9a6da52",
       "timesSeen": 3,
       "confidence": 0.95,
-      "corroborations": [
-        "rockstar-site:page-copy"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMizgFBVV95cUxPekM5VlJxM3BGajU0RjBwb3Fzd1dUZTgyLTRORUd0YWJUZExYbnprOWlVLVNCTnJaMXhzVlAtRFNfWTZGMGhaS01VRTlFeTNrc1BSa1R6NEpqV1VVT1FWcEU3ckxsSGJFRGlfcUNZMlgxUWhORHJzVmYyeE45TTQ5S2RJZ3lPMXhmeEpodnNzdUVsM2VPM21keWoxYVg4RFJRYmN0YmJYRkxhekdzRC1KaU5PS1Z5b3ZXREJidTY5WnVkS2Z4c2dLeW1MY2ZxZw",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays",
-      "description": "Kotaku published: \"GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekM5VlJxM3BGajU0RjBwb3Fzd1dUZTgyLTRORUd0YWJUZExYbnprOWlVLVNCTnJaMXhzVlAtRFNfWTZGMGhaS01VRTlFeTNrc1BSa1R6NEpqV1VVT1FWcEU3ckxsSGJFRGlfcUNZMlgxUWhORHJzVmYyeE45TTQ5S2RJZ3lPMXhmeEpodnNzdUVsM2VPM21keWoxYVg4RFJRYmN0YmJYRkxhekdzRC1KaU5PS1Z5b3ZXREJidTY5WnVkS2Z4c2dLeW1MY2ZxZw?oc=5",
-      "sourceLabel": "Kotaku",
-      "occurredAt": "2026-09-18T18:30:09.000Z",
-      "fields": {
-        "outlet": "Kotaku",
-        "headline": "GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays - Kotaku"
-      },
-      "detectedAt": "2026-09-18T20:09:46.523Z",
-      "firstSeenAt": "2026-09-18T20:09:46.523Z",
-      "contentHash": "90bb2eebde8c49e3",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder",
-      "description": "IGN published: \"Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-17T18:10:00.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder - IGN"
-      },
-      "detectedAt": "2026-09-18T10:15:13.568Z",
-      "firstSeenAt": "2026-09-18T10:15:13.568Z",
-      "contentHash": "c0cd62259756aad8",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw",
-        "press-coverage:CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms",
-      "description": "IGN published: \"GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-17T12:31:30.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms - IGN"
-      },
-      "detectedAt": "2026-09-17T20:45:27.035Z",
-      "firstSeenAt": "2026-09-17T20:45:27.035Z",
-      "contentHash": "1fa9533404cef280",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Grand Theft Auto VI: The Album Is Up for Preorder, Featuring 34 Tracks on Limited-Edition Vinyl, Standard Vinyl, or CD",
-      "description": "IGN published: \"Grand Theft Auto VI: The Album Is Up for Preorder, Featuring 34 Tracks on Limited-Edition Vinyl, Standard Vinyl, or CD - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-17T12:55:23.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Grand Theft Auto VI: The Album Is Up for Preorder, Featuring 34 Tracks on Limited-Edition Vinyl, Standard Vinyl, or CD - IGN"
-      },
-      "detectedAt": "2026-09-17T15:53:22.229Z",
-      "firstSeenAt": "2026-09-17T15:53:22.229Z",
-      "contentHash": "2e6682fbcba79965",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMihAFBVV95cUxNVkFrZ1JZWk5WeWhka0tVbnBFdDZmZ2hTbFBWQmVXeGhwTVpsZ3dxMm9IaHd3SnN4NzBJbXdNLXNTWHFLX01fX09XNUFBMks2bWlXT3RrSVlkTmZIMG5BWmpPb2xfWHZuLVJqMkpCWTRfSklGcHdEOFcxM0pvSjhoOUF4NVc",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Soundtrack – All Confirmed Songs So Far",
-      "description": "GameSpot published: \"GTA 6 Soundtrack – All Confirmed Songs So Far - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVkFrZ1JZWk5WeWhka0tVbnBFdDZmZ2hTbFBWQmVXeGhwTVpsZ3dxMm9IaHd3SnN4NzBJbXdNLXNTWHFLX01fX09XNUFBMks2bWlXT3RrSVlkTmZIMG5BWmpPb2xfWHZuLVJqMkpCWTRfSklGcHdEOFcxM0pvSjhoOUF4NVc?oc=5",
-      "sourceLabel": "GameSpot",
-      "occurredAt": "2026-09-15T17:52:07.000Z",
-      "fields": {
-        "outlet": "GameSpot",
-        "headline": "GTA 6 Soundtrack – All Confirmed Songs So Far - GameSpot"
-      },
-      "detectedAt": "2026-09-15T20:39:19.006Z",
-      "firstSeenAt": "2026-09-15T20:39:19.006Z",
-      "contentHash": "87615ea25f2b8fee",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMibkFVX3lxTE1hVjh5VWhzcmJpc3Nib3BVZG5pclN1VGNReGh4d0IwN3Q2NUs1T3NSZ1g5ZFE4YTVhN0VLc0VNU2dqRlRKSlFKODUtdldNenh5LUtiQ1p3UEp2VlFHTndhci1pdHFNdnFmSU5CU1pB",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Grand Theft Auto 6 Ultimate Edition Is $11 Off on PS5 if You Use This Trick (Today Only)",
-      "description": "IGN published: \"Grand Theft Auto 6 Ultimate Edition Is $11 Off on PS5 if You Use This Trick (Today Only) - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hVjh5VWhzcmJpc3Nib3BVZG5pclN1VGNReGh4d0IwN3Q2NUs1T3NSZ1g5ZFE4YTVhN0VLc0VNU2dqRlRKSlFKODUtdldNenh5LUtiQ1p3UEp2VlFHTndhci1pdHFNdnFmSU5CU1pB?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-15T14:08:29.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Grand Theft Auto 6 Ultimate Edition Is $11 Off on PS5 if You Use This Trick (Today Only) - IGN"
-      },
-      "detectedAt": "2026-09-15T15:54:59.468Z",
-      "firstSeenAt": "2026-09-15T15:54:59.468Z",
-      "contentHash": "76e9048f4a39bad0",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMilwFBVV95cUxNTzdkekotdnRUX2pDclFIaVlpNklSUHgzMUU3RW9mZlZEZFEycFMwTkVMdjZtVEc2M0s3dmtCck1MMnExR1daT2lncmhmZVBtREl2Q291V1NKSVNiOHdMendaNHNNX29SSmllZHl3eWE3ZHE4dlFvOGEwVExVQkVmYnRKU0ZoOWpOeW1NcmNoVUI5LVdKazEw",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6′ s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out",
-      "description": "Kotaku published: \"GTA 6′ s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzdkekotdnRUX2pDclFIaVlpNklSUHgzMUU3RW9mZlZEZFEycFMwTkVMdjZtVEc2M0s3dmtCck1MMnExR1daT2lncmhmZVBtREl2Q291V1NKSVNiOHdMendaNHNNX29SSmllZHl3eWE3ZHE4dlFvOGEwVExVQkVmYnRKU0ZoOWpOeW1NcmNoVUI5LVdKazEw?oc=5",
-      "sourceLabel": "Kotaku",
-      "occurredAt": "2026-09-14T11:45:37.000Z",
-      "fields": {
-        "outlet": "Kotaku",
-        "headline": "GTA 6′ s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out - Kotaku"
-      },
-      "detectedAt": "2026-09-15T15:54:59.468Z",
-      "firstSeenAt": "2026-09-15T15:54:59.468Z",
-      "contentHash": "d945e1cca0e33b04",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Will GTA 6's Ultimate Edition Be Worth The Extra Cost? Here's What It'll Come With",
-      "description": "Engadget published: \"Will GTA 6's Ultimate Edition Be Worth The Extra Cost? Here's What It'll Come With - Engadget\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg?oc=5",
-      "sourceLabel": "Engadget",
-      "occurredAt": "2026-09-14T14:30:00.000Z",
-      "fields": {
-        "outlet": "Engadget",
-        "headline": "Will GTA 6's Ultimate Edition Be Worth The Extra Cost? Here's What It'll Come With - Engadget"
-      },
-      "detectedAt": "2026-09-14T17:15:38.651Z",
-      "firstSeenAt": "2026-09-14T17:15:38.651Z",
-      "contentHash": "23fff24b5e36871d",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "'You're Gonna See Me in It' — King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So",
-      "description": "IGN published: \"'You're Gonna See Me in It' — King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-14T10:14:59.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "'You're Gonna See Me in It' — King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So - IGN"
-      },
-      "detectedAt": "2026-09-14T11:15:19.522Z",
-      "firstSeenAt": "2026-09-14T11:15:19.522Z",
-      "contentHash": "3abfa65576dfeded",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMilwFBVV95cUxOTTg3N2VtVEZzRno3dHBJdE9kRW5PaGVKNldCVVJaVmpKUnRpNXNkb29oTVJScTZuMnJFN3MxYm1kZHlfVG84QW5XbFJBN2g1RkY4TGRwTHdtdnVpYkxTQTVJX0lTR1dHTGdKNTZMR00xZUhRY3JQNnVwa0NQM2ZTSTh5TkdEV096SzY4RTc5dmNBVFItNkx3"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMilwFBVV95cUxOTTg3N2VtVEZzRno3dHBJdE9kRW5PaGVKNldCVVJaVmpKUnRpNXNkb29oTVJScTZuMnJFN3MxYm1kZHlfVG84QW5XbFJBN2g1RkY4TGRwTHdtdnVpYkxTQTVJX0lTR1dHTGdKNTZMR00xZUhRY3JQNnVwa0NQM2ZTSTh5TkdEV096SzY4RTc5dmNBVFItNkx3",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name",
-      "description": "GameSpot published: \"First GTA 6 Actor Officially Confirmed, And It’s A Big Name - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTg3N2VtVEZzRno3dHBJdE9kRW5PaGVKNldCVVJaVmpKUnRpNXNkb29oTVJScTZuMnJFN3MxYm1kZHlfVG84QW5XbFJBN2g1RkY4TGRwTHdtdnVpYkxTQTVJX0lTR1dHTGdKNTZMR00xZUhRY3JQNnVwa0NQM2ZTSTh5TkdEV096SzY4RTc5dmNBVFItNkx3?oc=5",
-      "sourceLabel": "GameSpot",
-      "occurredAt": "2026-09-14T10:28:14.000Z",
-      "fields": {
-        "outlet": "GameSpot",
-        "headline": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name - GameSpot"
-      },
-      "detectedAt": "2026-09-14T11:15:19.522Z",
-      "firstSeenAt": "2026-09-14T11:15:19.522Z",
-      "contentHash": "8ff47b639a0e334f",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay",
-      "description": "IGN published: \"GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-10T07:00:00.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay - IGN"
-      },
-      "detectedAt": "2026-09-12T02:10:11.553Z",
-      "firstSeenAt": "2026-09-11T15:32:08.512Z",
-      "contentHash": "6cff5abd6798e556",
-      "timesSeen": 2,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
-        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
-        "press-coverage:CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited",
-      "description": "IGN published: \"GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-10T15:34:09.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited - IGN"
-      },
-      "detectedAt": "2026-09-11T02:05:07.388Z",
-      "firstSeenAt": "2026-09-11T02:05:07.388Z",
-      "contentHash": "995435210c7a454b",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
-        "press-coverage:CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz",
-        "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6's PS5 Controller Preorders Create Chaos on PlayStation Store as Scalpers Take Advantage of Scarcity",
-      "description": "IGN published: \"GTA 6's PS5 Controller Preorders Create Chaos on PlayStation Store as Scalpers Take Advantage of Scarcity - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-10T17:27:15.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "GTA 6's PS5 Controller Preorders Create Chaos on PlayStation Store as Scalpers Take Advantage of Scarcity - IGN"
-      },
-      "detectedAt": "2026-09-11T02:05:07.388Z",
-      "firstSeenAt": "2026-09-11T02:05:07.388Z",
-      "contentHash": "27b775af026bcfdf",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
-        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
-        "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMiuwFBVV95cUxOUnNldGsyc0F0aHVUU0dkTnZ2UmhGNXNWTENVZGQ0Mk1sanhJcEJwekJoZ0ZuQ1hMVkhnakpydDIwR2pqTXl5UGJFZ3luWklsckJwMnBJRnE4VmMyZU4zazQ2Sm52bFdNLTJaSUxqMTUzVS1oVEwxb0hpbVNDSTI1Nmk1OXphRUkzTkhhVUxrbnVGckRERTZoUjg1UXJvOFNxazh1REhuc0RkSzRfdnMyOW4tSlNxbU85VmdF",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers",
-      "description": "Kotaku published: \"GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnNldGsyc0F0aHVUU0dkTnZ2UmhGNXNWTENVZGQ0Mk1sanhJcEJwekJoZ0ZuQ1hMVkhnakpydDIwR2pqTXl5UGJFZ3luWklsckJwMnBJRnE4VmMyZU4zazQ2Sm52bFdNLTJaSUxqMTUzVS1oVEwxb0hpbVNDSTI1Nmk1OXphRUkzTkhhVUxrbnVGckRERTZoUjg1UXJvOFNxazh1REhuc0RkSzRfdnMyOW4tSlNxbU85VmdF?oc=5",
-      "sourceLabel": "Kotaku",
-      "occurredAt": "2026-09-10T14:27:54.000Z",
-      "fields": {
-        "outlet": "Kotaku",
-        "headline": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - Kotaku"
-      },
-      "detectedAt": "2026-09-10T20:14:03.745Z",
-      "firstSeenAt": "2026-09-10T20:14:03.745Z",
-      "contentHash": "13ddd254fe77faa5",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 DualSense Controller Preorders Are Now Live in the UK",
-      "description": "IGN published: \"GTA 6 DualSense Controller Preorders Are Now Live in the UK - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-10T09:55:53.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "GTA 6 DualSense Controller Preorders Are Now Live in the UK - IGN"
-      },
-      "detectedAt": "2026-09-10T10:15:44.003Z",
-      "firstSeenAt": "2026-09-10T10:15:44.003Z",
-      "contentHash": "8022bf59c8faeed4",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Where to Pre-Order GTA 6 Controllers for PS5",
-      "description": "Push Square published: \"Where to Pre-Order GTA 6 Controllers for PS5 - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ?oc=5",
-      "sourceLabel": "Push Square",
-      "occurredAt": "2026-09-10T09:19:58.000Z",
-      "fields": {
-        "outlet": "Push Square",
-        "headline": "Where to Pre-Order GTA 6 Controllers for PS5 - Push Square"
-      },
-      "detectedAt": "2026-09-10T10:15:44.003Z",
-      "firstSeenAt": "2026-09-10T10:15:44.003Z",
-      "contentHash": "1e9b0cf8d931b7ce",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMimAFBVV95cUxOV2hVelNqUGNqc1phUk12R01qUUF6bmtBSVhBUE9ZSWFGWFJVZDR6bTFMbU1hWkRPUGNWT3A0LXhSd3oxRE8zSjl3ZEduczk5dkJKLWU4ZkZaS25QdnpjR3ZMdHgxV051LWp6eUNRNFlYRk1jdDYtOXJuNWlZOTd2N2pYMVBjRGxiQUNpMW41T3ZSaDdjSnlQUA",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Was Not \"Fully Formed\" When Trailer 1 Came Out In 2023",
-      "description": "GameSpot published: \"GTA 6 Was Not \"Fully Formed\" When Trailer 1 Came Out In 2023 - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2hVelNqUGNqc1phUk12R01qUUF6bmtBSVhBUE9ZSWFGWFJVZDR6bTFMbU1hWkRPUGNWT3A0LXhSd3oxRE8zSjl3ZEduczk5dkJKLWU4ZkZaS25QdnpjR3ZMdHgxV051LWp6eUNRNFlYRk1jdDYtOXJuNWlZOTd2N2pYMVBjRGxiQUNpMW41T3ZSaDdjSnlQUA?oc=5",
-      "sourceLabel": "GameSpot",
-      "occurredAt": "2026-09-09T14:58:46.000Z",
-      "fields": {
-        "outlet": "GameSpot",
-        "headline": "GTA 6 Was Not \"Fully Formed\" When Trailer 1 Came Out In 2023 - GameSpot"
-      },
-      "detectedAt": "2026-09-10T02:07:55.482Z",
-      "firstSeenAt": "2026-09-10T02:07:55.482Z",
-      "contentHash": "d37dae23cdf552fc",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMi2AFBVV95cUxQSnF0NVQ4b1pZYXU4YVUxNHVsMFBxUVpVZkl4Z2NzS1pkNlJmX2Jlb0RmMTVWV3NvcFhMZnlnbXhpZXlHTVhBZ0NvVW1QVU13ZjUySEFMeUk5RDhFMzJRWjhSV3IweFpHeWN1OXIycXRpV2g5TV9VVktuRDU1RUcyNW1ncWhxYzFaWkkxM3Foalh3VEl3TklLMHBBbmItaGlyS0tLT0JZTkZWa2pmbmJVX2Jkd1k4ZnFDc0drSkVXVFZ6Rlp0WnpKVWE3Ry1FV1k0MWl2NmliT2w",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Best Buy Is Offering $100 Gift Cards For $60 This Weekend, And That's Great If You Want GTA 6's Premium Edition",
-      "description": "GameSpot published: \"Best Buy Is Offering $100 Gift Cards For $60 This Weekend, And That's Great If You Want GTA 6's Premium Edition - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnF0NVQ4b1pZYXU4YVUxNHVsMFBxUVpVZkl4Z2NzS1pkNlJmX2Jlb0RmMTVWV3NvcFhMZnlnbXhpZXlHTVhBZ0NvVW1QVU13ZjUySEFMeUk5RDhFMzJRWjhSV3IweFpHeWN1OXIycXRpV2g5TV9VVktuRDU1RUcyNW1ncWhxYzFaWkkxM3Foalh3VEl3TklLMHBBbmItaGlyS0tLT0JZTkZWa2pmbmJVX2Jkd1k4ZnFDc0drSkVXVFZ6Rlp0WnpKVWE3Ry1FV1k0MWl2NmliT2w?oc=5",
-      "sourceLabel": "GameSpot",
-      "occurredAt": "2026-08-20T18:43:58.000Z",
-      "fields": {
-        "outlet": "GameSpot",
-        "headline": "Best Buy Is Offering $100 Gift Cards For $60 This Weekend, And That's Great If You Want GTA 6's Premium Edition - GameSpot"
-      },
-      "detectedAt": "2026-09-09T10:24:14.388Z",
-      "firstSeenAt": "2026-09-09T10:24:14.388Z",
-      "contentHash": "057ca9416e410346",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMivAFBVV95cUxOUktFVExlVS1DYWt6UFhSb2pUd2I4MkN6X1lDSmFhcnNCMnFDanRNN2tIb24wZFZXMmp4WEdlRERLV3ktckRmU3FmUkhLcFhZVGFteUtFVUZZYS1tMW5tT2VCUDZ4b3ZIVFFJNlFUZE5zTktNNVYxWmNYV3htMk93aFJzNFFSZ1JRUWlyT011ZV9oT3g1a083VV9VTmNrcVdUR0dGX1BTTXVRSmJIa0w3a3AyVTl3Q0tTSExFMg",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers",
-      "description": "IGN published: \"Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUktFVExlVS1DYWt6UFhSb2pUd2I4MkN6X1lDSmFhcnNCMnFDanRNN2tIb24wZFZXMmp4WEdlRERLV3ktckRmU3FmUkhLcFhZVGFteUtFVUZZYS1tMW5tT2VCUDZ4b3ZIVFFJNlFUZE5zTktNNVYxWmNYV3htMk93aFJzNFFSZ1JRUWlyT011ZV9oT3g1a083VV9VTmNrcVdUR0dGX1BTTXVRSmJIa0w3a3AyVTl3Q0tTSExFMg?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-03T17:36:03.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN"
-      },
-      "detectedAt": "2026-09-04T20:02:15.790Z",
-      "firstSeenAt": "2026-09-04T20:02:15.790Z",
-      "contentHash": "f3482a31d60de080",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMiogFBVV95cUxPNElzQnhhdkk2aDBzZVBkU2FCTHZodXlJM3IxSlhtLS1DMzFfVFVWRXh6dDNreTN5NHhLamdyVWl6ek9QZ2pDYWpYOFNESmVJSmRNTjVHZVdodnh4aXc2WE9DbURJYk9IQ19OQXU4QmJhcVBlVlFzSjJpRFZwY1doS29UVnF5YjJ4dHNoQlNIYklDajNKY3Q0akxWV3liZnBFNHc",
-        "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMiogFBVV95cUxPNElzQnhhdkk2aDBzZVBkU2FCTHZodXlJM3IxSlhtLS1DMzFfVFVWRXh6dDNreTN5NHhLamdyVWl6ek9QZ2pDYWpYOFNESmVJSmRNTjVHZVdodnh4aXc2WE9DbURJYk9IQ19OQXU4QmJhcVBlVlFzSjJpRFZwY1doS29UVnF5YjJ4dHNoQlNIYklDajNKY3Q0akxWV3liZnBFNHc",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers",
-      "description": "IGN published: \"Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNElzQnhhdkk2aDBzZVBkU2FCTHZodXlJM3IxSlhtLS1DMzFfVFVWRXh6dDNreTN5NHhLamdyVWl6ek9QZ2pDYWpYOFNESmVJSmRNTjVHZVdodnh4aXc2WE9DbURJYk9IQ19OQXU4QmJhcVBlVlFzSjJpRFZwY1doS29UVnF5YjJ4dHNoQlNIYklDajNKY3Q0akxWV3liZnBFNHc?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-03T14:04:32.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN"
-      },
-      "detectedAt": "2026-09-04T10:17:08.152Z",
-      "firstSeenAt": "2026-09-04T10:17:08.152Z",
-      "contentHash": "44c3209056732405",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMihwFBVV95cUxOVkI2cjBfdkpIaXZBOGFrZnZOM2pRSlF6bU00LWVGZVJES183cEMyc0x2ajZuS2dHRlRqMUpKSVNCZlc0S3ZkQzlUY1laNXdDU1RJUTFCZ05ENkNvVi1fS0d1QzVIRjBwcVNGLVdTdW15Z29JbHdQOTVpSXNPNGctdVRhakw5cDg",
-        "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMihwFBVV95cUxOVkI2cjBfdkpIaXZBOGFrZnZOM2pRSlF6bU00LWVGZVJES183cEMyc0x2ajZuS2dHRlRqMUpKSVNCZlc0S3ZkQzlUY1laNXdDU1RJUTFCZ05ENkNvVi1fS0d1QzVIRjBwcVNGLVdTdW15Z29JbHdQOTVpSXNPNGctdVRhakw5cDg",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Grand Theft Auto 6 Preorder Discount: Here's How to Save $12 for the PS5 Game – But the Deal Ends Soon",
-      "description": "IGN published: \"Grand Theft Auto 6 Preorder Discount: Here's How to Save $12 for the PS5 Game – But the Deal Ends Soon - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkI2cjBfdkpIaXZBOGFrZnZOM2pRSlF6bU00LWVGZVJES183cEMyc0x2ajZuS2dHRlRqMUpKSVNCZlc0S3ZkQzlUY1laNXdDU1RJUTFCZ05ENkNvVi1fS0d1QzVIRjBwcVNGLVdTdW15Z29JbHdQOTVpSXNPNGctdVRhakw5cDg?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-03T18:41:37.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Grand Theft Auto 6 Preorder Discount: Here's How to Save $12 for the PS5 Game – But the Deal Ends Soon - IGN"
-      },
-      "detectedAt": "2026-09-04T02:05:24.309Z",
-      "firstSeenAt": "2026-09-04T02:05:24.309Z",
-      "contentHash": "46519184dd9ef23d",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
-        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic",
-      "description": "GameSpot published: \"GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL?oc=5",
-      "sourceLabel": "GameSpot",
-      "occurredAt": "2026-09-03T13:54:57.000Z",
-      "fields": {
-        "outlet": "GameSpot",
-        "headline": "GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic - GameSpot"
-      },
-      "detectedAt": "2026-09-03T20:17:32.101Z",
-      "firstSeenAt": "2026-09-03T20:17:32.101Z",
-      "contentHash": "656f15c57ae7733c",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ",
-        "press-coverage:CBMikgFBVV95cUxQMFBBbzlJZm50ZWNUQzExLU1PV1lybzIzSUxNUGRCazBtU2o4Y0pmc3NCcS1Yd1V4cnl6V0ZFb19ROW53d05xZXA3Z3k2Y09qTl9JV2ZEUVNNMlA5RWtSazBPMEpYNTBoMUpHbHR0N212dE5xZzM1RG1JVEV6dGlacnhERkR3VWlvY3ZLelF2VXJJZw"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMikgFBVV95cUxQMFBBbzlJZm50ZWNUQzExLU1PV1lybzIzSUxNUGRCazBtU2o4Y0pmc3NCcS1Yd1V4cnl6V0ZFb19ROW53d05xZXA3Z3k2Y09qTl9JV2ZEUVNNMlA5RWtSazBPMEpYNTBoMUpHbHR0N212dE5xZzM1RG1JVEV6dGlacnhERkR3VWlvY3ZLelF2VXJJZw",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Everything Announced at the Sony State of Play - September 2026",
-      "description": "IGN published: \"Everything Announced at the Sony State of Play - September 2026 - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFBBbzlJZm50ZWNUQzExLU1PV1lybzIzSUxNUGRCazBtU2o4Y0pmc3NCcS1Yd1V4cnl6V0ZFb19ROW53d05xZXA3Z3k2Y09qTl9JV2ZEUVNNMlA5RWtSazBPMEpYNTBoMUpHbHR0N212dE5xZzM1RG1JVEV6dGlacnhERkR3VWlvY3ZLelF2VXJJZw?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-09-03T18:59:37.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Everything Announced at the Sony State of Play - September 2026 - IGN"
-      },
-      "detectedAt": "2026-09-03T20:17:32.101Z",
-      "firstSeenAt": "2026-09-03T20:17:32.101Z",
-      "contentHash": "58e985fdb4cce4e7",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
-        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "PlayStation reveals limited-edition GTA VI controllers.",
-      "description": "The Verge published: \"PlayStation reveals limited-edition GTA VI controllers. - The Verge\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF?oc=5",
-      "sourceLabel": "The Verge",
-      "occurredAt": "2026-09-03T13:57:09.000Z",
-      "fields": {
-        "outlet": "The Verge",
-        "headline": "PlayStation reveals limited-edition GTA VI controllers. - The Verge"
-      },
-      "detectedAt": "2026-09-03T15:29:02.824Z",
-      "firstSeenAt": "2026-09-03T15:29:02.824Z",
-      "contentHash": "af8523d407d94073",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November",
-      "description": "Push Square published: \"GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ?oc=5",
-      "sourceLabel": "Push Square",
-      "occurredAt": "2026-09-03T13:40:00.000Z",
-      "fields": {
-        "outlet": "Push Square",
-        "headline": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square"
-      },
-      "detectedAt": "2026-09-03T15:29:02.824Z",
-      "firstSeenAt": "2026-09-03T15:29:02.824Z",
-      "contentHash": "517e42f873366cfb",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMi2wFBVV95cUxOQnA4TTBWTHZWaHVRd3diNy1RZWROaUxvTWVLT0xETUhjSklYWEFqRnhoVTA1RGxDa1RXa1UwOW5VSnBZODIyUEVJWGZnZnNDdGRPZm8yUDN4TUx2dDdUMXU4QUlpZzNSLXp5ZmdERElhRTdIY0hya0tENmV2UGNpTlZQUE93dk5jNFM5NzNKVXdqdGU4X1RWMnFHRmtUU1BJLUpOZ3BNcHhQWDhFUzlTVDNJNjdIMHNiWk1MalZLWGtrd0c4R0lSTXE0alZmS1dWdXRUalBnOXZGck0",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027",
-      "description": "PC Gamer published: \"No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027 - PC Gamer\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnA4TTBWTHZWaHVRd3diNy1RZWROaUxvTWVLT0xETUhjSklYWEFqRnhoVTA1RGxDa1RXa1UwOW5VSnBZODIyUEVJWGZnZnNDdGRPZm8yUDN4TUx2dDdUMXU4QUlpZzNSLXp5ZmdERElhRTdIY0hya0tENmV2UGNpTlZQUE93dk5jNFM5NzNKVXdqdGU4X1RWMnFHRmtUU1BJLUpOZ3BNcHhQWDhFUzlTVDNJNjdIMHNiWk1MalZLWGtrd0c4R0lSTXE0alZmS1dWdXRUalBnOXZGck0?oc=5",
-      "sourceLabel": "PC Gamer",
-      "occurredAt": "2026-09-01T18:19:56.000Z",
-      "fields": {
-        "outlet": "PC Gamer",
-        "headline": "No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027 - PC Gamer"
-      },
-      "detectedAt": "2026-09-03T02:05:16.902Z",
-      "firstSeenAt": "2026-09-03T02:05:16.902Z",
-      "contentHash": "c02a0ad0d02f3848",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMisAFBVV95cUxNVXowdmVuUWRDQ2ptTGd3YW1pZk5rYzE0Q3ZGbS1ib1M3a0Y5eklYbTN0UDZJOHA4VUZiMmFJMzBiSGoyMU5KZzJWZjhIUGk5Y0FlSXVlWXpmOTVLV185Qi0yRnFoNlRpV0lyVHVFbUlPeWxPX0VqRU1HR0lFQXViV2NSZHZ6X3FRV1Jnb0dRYWZiRlRheG9idk1DYk9vV2RJWW10RUp0MmVfYlFpR3doTg",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Netflix Trailer: Every Song We Heard, Including Deep Cuts",
-      "description": "Kotaku published: \"GTA 6 Netflix Trailer: Every Song We Heard, Including Deep Cuts - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXowdmVuUWRDQ2ptTGd3YW1pZk5rYzE0Q3ZGbS1ib1M3a0Y5eklYbTN0UDZJOHA4VUZiMmFJMzBiSGoyMU5KZzJWZjhIUGk5Y0FlSXVlWXpmOTVLV185Qi0yRnFoNlRpV0lyVHVFbUlPeWxPX0VqRU1HR0lFQXViV2NSZHZ6X3FRV1Jnb0dRYWZiRlRheG9idk1DYk9vV2RJWW10RUp0MmVfYlFpR3doTg?oc=5",
-      "sourceLabel": "Kotaku",
-      "occurredAt": "2026-08-29T20:40:53.000Z",
-      "fields": {
-        "outlet": "Kotaku",
-        "headline": "GTA 6 Netflix Trailer: Every Song We Heard, Including Deep Cuts - Kotaku"
-      },
-      "detectedAt": "2026-08-30T15:43:23.830Z",
-      "firstSeenAt": "2026-08-30T15:43:23.830Z",
-      "contentHash": "51db0a8ec6329868",
-      "timesSeen": 1,
-      "confidence": 0.6,
       "corroborations": []
     },
     {
@@ -837,271 +125,7 @@
       "contentHash": "441bd2e320300b34",
       "timesSeen": 1,
       "confidence": 0.6,
-      "corroborations": [
-        "press-coverage:CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw"
-      ]
-    },
-    {
-      "id": "press-coverage:CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More",
-      "description": "IGN published: \"What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-08-28T12:38:56.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More - IGN"
-      },
-      "detectedAt": "2026-08-28T17:53:43.195Z",
-      "firstSeenAt": "2026-08-28T17:53:43.195Z",
-      "contentHash": "2261bb9d6e763325",
-      "timesSeen": 1,
-      "confidence": 0.6,
       "corroborations": []
-    },
-    {
-      "id": "netflix-premiere:schedule",
-      "sourceId": "netflix-premiere",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Netflix listing schedule reads 2026-08-27T19:00:00.000Z",
-      "description": "Scheduled timestamps published on the Netflix listing: 2026-08-27T19:00:00.000Z.",
-      "url": "https://www.netflix.com/GTAVI",
-      "sourceLabel": "Netflix listing",
-      "occurredAt": "2026-08-28T01:54:53.309Z",
-      "fields": {
-        "schedule": "2026-08-27T19:00:00.000Z"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-22T18:15:47.665Z",
-      "contentHash": "4e07bf70602dbd43",
-      "timesSeen": 2,
-      "confidence": 0.9,
-      "corroborations": [
-        "netflix-premiere:listing"
-      ]
-    },
-    {
-      "id": "rockstar-youtube:yt:video:MJOrsRRa9GM",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
-      "description": "#GrandTheftAutoVI #GTAVI",
-      "url": "https://www.youtube.com/shorts/MJOrsRRa9GM",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-08-28T01:01:30.000Z",
-      "fields": {
-        "videoId": "yt:video:MJOrsRRa9GM",
-        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "3dc0f8e5bbb4969a",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-youtube:yt:video:53C6gUqRpK4",
-        "rockstar-youtube:yt:video:mAfR_ybf5WM",
-        "rockstar-youtube:yt:video:L-9NI3mHZVo",
-        "rockstar-youtube:yt:video:GVTE_MuInQg",
-        "rockstar-youtube:yt:video:Xzxv75FjMJk",
-        "rockstar-youtube:yt:video:tJbzMqJGH4k"
-      ]
-    },
-    {
-      "id": "rockstar-youtube:yt:video:53C6gUqRpK4",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
-      "description": "#GrandTheftAutoVI #GTAVI",
-      "url": "https://www.youtube.com/shorts/53C6gUqRpK4",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-08-28T01:01:28.000Z",
-      "fields": {
-        "videoId": "yt:video:53C6gUqRpK4",
-        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "e8213b09c0b8f2b7",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-youtube:yt:video:MJOrsRRa9GM",
-        "rockstar-youtube:yt:video:mAfR_ybf5WM",
-        "rockstar-youtube:yt:video:L-9NI3mHZVo",
-        "rockstar-youtube:yt:video:GVTE_MuInQg",
-        "rockstar-youtube:yt:video:Xzxv75FjMJk",
-        "rockstar-youtube:yt:video:tJbzMqJGH4k"
-      ]
-    },
-    {
-      "id": "rockstar-youtube:yt:video:mAfR_ybf5WM",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
-      "description": "#GrandTheftAutoVI #GTAVI",
-      "url": "https://www.youtube.com/shorts/mAfR_ybf5WM",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-08-28T01:01:24.000Z",
-      "fields": {
-        "videoId": "yt:video:mAfR_ybf5WM",
-        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "2643957d351d31ef",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-youtube:yt:video:MJOrsRRa9GM",
-        "rockstar-youtube:yt:video:53C6gUqRpK4",
-        "rockstar-youtube:yt:video:L-9NI3mHZVo",
-        "rockstar-youtube:yt:video:GVTE_MuInQg",
-        "rockstar-youtube:yt:video:Xzxv75FjMJk",
-        "rockstar-youtube:yt:video:tJbzMqJGH4k"
-      ]
-    },
-    {
-      "id": "rockstar-youtube:yt:video:L-9NI3mHZVo",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
-      "description": "#GrandTheftAutoVI #GTAVI",
-      "url": "https://www.youtube.com/shorts/L-9NI3mHZVo",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-08-28T01:01:21.000Z",
-      "fields": {
-        "videoId": "yt:video:L-9NI3mHZVo",
-        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "723d5be38dbe31b9",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-youtube:yt:video:MJOrsRRa9GM",
-        "rockstar-youtube:yt:video:53C6gUqRpK4",
-        "rockstar-youtube:yt:video:mAfR_ybf5WM",
-        "rockstar-youtube:yt:video:GVTE_MuInQg",
-        "rockstar-youtube:yt:video:Xzxv75FjMJk",
-        "rockstar-youtube:yt:video:tJbzMqJGH4k"
-      ]
-    },
-    {
-      "id": "rockstar-youtube:yt:video:GVTE_MuInQg",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
-      "description": "#GrandTheftAutoVI #GTAVI",
-      "url": "https://www.youtube.com/shorts/GVTE_MuInQg",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-08-28T01:01:18.000Z",
-      "fields": {
-        "videoId": "yt:video:GVTE_MuInQg",
-        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "35d1a9ef69638aa0",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-youtube:yt:video:MJOrsRRa9GM",
-        "rockstar-youtube:yt:video:53C6gUqRpK4",
-        "rockstar-youtube:yt:video:mAfR_ybf5WM",
-        "rockstar-youtube:yt:video:L-9NI3mHZVo",
-        "rockstar-youtube:yt:video:Xzxv75FjMJk",
-        "rockstar-youtube:yt:video:tJbzMqJGH4k"
-      ]
-    },
-    {
-      "id": "rockstar-youtube:yt:video:Xzxv75FjMJk",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
-      "description": "#GrandTheftAutoVI #GTAVI",
-      "url": "https://www.youtube.com/shorts/Xzxv75FjMJk",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-08-28T01:01:15.000Z",
-      "fields": {
-        "videoId": "yt:video:Xzxv75FjMJk",
-        "title": "Grand Theft Auto VI: An Extended Look — Now Playing"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "4744834bd85066e7",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-youtube:yt:video:MJOrsRRa9GM",
-        "rockstar-youtube:yt:video:53C6gUqRpK4",
-        "rockstar-youtube:yt:video:mAfR_ybf5WM",
-        "rockstar-youtube:yt:video:L-9NI3mHZVo",
-        "rockstar-youtube:yt:video:GVTE_MuInQg",
-        "rockstar-youtube:yt:video:tJbzMqJGH4k"
-      ]
-    },
-    {
-      "id": "rockstar-youtube:yt:video:tJbzMqJGH4k",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look",
-      "description": "Captured entirely from in-game footage on PlayStation 5, this extended look at the next Grand Theft Auto showcases the biggest, most immersive evolution of the series yet. Grand Theft Auto VI plays best on PlayStation 5. Coming November 19.",
-      "url": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-08-28T01:00:48.000Z",
-      "fields": {
-        "videoId": "yt:video:tJbzMqJGH4k",
-        "title": "Grand Theft Auto VI: An Extended Look"
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "853d68f55f42c1a9",
-      "timesSeen": 1,
-      "confidence": 0.95,
-      "corroborations": [
-        "rockstar-youtube:yt:video:MJOrsRRa9GM",
-        "rockstar-youtube:yt:video:53C6gUqRpK4",
-        "rockstar-youtube:yt:video:mAfR_ybf5WM",
-        "rockstar-youtube:yt:video:L-9NI3mHZVo",
-        "rockstar-youtube:yt:video:GVTE_MuInQg",
-        "rockstar-youtube:yt:video:Xzxv75FjMJk"
-      ]
-    },
-    {
-      "id": "netflix-premiere:listing",
-      "sourceId": "netflix-premiere",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Netflix listing copy changed",
-      "description": "The Netflix listing now reads \"Watch Grand Theft Auto VI: An Extended Look | Netflix\": See the next evolution in the groundbreaking Grand Theft Auto series. Coming November 19 to PlayStation 5 and XBOX Series X|S.",
-      "url": "https://www.netflix.com/GTAVI",
-      "sourceLabel": "Netflix listing",
-      "occurredAt": "2026-08-28T01:54:53.309Z",
-      "fields": {
-        "title": "Watch Grand Theft Auto VI: An Extended Look | Netflix",
-        "description": "See the next evolution in the groundbreaking Grand Theft Auto series. Coming November 19 to PlayStation 5 and XBOX Series X|S."
-      },
-      "detectedAt": "2026-08-28T01:54:51.279Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "f63d6d1286f59e4d",
-      "timesSeen": 1,
-      "confidence": 0.9,
-      "corroborations": [
-        "netflix-premiere:schedule"
-      ]
     },
     {
       "id": "press-coverage:CBMiggJBVV95cUxQOFliTFAyQ0V0Q21BZUtKOTZpazlKREEyS2tHOC1kZENucnJIQTFJemtHY3BfZkpGMGRzOS1vWGFKSnB5TktYS2VOcXpNemxreEV6TEdQYjMycmg1dVkwdWhWR2Ftby1YaXh0RmN2MjBJSS10VU9fdV81clpGQ2NmSE1TNGRrdENVSlVOem1fWWw4aDB1Mk9WNGJrMnltdUFEaXFrQlhraWktSTFaMVpkbEFxdW1QdVZySW9iSXV3UXN2dGVXb3FnU1FINVRBbVhZZ3hubk5vQUlyeE9HNFhxX2dOb0Z5YUlWNzlqTDFTS1FoMWpxZVJsWHI1MHdMamtPNXc",
@@ -1123,70 +147,368 @@
       "timesSeen": 1,
       "confidence": 0.6,
       "corroborations": []
-    },
+    }
+  ],
+  "rejected": [
     {
-      "id": "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs",
+      "id": "press-coverage:CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U",
       "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers",
-      "description": "Bloomberg published: \"Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs?oc=5",
-      "sourceLabel": "Bloomberg",
-      "occurredAt": "2026-08-07T07:00:00.000Z",
-      "fields": {
-        "outlet": "Bloomberg",
-        "headline": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers - Bloomberg"
-      },
-      "detectedAt": "2026-08-26T12:31:20.967Z",
-      "firstSeenAt": "2026-08-24T06:36:50.792Z",
-      "contentHash": "20de6c9b623e90e6",
-      "timesSeen": 5,
-      "confidence": 0.6,
-      "corroborations": []
+      "title": "GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos",
+      "reason": "Engadget leak/takedown coverage from August 18 overlaps the already published alleged-clips and takedown events; its URL is merely another RSS wrapper. The automatic official tag does not authenticate leaked gameplay.",
+      "rejectedAt": "2026-10-03T06:54:03.561Z",
+      "contentHash": "89764a079f2fd8ff",
+      "reasonCategory": "duplicate"
     },
     {
       "id": "press-coverage:CBMimwFBVV95cUxQU3o0dFluYXdCbElLV1VLQTA2WV9VNnJ6UHZlUWtvdDRjLTlHMUhvNlcwSU9EcmFETkh6WS1wcEwySzBoQWtrUDNaZmtyZ0oxdlhKcVpSYVBFN1E2VHE5MFhpa0didE9CVmhQM3pmaE0zdXh1cldvdFc4bTNlUUN5MXRZSjVoNXd0a3U1eV9aTUtLMndhZDlncjl3MA",
       "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
       "title": "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed",
-      "description": "IGN published: \"Grand Theft Auto 6: An Extended Look Global Release Times Confirmed - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3o0dFluYXdCbElLV1VLQTA2WV9VNnJ6UHZlUWtvdDRjLTlHMUhvNlcwSU9EcmFETkh6WS1wcEwySzBoQWtrUDNaZmtyZ0oxdlhKcVpSYVBFN1E2VHE5MFhpa0didE9CVmhQM3pmaE0zdXh1cldvdFc4bTNlUUN5MXRZSjVoNXd0a3U1eV9aTUtLMndhZDlncjl3MA?oc=5",
-      "sourceLabel": "IGN",
-      "occurredAt": "2026-08-25T11:10:05.000Z",
-      "fields": {
-        "outlet": "IGN",
-        "headline": "Grand Theft Auto 6: An Extended Look Global Release Times Confirmed - IGN"
-      },
-      "detectedAt": "2026-08-25T18:25:05.474Z",
-      "firstSeenAt": "2026-08-25T18:25:05.474Z",
+      "reason": "IGN premiere-time coverage repeats the date and Netflix/YouTube timing in the published August 6 Extended Look announcement; the event has now happened.",
+      "rejectedAt": "2026-10-03T06:54:03.457Z",
       "contentHash": "771f353af80a21fa",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
+      "reasonCategory": "duplicate"
     },
     {
-      "id": "press-coverage:CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U",
+      "id": "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs",
       "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos",
-      "description": "Engadget published: \"GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos - Engadget\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U?oc=5",
-      "sourceLabel": "Engadget",
-      "occurredAt": "2026-08-18T20:29:54.000Z",
-      "fields": {
-        "outlet": "Engadget",
-        "headline": "GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos - Engadget"
-      },
-      "detectedAt": "2026-08-22T15:41:25.780Z",
-      "firstSeenAt": "2026-08-22T15:41:25.780Z",
-      "contentHash": "89764a079f2fd8ff",
-      "timesSeen": 1,
-      "confidence": 0.6,
-      "corroborations": []
+      "title": "Why Take-Two Won’t Share ‘Unprecedented’ ‘Grand Theft Auto VI’ Pre-Order Numbers",
+      "reason": "Bloomberg's August 7 story about withheld preorder numbers is old. The existing August 21 estimates event already says the figures are third-party estimates, not published Take-Two numbers; this queue item supplies no new count.",
+      "rejectedAt": "2026-10-03T06:54:03.341Z",
+      "contentHash": "20de6c9b623e90e6",
+      "reasonCategory": "stale"
+    },
+    {
+      "id": "netflix-premiere:listing",
+      "sourceId": "netflix-premiere",
+      "title": "Netflix listing copy changed",
+      "reason": "Netflix listing copy repeats the Extended Look availability and November 19/platform information already represented by the announcement, #46 and the release target.",
+      "rejectedAt": "2026-10-03T06:54:03.228Z",
+      "contentHash": "f63d6d1286f59e4d",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "rockstar-youtube:yt:video:Xzxv75FjMJk",
+      "sourceId": "rockstar-youtube",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "reason": "Official YouTube Short Xzxv75FjMJk; same promotional title/campaign as #40–#45 and full video #46.",
+      "rejectedAt": "2026-10-03T06:54:03.122Z",
+      "contentHash": "4744834bd85066e7",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "rockstar-youtube:yt:video:GVTE_MuInQg",
+      "sourceId": "rockstar-youtube",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "reason": "Official YouTube Short GVTE_MuInQg; same promotional title/campaign as #40–#45 and full video #46.",
+      "rejectedAt": "2026-10-03T06:54:03.018Z",
+      "contentHash": "35d1a9ef69638aa0",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "rockstar-youtube:yt:video:L-9NI3mHZVo",
+      "sourceId": "rockstar-youtube",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "reason": "Official YouTube Short L-9NI3mHZVo; same promotional title/campaign as #40–#45 and full video #46.",
+      "rejectedAt": "2026-10-03T06:54:02.914Z",
+      "contentHash": "723d5be38dbe31b9",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "rockstar-youtube:yt:video:mAfR_ybf5WM",
+      "sourceId": "rockstar-youtube",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "reason": "Official YouTube Short mAfR_ybf5WM; same promotional title/campaign as #40–#45 and full video #46.",
+      "rejectedAt": "2026-10-03T06:54:02.811Z",
+      "contentHash": "2643957d351d31ef",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "rockstar-youtube:yt:video:53C6gUqRpK4",
+      "sourceId": "rockstar-youtube",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "reason": "Official YouTube Short 53C6gUqRpK4; same promotional title/campaign as #40–#45 and full video #46.",
+      "rejectedAt": "2026-10-03T06:54:02.704Z",
+      "contentHash": "e8213b09c0b8f2b7",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "rockstar-youtube:yt:video:MJOrsRRa9GM",
+      "sourceId": "rockstar-youtube",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: An Extended Look — Now Playing",
+      "reason": "Official YouTube Short MJOrsRRa9GM has the promotional “An Extended Look — Now Playing” title, the same campaign and near-identical upload time as five other Shorts, alongside full video #46.",
+      "rejectedAt": "2026-10-03T06:54:02.594Z",
+      "contentHash": "3dc0f8e5bbb4969a",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "netflix-premiere:schedule",
+      "sourceId": "netflix-premiere",
+      "title": "Netflix listing schedule reads 2026-08-27T19:00:00.000Z",
+      "reason": "Netflix's stored August 27 19:00 UTC schedule is historical; the published August 6 Extended Look announcement already gives the premiere time. The candidate's occurredAt was later overwritten to the August 28 observation time.",
+      "rejectedAt": "2026-10-03T06:54:02.494Z",
+      "contentHash": "4e07bf70602dbd43",
+      "reasonCategory": "stale"
+    },
+    {
+      "id": "press-coverage:CBMib0FVX3lxTE9WZVhzMXROand2blZXenI0NkV0YXJwQ25LZF85ZE1tZ1NxaFROb21WVUI2NHBOQ2hyQno0MWYxZXNRYUdmVWJmZkpSM2c0T21NSk9KU2VEcGlqOGtCX1hnWHdjTmNOWHBPMU1vd1gtaw",
+      "sourceId": "press-coverage",
+      "title": "What Console Should You Buy for GTA 6? We Break Down PS5 vs. Xbox Pricing, Deals, and More",
+      "reason": "IGN console-buying guide on PS5/Xbox pricing and deals; no new GTA VI platform confirmation or release fact.",
+      "rejectedAt": "2026-10-03T06:54:02.375Z",
+      "contentHash": "2261bb9d6e763325",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMisAFBVV95cUxNVXowdmVuUWRDQ2ptTGd3YW1pZk5rYzE0Q3ZGbS1ib1M3a0Y5eklYbTN0UDZJOHA4VUZiMmFJMzBiSGoyMU5KZzJWZjhIUGk5Y0FlSXVlWXpmOTVLV185Qi0yRnFoNlRpV0lyVHVFbUlPeWxPX0VqRU1HR0lFQXViV2NSZHZ6X3FRV1Jnb0dRYWZiRlRheG9idk1DYk9vV2RJWW10RUp0MmVfYlFpR3doTg",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 Netflix Trailer: Every Song We Heard, Including Deep Cuts",
+      "reason": "Kotaku song analysis of the Netflix preview; no distinct preview-release or soundtrack-release announcement.",
+      "rejectedAt": "2026-10-03T06:54:02.274Z",
+      "contentHash": "51db0a8ec6329868",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMi2wFBVV95cUxOQnA4TTBWTHZWaHVRd3diNy1RZWROaUxvTWVLT0xETUhjSklYWEFqRnhoVTA1RGxDa1RXa1UwOW5VSnBZODIyUEVJWGZnZnNDdGRPZm8yUDN4TUx2dDdUMXU4QUlpZzNSLXp5ZmdERElhRTdIY0hya0tENmV2UGNpTlZQUE93dk5jNFM5NzNKVXdqdGU4X1RWMnFHRmtUU1BJLUpOZ3BNcHhQWDhFUzlTVDNJNjdIMHNiWk1MalZLWGtrd0c4R0lSTXE0alZmS1dWdXRUalBnOXZGck0",
+      "sourceId": "press-coverage",
+      "title": "No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027",
+      "reason": "The PC Gamer delay concerns No Rest for the Wicked. GTA VI appears only as a calendar comparison.",
+      "rejectedAt": "2026-10-03T06:54:02.158Z",
+      "contentHash": "c02a0ad0d02f3848",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMilwFBVV95cUxQSlRDU1ZIcHhNUHViUmlVMzg0VWlTUFU1eU5URGlPNEhkWEh0ZjlmSDJGZWZnYll2SFVtb1BydzdCRVRGZDk5Y1Y2Rnpfc0NBb2FJbzViSVd2Y0lfSDZRWWowVU1pdnljMVZKY29HSVNVVUFsNzdGclN2QTNFYldUbGV0VXo2SjlpTENyVFJ3Q1RFM2V5WWZF",
+      "sourceId": "press-coverage",
+      "title": "PlayStation reveals limited-edition GTA VI controllers.",
+      "reason": "The Verge controller reveal, same September 3 announcement as #34.",
+      "rejectedAt": "2026-10-03T06:54:02.048Z",
+      "contentHash": "af8523d407d94073",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMikgFBVV95cUxQMFBBbzlJZm50ZWNUQzExLU1PV1lybzIzSUxNUGRCazBtU2o4Y0pmc3NCcS1Yd1V4cnl6V0ZFb19ROW53d05xZXA3Z3k2Y09qTl9JV2ZEUVNNMlA5RWtSazBPMEpYNTBoMUpHbHR0N212dE5xZzM1RG1JVEV6dGlacnhERkR3VWlvY3ZLelF2VXJJZw",
+      "sourceId": "press-coverage",
+      "title": "Everything Announced at the Sony State of Play - September 2026",
+      "reason": "Broad Sony State of Play roundup; the headline does not identify a distinct GTA VI release fact.",
+      "rejectedAt": "2026-10-03T06:54:01.941Z",
+      "contentHash": "58e985fdb4cce4e7",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMiuAFBVV95cUxPZHR6YVpfamEzdS1BYVd2Z0pRZkZTSnU1YzQ5N2ZmeHp3Q00yajBZRkNpQkY0dGJDOFc0cVNtOGtNMXhLLXloaVZqYWlsTW5KZExRQnN5b2FXcG9wR3NmNi1IMGoxdGhVSFByY1MxLURFS19zem9FNEl5OE10dF83Ty02RHVER1VFMkhoeUJ3RWJNOVo4RmNjWENDSzRlUndldHpaVnhUZ2tjWm15d1ByTDlEQTl1TVRL",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic",
+      "reason": "GameSpot controller reveal, same September 3 announcement as #34.",
+      "rejectedAt": "2026-10-03T06:54:01.835Z",
+      "contentHash": "656f15c57ae7733c",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMihwFBVV95cUxOVkI2cjBfdkpIaXZBOGFrZnZOM2pRSlF6bU00LWVGZVJES183cEMyc0x2ajZuS2dHRlRqMUpKSVNCZlc0S3ZkQzlUY1laNXdDU1RJUTFCZ05ENkNvVi1fS0d1QzVIRjBwcVNGLVdTdW15Z29JbHdQOTVpSXNPNGctdVRhakw5cDg",
+      "sourceId": "press-coverage",
+      "title": "Grand Theft Auto 6 Preorder Discount: Here's How to Save $12 for the PS5 Game – But the Deal Ends Soon",
+      "reason": "September 3 preorder discount with an expiring deal; no official base-price change.",
+      "rejectedAt": "2026-10-03T06:54:01.729Z",
+      "contentHash": "46519184dd9ef23d",
+      "reasonCategory": "stale"
+    },
+    {
+      "id": "press-coverage:CBMiogFBVV95cUxPNElzQnhhdkk2aDBzZVBkU2FCTHZodXlJM3IxSlhtLS1DMzFfVFVWRXh6dDNreTN5NHhLamdyVWl6ek9QZ2pDYWpYOFNESmVJSmRNTjVHZVdodnh4aXc2WE9DbURJYk9IQ19OQXU4QmJhcVBlVlFzSjJpRFZwY1doS29UVnF5YjJ4dHNoQlNIYklDajNKY3Q0akxWV3liZnBFNHc",
+      "sourceId": "press-coverage",
+      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers",
+      "reason": "Same IGN controller headline as #28 with another RSS GUID/time; one underlying reveal.",
+      "rejectedAt": "2026-10-03T06:54:01.613Z",
+      "contentHash": "44c3209056732405",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMivAFBVV95cUxOUktFVExlVS1DYWt6UFhSb2pUd2I4MkN6X1lDSmFhcnNCMnFDanRNN2tIb24wZFZXMmp4WEdlRERLV3ktckRmU3FmUkhLcFhZVGFteUtFVUZZYS1tMW5tT2VCUDZ4b3ZIVFFJNlFUZE5zTktNNVYxWmNYV3htMk93aFJzNFFSZ1JRUWlyT011ZV9oT3g1a083VV9VTmNrcVdUR0dGX1BTTXVRSmJIa0w3a3AyVTl3Q0tTSExFMg",
+      "sourceId": "press-coverage",
+      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers",
+      "reason": "IGN controller reveal; same exact headline as #29 and same announcement as #31/#33/#34.",
+      "rejectedAt": "2026-10-03T06:54:01.491Z",
+      "contentHash": "f3482a31d60de080",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMi2AFBVV95cUxQSnF0NVQ4b1pZYXU4YVUxNHVsMFBxUVpVZkl4Z2NzS1pkNlJmX2Jlb0RmMTVWV3NvcFhMZnlnbXhpZXlHTVhBZ0NvVW1QVU13ZjUySEFMeUk5RDhFMzJRWjhSV3IweFpHeWN1OXIycXRpV2g5TV9VVktuRDU1RUcyNW1ncWhxYzFaWkkxM3Foalh3VEl3TklLMHBBbmItaGlyS0tLT0JZTkZWa2pmbmJVX2Jkd1k4ZnFDc0drSkVXVFZ6Rlp0WnpKVWE3Ry1FV1k0MWl2NmliT2w",
+      "sourceId": "press-coverage",
+      "title": "Best Buy Is Offering $100 Gift Cards For $60 This Weekend, And That's Great If You Want GTA 6's Premium Edition",
+      "reason": "Best Buy gift-card offer published August 20 and only detected September 9. It is a retailer promotion unrelated to an official GTA VI price change.",
+      "rejectedAt": "2026-10-03T06:54:01.387Z",
+      "contentHash": "057ca9416e410346",
+      "reasonCategory": "stale"
+    },
+    {
+      "id": "press-coverage:CBMimAFBVV95cUxOV2hVelNqUGNqc1phUk12R01qUUF6bmtBSVhBUE9ZSWFGWFJVZDR6bTFMbU1hWkRPUGNWT3A0LXhSd3oxRE8zSjl3ZEduczk5dkJKLWU4ZkZaS25QdnpjR3ZMdHgxV051LWp6eUNRNFlYRk1jdDYtOXJuNWlZOTd2N2pYMVBjRGxiQUNpMW41T3ZSaDdjSnlQUA",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 Was Not \"Fully Formed\" When Trailer 1 Came Out In 2023",
+      "reason": "Retrospective commentary on how developed the game was when Trailer 1 appeared in 2023; no current schedule change.",
+      "rejectedAt": "2026-10-03T06:54:01.276Z",
+      "contentHash": "d37dae23cdf552fc",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMihAFBVV95cUxPU191X0hSc1pqdUtwRWJzSk5PdHJlVkJlZlp0X0NiY3pqaXhXeWhyZlo0eXAyRXpua3oxeVgzSXNhbDRsTGtfQkRpQ0VFNmZQZ0lpSi1HeE1yVjk2MVdGRWlWUXAzaVp3TEJrT0d4Q0g2Sld5eEpRVFd0dWlCYzN0U01RVjQ",
+      "sourceId": "press-coverage",
+      "title": "Where to Pre-Order GTA 6 Controllers for PS5",
+      "reason": "Push Square guide to where to order PS5 controllers; no distinct game shipping fact.",
+      "rejectedAt": "2026-10-03T06:54:01.160Z",
+      "contentHash": "1e9b0cf8d931b7ce",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMikgFBVV95cUxQQTNPVUZDajl1SlBDQ3BIQWJBaXFpS0E2dkdYbmY2UXBocjlwZzQ1S1IxdlNBWHJCc0R1eE9QcWc2cG5TVTc0XzBxaERnSm44eFhBN0tlcThRWFFubFIzRTU5U0pxenJBY3NlY2tXQUlDQXNuMm90alJ0THc3VzN3RjhoSWJNVVNCUmMzaWNBRVdRQQ",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 DualSense Controller Preorders Are Now Live in the UK",
+      "reason": "UK controller preorder opening. Sony's official announcement already supplies the country/time detail for the controller event.",
+      "rejectedAt": "2026-10-03T06:54:01.053Z",
+      "contentHash": "8022bf59c8faeed4",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMiuwFBVV95cUxOUnNldGsyc0F0aHVUU0dkTnZ2UmhGNXNWTENVZGQ0Mk1sanhJcEJwekJoZ0ZuQ1hMVkhnakpydDIwR2pqTXl5UGJFZ3luWklsckJwMnBJRnE4VmMyZU4zazQ2Sm52bFdNLTJaSUxqMTUzVS1oVEwxb0hpbVNDSTI1Nmk1OXphRUkzTkhhVUxrbnVGckRERTZoUjg1UXJvOFNxazh1REhuc0RkSzRfdnMyOW4tSlNxbU85VmdF",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers",
+      "reason": "Kotaku controller store-collapse/scalper story, same cluster as #20/#22.",
+      "rejectedAt": "2026-10-03T06:54:00.952Z",
+      "contentHash": "13ddd254fe77faa5",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMi6AFBVV95cUxNbjhodmNMNmcwY0lqN2JBUkJyUTVBdTE0RVVCRFJ5azgwblZSSG1naDNsdXJiUGJCTXNOam5QMW4yeDhPZmdVRlV4RHpzQ3JjRUJpYXROa1JYazQzRksxYmdheFozakF0a3FNNUJTWENEcUlYVGNpNVN2OTN0M1UxU0k3eF9XQ1ktWXluTm56VlY1NWItVENJeUx6ai1SbkI0TnZpZEFVYVgyUWJiZ3ZybmpqRXk0Y0Y4SDFTRzlramZ3dklTMktRZVYyZmRySURJUlRUeXVYb1M3Z3Fpek9tLTN1YWhHcHJz",
+      "sourceId": "press-coverage",
+      "title": "GTA 6's PS5 Controller Preorders Create Chaos on PlayStation Store as Scalpers Take Advantage of Scarcity",
+      "reason": "IGN controller preorder chaos/scalper story, overlapping #20/#23.",
+      "rejectedAt": "2026-10-03T06:54:00.839Z",
+      "contentHash": "27b775af026bcfdf",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMipAFBVV95cUxOTmI5S3ZwU1lsS2JCNUhIb01reUxySGNmZTQ4WC02ZXZnQUVxZ2ZzRzctakxiTkNIcjZHU2tHM1FwRXlyeG44VzVXenlkcUsxanltR1l5a1BnYURDbURQdlpYLXhKQVFyamxtaVdsRVNpTDZWZ1BwbUFsX1R2cWZDQ3l1MGw1RDFGZUFianVRMmZqbTAxbjlPUjNQWlR3M0Z1TTFIUw",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 PS5 Controller Preorders Are Live, But Stock Is Limited",
+      "reason": "Another controller preorder item. Sony's September 3 announcement already specifies the September 10 preorder start; it can be included in #34.",
+      "rejectedAt": "2026-10-03T06:54:00.729Z",
+      "contentHash": "995435210c7a454b",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMi4wFBVV95cUxQMUd4Z2tHZl9TdllEUFFRVjVsZUpMSHV2WW9WUV95QkU4VnpsS0NuOUwtNkRfT0FYRkpYeWZURWVUYlA1cmF5c255bXl1TURGUFJVYmNPTDFGcHBMWnhkcVUwZXpyV095R21KMHVIYTdfZzV5bHh2VHlKUWdYMGhlUFJmalppMmJ5OTYzZFp4dWNUSkloSktkNFA1NDZuZTdaVnBxcDJmNEkwQkpKV2hTa1lBV0c1bFdKajg4STZxM09mb1hsZ29FMGMtaVBUME5FalBjY3A0MzNCbDh4UFZwcWhDVQ",
+      "sourceId": "press-coverage",
+      "title": "GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay",
+      "reason": "Controller-store overload and scalper resale reporting. It is not a game-launch change and repeats the controller preorder cluster.",
+      "rejectedAt": "2026-10-03T06:54:00.592Z",
+      "contentHash": "6cff5abd6798e556",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMilwFBVV95cUxOTTg3N2VtVEZzRno3dHBJdE9kRW5PaGVKNldCVVJaVmpKUnRpNXNkb29oTVJScTZuMnJFN3MxYm1kZHlfVG84QW5XbFJBN2g1RkY4TGRwTHdtdnVpYkxTQTVJX0lTR1dHTGdKNTZMR00xZUhRY3JQNnVwa0NQM2ZTSTh5TkdEV096SzY4RTc5dmNBVFItNkx3",
+      "sourceId": "press-coverage",
+      "title": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name",
+      "reason": "GameSpot cast-member confirmation, same casting cluster as #16/#18.",
+      "rejectedAt": "2026-10-03T06:54:00.481Z",
+      "contentHash": "8ff47b639a0e334f",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMiugFBVV95cUxPcVBGS0UwS2ZpejVOV1hkU1lrSnVmblczM1dVUHUzLXdMWEk0dDd5YUNzcmV6SXNsa3oxcW0xYnFETlk1bWRrR1MtZzdYbHhaR0FkeHlzbXl5c0s2WmpiY3l5RFE3ak1QSXotOHNmdU04V0lZdVFaaFluZ1BHeGg1ZWd4aGREREp1N25IZno0RGQ5NjNEbE95YzJZUzN3Y2YzZFRUWmNtZWFiNm5sY3ZpWWg4Ym5NZXc1SXc",
+      "sourceId": "press-coverage",
+      "title": "'You're Gonna See Me in It' — King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So",
+      "reason": "IGN cast-member confirmation; same casting cluster as #16/#19, centered on a named individual.",
+      "rejectedAt": "2026-10-03T06:54:00.367Z",
+      "contentHash": "3abfa65576dfeded",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMifEFVX3lxTE5FeXc0aGplMDZGaE5vN2RXV3VDTnpJaHlwelRBQ3JKUUNXSDBSa0NwUUJkbVpsM09IMDBndHBJNldEa1U3U19RbF9QV2EzX2Uzc2d4MXdoUTV3Zng1LVBWdHM1TTN1aDcxRmhKd0hFVmFDWk1vY2V2U01FWlg",
+      "sourceId": "press-coverage",
+      "title": "Will GTA 6's Ultimate Edition Be Worth The Extra Cost? Here's What It'll Come With",
+      "reason": "Engadget asks whether the Ultimate Edition is worth its cost. The timeline already has the June 25 preorder/Ultimate Edition reveal; this headline is a comparison, not a newly announced edition.",
+      "rejectedAt": "2026-10-03T06:54:00.253Z",
+      "contentHash": "23fff24b5e36871d",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMilwFBVV95cUxNTzdkekotdnRUX2pDclFIaVlpNklSUHgzMUU3RW9mZlZEZFEycFMwTkVMdjZtVEc2M0s3dmtCck1MMnExR1daT2lncmhmZVBtREl2Q291V1NKSVNiOHdMendaNHNNX29SSmllZHl3eWE3ZHE4dlFvOGEwVExVQkVmYnRKU0ZoOWpOeW1NcmNoVUI5LVdKazEw",
+      "sourceId": "press-coverage",
+      "title": "GTA 6′ s First Voice Actor Is Confirmed, And There’s A Good Chance You Already Figured It Out",
+      "reason": "Voice-actor coverage duplicates the casting story in #18/#19 and is centered on an individual; the README's stated editorial scope excludes such coverage.",
+      "rejectedAt": "2026-10-03T06:54:00.140Z",
+      "contentHash": "d945e1cca0e33b04",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMibkFVX3lxTE1hVjh5VWhzcmJpc3Nib3BVZG5pclN1VGNReGh4d0IwN3Q2NUs1T3NSZ1g5ZFE4YTVhN0VLc0VNU2dqRlRKSlFKODUtdldNenh5LUtiQ1p3UEp2VlFHTndhci1pdHFNdnFmSU5CU1pB",
+      "sourceId": "press-coverage",
+      "title": "Grand Theft Auto 6 Ultimate Edition Is $11 Off on PS5 if You Use This Trick (Today Only)",
+      "reason": "September 15 “Today Only” PS5 Ultimate Edition discount. This is a retailer promotion, not a new official edition or base price.",
+      "rejectedAt": "2026-10-03T06:54:00.016Z",
+      "contentHash": "76e9048f4a39bad0",
+      "reasonCategory": "stale"
+    },
+    {
+      "id": "press-coverage:CBMihAFBVV95cUxNVkFrZ1JZWk5WeWhka0tVbnBFdDZmZ2hTbFBWQmVXeGhwTVpsZ3dxMm9IaHd3SnN4NzBJbXdNLXNTWHFLX01fX09XNUFBMks2bWlXT3RrSVlkTmZIMG5BWmpPb2xfWHZuLVJqMkpCWTRfSklGcHdEOFcxM0pvSjhoOUF4NVc",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 Soundtrack – All Confirmed Songs So Far",
+      "reason": "A GameSpot running list of soundtrack songs, rather than a new soundtrack-release announcement.",
+      "rejectedAt": "2026-10-03T06:53:59.901Z",
+      "contentHash": "87615ea25f2b8fee",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMigwFBVV95cUxQOFg4N25SRVVRSVIwWjRubTNGVEhzcktfd09obzBpT0ozbTRWVE5EQ1BCaG9naVF6R0hWd3ptazBRTFh5WkZxV2I1bHM5bGdneU9obVdxSGRqc2NtbUVVVjEtUDdvd0JEdUdBNHRNRnpUZjUybENkenh1LVdOeEhLVUk2Yw",
+      "sourceId": "press-coverage",
+      "title": "Grand Theft Auto VI: The Album Is Up for Preorder, Featuring 34 Tracks on Limited-Edition Vinyl, Standard Vinyl, or CD",
+      "reason": "Another IGN item for the same September 17 album announcement as #12. Its 34-track and physical-format details are directly verified by Rockstar.",
+      "rejectedAt": "2026-10-03T06:53:59.798Z",
+      "contentHash": "2e6682fbcba79965",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMirgFBVV95cUxOWHlTVjAtMXZxbjBoNlhwVndTeC12VG9Uc1N0dEFLdTJKRHNUODR6NHJhRDUxNUJuUFRvdTUwSldzUGVRQ3g3WEZ5cmpQUXQxYU9XS3MwNnMwS2ZVZ3NOd2d5dEhmVjVyTm5zVzgxbzBHdFhaZXBjbWs4MVNEd1hDQTJzUzZwRjJ5V3FRQXQ2Rkk4MTh6SzVib3ZKRmdib21rUHdiZlZrOUt1R1RGMkE",
+      "sourceId": "press-coverage",
+      "title": "Save $10 Off Your Grand Theft Auto VI Limited Edition PS5 DualSense Controller Preorder",
+      "reason": "Controller discount/affiliate offer; no changed game-release fact. The September 17 promotion is old.",
+      "rejectedAt": "2026-10-03T06:53:59.687Z",
+      "contentHash": "c0cd62259756aad8",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMizgFBVV95cUxPekM5VlJxM3BGajU0RjBwb3Fzd1dUZTgyLTRORUd0YWJUZExYbnprOWlVLVNCTnJaMXhzVlAtRFNfWTZGMGhaS01VRTlFeTNrc1BSa1R6NEpqV1VVT1FWcEU3ckxsSGJFRGlfcUNZMlgxUWhORHJzVmYyeE45TTQ5S2RJZ3lPMXhmeEpodnNzdUVsM2VPM21keWoxYVg4RFJRYmN0YmJYRkxhekdzRC1KaU5PS1Z5b3ZXREJidTY5WnVkS2Z4c2dLeW1MY2ZxZw",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 Boss Seems A Bit Grumpy And Defensive While Answering An Investor's Question About Frequent Delays",
+      "reason": "The Kotaku headline describes an executive's manner while answering a delays question. It does not report a new delay.",
+      "rejectedAt": "2026-10-03T06:53:59.581Z",
+      "contentHash": "90bb2eebde8c49e3",
+      "reasonCategory": "out-of-scope"
+    },
+    {
+      "id": "press-coverage:CBMipAFBVV95cUxNdVFRbjVoN3NGaTF2Vk1xdWxMMjFJdlRHSzJfX21taUc2N0R0d1pUMWs0elRvemg5cGpvdmNMalhfRmxYaVIzb3lVUEl0aXVoY0VuMEEwSWxXdWc3X2pIM2FzSndLaDJENnNYakZnTnRYUW1nT0owMWZzQUduS0ZWckNaRllWOWV3QVVoMF9ZdGdyRm9zZm9NeVFpMFRoWGJuWHJqTg",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+      "reason": "Push Square covers the same September 24 preorder-share dispute as #7. It adds no release-date, preorder-opening or price change.",
+      "rejectedAt": "2026-10-03T06:53:59.474Z",
+      "contentHash": "582692d96091d693",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw",
+      "sourceId": "press-coverage",
+      "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+      "reason": "Same IGN outlet and exact headline as #3, with another Google News GUID and publication timestamp. Treat as a probable duplicate rather than independent corroboration.",
+      "rejectedAt": "2026-10-03T06:53:59.363Z",
+      "contentHash": "16f83e7686c76c65",
+      "reasonCategory": "duplicate"
+    },
+    {
+      "id": "press-coverage:CBMi7AFBVV95cUxQZnhPVU5xVVpqYmlCZjBfV3FtRlo4ZjFDY1U2ZHhGSnBfdHdSRnF5Q1EycnM4a1Iycnd4OEhHOTJqS3FNcDFwN25ETVQ2UHJsS3R1aHF4UUJXMmhNMk8tT1dDMGZIWEhKNEZhRDFrZ1VTcDNaVE5tMFQ5aXBNT2J3bC1VanItemNvVFc5dDhxNi1qbFBZSEltYWZlUThWRnZWb0tHSF8xUkt4SFpYaEZaTzhOUVpoUF9vSkVjRGpfenNRSW9adWowQkhrWmg1ZzlnN1hoNG9QZUJ2eDQzbUpZYnlSSWptSUNTWmpIRQ",
+      "sourceId": "press-coverage",
+      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+      "reason": "The PC Gamer headline says another developer hopes GTA VI will raise prices. It reports an opinion, not a changed GTA VI price. This is one of the two additions since the 49-item snapshot.",
+      "rejectedAt": "2026-10-03T06:53:59.252Z",
+      "contentHash": "f19cbde60994c35b",
+      "reasonCategory": "out-of-scope"
     }
-  ],
-  "rejected": []
+  ]
 }

@@ -34,6 +34,7 @@ import {
   writeSnapshots,
 } from './store';
 import { notify } from './notify';
+import { isRejectedVersion } from './review';
 
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
@@ -46,7 +47,6 @@ async function main(): Promise<void> {
   const events = readEvents();
   const ledger = readLedger();
 
-  const rejectedIds = new Set(pendingFile.rejected.map((entry) => entry.id));
   const liveIds = new Set(events.events.map((event) => event.id));
   const pendingById = new Map(
     pendingFile.pending.map((entry) => [entry.id, entry]),
@@ -111,7 +111,7 @@ async function main(): Promise<void> {
       for (const candidate of candidates) {
         const hash = contentHash(candidate);
 
-        if (rejectedIds.has(candidate.id)) continue;
+        if (isRejectedVersion(candidate.id, hash, pendingFile.rejected)) continue;
         if (seen[candidate.id] === hash) continue;
 
         seen[candidate.id] = hash;
@@ -126,7 +126,9 @@ async function main(): Promise<void> {
           contentHash: hash,
           timesSeen: (existing?.timesSeen ?? 0) + 1,
           confidence: scoreFor(source, ledger.sources[source.id]?.score),
-          corroborations: corroborate(candidate, candidates),
+          // A shared date does not establish the same claim or independent evidence.
+          // Corroboration is supplied explicitly through the review gate.
+          corroborations: [],
           // A value that is already published and has now moved is the single
           // most interesting thing this pipeline can find.
           supersedes: liveIds.has(candidate.id) ? candidate.id : undefined,
@@ -206,21 +208,6 @@ function contentHash(candidate: Candidate): string {
 function scoreFor(source: Source, ledgerScore: number | undefined): number {
   if (ledgerScore === undefined) return source.baseConfidence;
   return Number(((source.baseConfidence + ledgerScore) / 2).toFixed(2));
-}
-
-/**
- * Two observations from the same poll that name the same date corroborate each
- * other. Cross-source corroboration is applied at approval time, where the full
- * event set is in scope.
- */
-function corroborate(candidate: Candidate, batch: Candidate[]): string[] {
-  const day = candidate.occurredAt.slice(0, 10);
-  return batch
-    .filter(
-      (other) =>
-        other.id !== candidate.id && other.occurredAt.slice(0, 10) === day,
-    )
-    .map((other) => other.id);
 }
 
 main().catch((error) => {

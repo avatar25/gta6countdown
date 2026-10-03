@@ -32,14 +32,14 @@ const rockstarYoutube: Source = {
     const fullLengthTitles = new Set(
       items
         .filter((item) => !item.link.includes('/shorts/'))
-        .map((item) => item.title.toLowerCase()),
+        .map((item) => campaignTitle(item.title)),
     );
 
     return items
       .filter(
         (item) =>
           !item.link.includes('/shorts/') ||
-          !fullLengthTitles.has(item.title.toLowerCase()),
+          !fullLengthTitles.has(campaignTitle(item.title)),
       )
       .slice(0, 15)
       .map((item) => ({
@@ -61,3 +61,7 @@ const rockstarYoutube: Source = {
 };
 
 export default rockstarYoutube;
+
+function campaignTitle(title: string): string {
+  return title.toLowerCase().replace(/\s*[—–-]\s*now playing\s*$/, '').trim();
+}

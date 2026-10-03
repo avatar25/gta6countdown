@@ -76,12 +76,22 @@ export interface PendingEntry extends Candidate {
   supersedes?: string;
 }
 
+export type RejectionCategory =
+  | 'duplicate'
+  | 'out-of-scope'
+  | 'stale'
+  | 'incorrect'
+  | 'other';
+
 export interface RejectedEntry {
   id: string;
   sourceId: string;
   title: string;
   reason: string;
   rejectedAt: string;
+  /** Missing on legacy records, which retain their permanent suppression. */
+  contentHash?: string;
+  reasonCategory?: RejectionCategory;
 }
 
 /** An approved, publicly visible timeline entry. */

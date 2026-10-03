@@ -20,6 +20,7 @@ import {
   readSnapshots,
   writeLedger,
 } from './store';
+import { countsAgainstAccuracy } from './review';
 
 /**
  * Shrinkage weight. With no history a source sits exactly on its declared
@@ -52,6 +53,9 @@ function build(): LedgerFile {
     ).length;
 
     const reviewed = approvedEvents.length + rejectedCount;
+    const incorrectCount = rejected.filter(
+      (entry) => entry.sourceId === sourceId && countsAgainstAccuracy(entry),
+    ).length;
     const prior = source?.baseConfidence ?? 0.5;
 
     const leadHours = approvedEvents
@@ -76,7 +80,7 @@ function build(): LedgerFile {
       approvalRate: reviewed === 0 ? null : round(approvedEvents.length / reviewed),
       score: round(
         (approvedEvents.length + PRIOR_WEIGHT * prior) /
-          (reviewed + PRIOR_WEIGHT),
+          (approvedEvents.length + incorrectCount + PRIOR_WEIGHT),
       ),
       meanLeadHours:
         leadHours.length === 0
