@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T20:39:47.176Z",
+  "updatedAt": "2026-10-05T03:04:26.547Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMihAJBVV95cUxOamNEcDZrVVk1OUlSU2FhM2Rzam1KRE1VWG1nZ1Q2TmtyUjRRSzdkSEJKc1RaUzMxQ1Y2bUxnMHhjdGdkQ3o5VWo1Q0NzWktBVWE0c1phLVpCbmVVNzVCZi1GOFl4NW1PX1A1c1lMZzV4dXROU3ExSFhBZzBYRm1sek9UZjJRNUR1eWFkS3NmeEl1M2k0dGZ5MWF2cmx3ak9reUEwdTdianRwejBINjN6RW9KTWFYbUdkYWpzeGV1ZE5DOG9aU0RzUjBHSnRXVGZtbUYxN1ZJcmtaSzBpekVZOVl6czVKdUpoN1NES2ZjVjRqdkZMakZtTERDU3QxNUJrSGQyVg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating",
+      "description": "PC Gamer published: \"Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating - PC Gamer\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOamNEcDZrVVk1OUlSU2FhM2Rzam1KRE1VWG1nZ1Q2TmtyUjRRSzdkSEJKc1RaUzMxQ1Y2bUxnMHhjdGdkQ3o5VWo1Q0NzWktBVWE0c1phLVpCbmVVNzVCZi1GOFl4NW1PX1A1c1lMZzV4dXROU3ExSFhBZzBYRm1sek9UZjJRNUR1eWFkS3NmeEl1M2k0dGZ5MWF2cmx3ak9reUEwdTdianRwejBINjN6RW9KTWFYbUdkYWpzeGV1ZE5DOG9aU0RzUjBHSnRXVGZtbUYxN1ZJcmtaSzBpekVZOVl6czVKdUpoN1NES2ZjVjRqdkZMakZtTERDU3QxNUJrSGQyVg?oc=5",
+      "sourceLabel": "PC Gamer",
+      "occurredAt": "2026-10-04T11:49:18.000Z",
+      "fields": {
+        "outlet": "PC Gamer",
+        "headline": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating - PC Gamer"
+      },
+      "detectedAt": "2026-10-05T03:04:26.547Z",
+      "firstSeenAt": "2026-10-05T03:04:26.547Z",
+      "contentHash": "f6b48a1c3390b984",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMipwFBVV95cUxOdk1rLV9iaURXWFVDMVJEVkpKTm84MmJ3enhScUNmWThqdi01R2N0S08tMWpjUnJ6N09XMnRnTXA4bnNIZUI4SVphQm1KSk5LSTE3T0RvTlNwaWNiTDBnUGliRkY0MnVPWFJlWkZkZVFfc1ZqOXRnSnlXdGhTOU5vZUhNNVY0YV95UUh5Q0w5UkhlcnhBbWk0MXhqeXJvLVluQWlIVnRaZw",
       "sourceId": "press-coverage",
