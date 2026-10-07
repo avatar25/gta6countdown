@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T22:02:03.196Z",
+  "updatedAt": "2026-10-07T03:21:34.508Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMihwFBVV95cUxOaF9XbXVncUxTLVZlckJrNExBMmpHS0E4Yl9COEdlSThMX1A4Z1R0UFUzdnpDdXBJa25IYmQxTkhqakpPMXdSRGtlR0xjNUVFc0l3aU44d2JUNjM1YXhlZDVRSEF5d2xvOGhLS2xaQlNBSlJfcGltVURsbHdxYi1uRkREaTVuMjQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "How To Get GTA 6’s $100 Edition For $80 Right Now",
+      "description": "GameSpot published: \"How To Get GTA 6’s $100 Edition For $80 Right Now - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaF9XbXVncUxTLVZlckJrNExBMmpHS0E4Yl9COEdlSThMX1A4Z1R0UFUzdnpDdXBJa25IYmQxTkhqakpPMXdSRGtlR0xjNUVFc0l3aU44d2JUNjM1YXhlZDVRSEF5d2xvOGhLS2xaQlNBSlJfcGltVURsbHdxYi1uRkREaTVuMjQ?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-10-06T15:10:47.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "How To Get GTA 6’s $100 Edition For $80 Right Now - GameSpot"
+      },
+      "detectedAt": "2026-10-07T03:21:34.508Z",
+      "firstSeenAt": "2026-10-07T03:21:34.508Z",
+      "contentHash": "259fd94767809dbd",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMihAJBVV95cUxOamNEcDZrVVk1OUlSU2FhM2Rzam1KRE1VWG1nZ1Q2TmtyUjRRSzdkSEJKc1RaUzMxQ1Y2bUxnMHhjdGdkQ3o5VWo1Q0NzWktBVWE0c1phLVpCbmVVNzVCZi1GOFl4NW1PX1A1c1lMZzV4dXROU3ExSFhBZzBYRm1sek9UZjJRNUR1eWFkS3NmeEl1M2k0dGZ5MWF2cmx3ak9reUEwdTdianRwejBINjN6RW9KTWFYbUdkYWpzeGV1ZE5DOG9aU0RzUjBHSnRXVGZtbUYxN1ZJcmtaSzBpekVZOVl6czVKdUpoN1NES2ZjVjRqdkZMakZtTERDU3QxNUJrSGQyVg",
       "sourceId": "press-coverage",
