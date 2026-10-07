@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T12:19:49.369Z",
+  "updatedAt": "2026-10-07T22:26:57.037Z",
   "pending": [
+    {
+      "id": "netflix-premiere:listing",
+      "sourceId": "netflix-premiere",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Netflix listing copy changed",
+      "description": "The Netflix listing now reads \"Netflix\": Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.",
+      "url": "https://www.netflix.com/GTAVI",
+      "sourceLabel": "Netflix listing",
+      "occurredAt": "2026-10-07T22:26:59.773Z",
+      "fields": {
+        "title": "Netflix",
+        "description": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more."
+      },
+      "detectedAt": "2026-10-07T22:26:57.037Z",
+      "firstSeenAt": "2026-10-07T22:26:57.037Z",
+      "contentHash": "2328498b3573bd96",
+      "timesSeen": 1,
+      "confidence": 0.9,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMihwFBVV95cUxOaF9XbXVncUxTLVZlckJrNExBMmpHS0E4Yl9COEdlSThMX1A4Z1R0UFUzdnpDdXBJa25IYmQxTkhqakpPMXdSRGtlR0xjNUVFc0l3aU44d2JUNjM1YXhlZDVRSEF5d2xvOGhLS2xaQlNBSlJfcGltVURsbHdxYi1uRkREaTVuMjQ",
       "sourceId": "press-coverage",
