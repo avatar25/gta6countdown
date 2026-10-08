@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T22:27:00.712Z",
+  "updatedAt": "2026-10-08T03:36:48.839Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
@@ -30,7 +30,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 179,
+      "polls": 180,
       "errors": 0,
       "uptime": 1
     },
@@ -46,23 +46,23 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 179,
+      "polls": 180,
       "errors": 0,
       "uptime": 1
     },
     "press-coverage": {
       "sourceId": "press-coverage",
       "sourceType": "press",
-      "candidates": 43,
+      "candidates": 44,
       "approved": 3,
       "rejected": 32,
-      "pending": 8,
+      "pending": 9,
       "corroborated": 0,
       "approvalRate": 0.09,
       "score": 0.77,
       "meanLeadHours": 5.1,
       "lastApprovedAt": "2026-09-24T20:56:16.199Z",
-      "polls": 179,
+      "polls": 180,
       "errors": 2,
       "uptime": 0.99
     },
@@ -78,7 +78,7 @@
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 179,
+      "polls": 180,
       "errors": 0,
       "uptime": 1
     },
@@ -94,9 +94,9 @@
       "score": 0.96,
       "meanLeadHours": 0.9,
       "lastApprovedAt": "2026-08-28T01:54:51.279Z",
-      "polls": 179,
-      "errors": 27,
-      "uptime": 0.85
+      "polls": 180,
+      "errors": 28,
+      "uptime": 0.84
     },
     "xbox-store": {
       "sourceId": "xbox-store",
@@ -110,7 +110,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 179,
+      "polls": 180,
       "errors": 0,
       "uptime": 1
     }

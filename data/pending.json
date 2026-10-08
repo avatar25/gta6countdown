@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T22:26:57.037Z",
+  "updatedAt": "2026-10-08T03:36:41.697Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiiAFBVV95cUxONHVGUEJNSlJGbS1zTmpSaGFUOXRhdFlmcFhBdmF2R1RTWVNkNFVwYWg4MENWajRYNm9vdDFka0hST09VVk9obWhlTG9vZXplM1RTcno2cHAwckRlS2NFVnhmZS1YQWJral93RlFVRnhtbWUtYXdQYXhlRWgtNjAxX0dqSndwODQ4",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 PC Release Date Estimate, Rumors, And News",
+      "description": "GameSpot published: \"GTA 6 PC Release Date Estimate, Rumors, And News - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHVGUEJNSlJGbS1zTmpSaGFUOXRhdFlmcFhBdmF2R1RTWVNkNFVwYWg4MENWajRYNm9vdDFka0hST09VVk9obWhlTG9vZXplM1RTcno2cHAwckRlS2NFVnhmZS1YQWJral93RlFVRnhtbWUtYXdQYXhlRWgtNjAxX0dqSndwODQ4?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-10-07T10:38:31.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6 PC Release Date Estimate, Rumors, And News - GameSpot"
+      },
+      "detectedAt": "2026-10-08T03:36:41.697Z",
+      "firstSeenAt": "2026-10-08T03:36:41.697Z",
+      "contentHash": "69d89dc238868ee5",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "netflix-premiere:listing",
       "sourceId": "netflix-premiere",
