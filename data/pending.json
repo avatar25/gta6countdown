@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T12:29:27.091Z",
+  "updatedAt": "2026-10-08T22:40:34.694Z",
   "pending": [
+    {
+      "id": "rockstar-site:stated-dates",
+      "sourceId": "rockstar-site",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 8, 2026, September 24, 2026",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 8, 2026, September 24, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "url": "https://www.rockstargames.com/VI",
+      "sourceLabel": "Official site",
+      "occurredAt": "2026-10-08T22:40:36.452Z",
+      "fields": {
+        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|October 8, 2026|September 24, 2026"
+      },
+      "detectedAt": "2026-10-08T22:40:34.694Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "5d7557580ce11299",
+      "timesSeen": 4,
+      "confidence": 0.95,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiiAFBVV95cUxONHVGUEJNSlJGbS1zTmpSaGFUOXRhdFlmcFhBdmF2R1RTWVNkNFVwYWg4MENWajRYNm9vdDFka0hST09VVk9obWhlTG9vZXplM1RTcno2cHAwckRlS2NFVnhmZS1YQWJral93RlFVRnhtbWUtYXdQYXhlRWgtNjAxX0dqSndwODQ4",
       "sourceId": "press-coverage",
@@ -168,26 +188,6 @@
       "contentHash": "a118a1ad689570ba",
       "timesSeen": 1,
       "confidence": 0.6,
-      "corroborations": []
-    },
-    {
-      "id": "rockstar-site:stated-dates",
-      "sourceId": "rockstar-site",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, September 17, 2026, September 24, 2026",
-      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, September 17, 2026, September 24, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
-      "url": "https://www.rockstargames.com/VI",
-      "sourceLabel": "Official site",
-      "occurredAt": "2026-09-24T16:08:57.173Z",
-      "fields": {
-        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|September 17, 2026|September 24, 2026"
-      },
-      "detectedAt": "2026-09-24T16:08:55.365Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "689aec26a9a6da52",
-      "timesSeen": 3,
-      "confidence": 0.95,
       "corroborations": []
     },
     {
