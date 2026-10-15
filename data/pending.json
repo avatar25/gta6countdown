@@ -1,7 +1,90 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T10:34:41.179Z",
+  "updatedAt": "2026-10-15T15:59:52.315Z",
   "pending": [
+    {
+      "id": "rockstar-site:stated-dates",
+      "sourceId": "rockstar-site",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 8, 2026",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 8, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "url": "https://www.rockstargames.com/VI",
+      "sourceLabel": "Official site",
+      "occurredAt": "2026-10-15T15:59:53.532Z",
+      "fields": {
+        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|October 15, 2026|October 8, 2026"
+      },
+      "detectedAt": "2026-10-15T15:59:52.315Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "f8e3f84b9b0d33f1",
+      "timesSeen": 5,
+      "confidence": 0.95,
+      "corroborations": []
+    },
+    {
+      "id": "rockstar-youtube:yt:video:rz1B4B2yBZY",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI Launch Trailer",
+      "description": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever i…",
+      "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-10-15T13:00:26.000Z",
+      "fields": {
+        "videoId": "yt:video:rz1B4B2yBZY",
+        "title": "Grand Theft Auto VI Launch Trailer"
+      },
+      "detectedAt": "2026-10-15T15:59:52.315Z",
+      "firstSeenAt": "2026-10-15T15:59:52.315Z",
+      "contentHash": "576f4d7cd6c3c617",
+      "timesSeen": 1,
+      "confidence": 0.95,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMidkFVX3lxTE1selNDdmNjVTBFdUdFTGs2TzBEdVl2THFKOXlmcGFYUjYzVXNpaTZzWkV3OGVzeHN6eWpMRFFmY3VaNXkybE5rcDBvYUh3RVNEYy10WjNlQTRQNE9uS0FuRjdpRWtxckNkWHRtZzBRak5IcjB1ckE",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA VI’s new trailer gives you one more look at Vice City",
+      "description": "The Verge published: \"GTA VI’s new trailer gives you one more look at Vice City - The Verge\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1selNDdmNjVTBFdUdFTGs2TzBEdVl2THFKOXlmcGFYUjYzVXNpaTZzWkV3OGVzeHN6eWpMRFFmY3VaNXkybE5rcDBvYUh3RVNEYy10WjNlQTRQNE9uS0FuRjdpRWtxckNkWHRtZzBRak5IcjB1ckE?oc=5",
+      "sourceLabel": "The Verge",
+      "occurredAt": "2026-10-15T13:17:17.000Z",
+      "fields": {
+        "outlet": "The Verge",
+        "headline": "GTA VI’s new trailer gives you one more look at Vice City - The Verge"
+      },
+      "detectedAt": "2026-10-15T15:59:52.315Z",
+      "firstSeenAt": "2026-10-15T15:59:52.315Z",
+      "contentHash": "94af4b605c1ecece",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMigAFBVV95cUxOVnMwU21yT0lFZW1vclFIVDRfOFI4LTQtbnZuUENYb3oxVmpWSkJ5TERFckN1ZUxfTHl6SG9XM1VmUk16dWYwaEd1Nmt2RUo2TDhsYVdHTENPaS1uekE2NVVhMW9JaEpOdWVJWFo0OGVBOHVNbm1udEgtWTZjbVBkMQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 (Grand Theft Auto 6) - Official Launch Trailer",
+      "description": "IGN published: \"GTA 6 (Grand Theft Auto 6) - Official Launch Trailer - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnMwU21yT0lFZW1vclFIVDRfOFI4LTQtbnZuUENYb3oxVmpWSkJ5TERFckN1ZUxfTHl6SG9XM1VmUk16dWYwaEd1Nmt2RUo2TDhsYVdHTENPaS1uekE2NVVhMW9JaEpOdWVJWFo0OGVBOHVNbm1udEgtWTZjbVBkMQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-15T13:08:54.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 (Grand Theft Auto 6) - Official Launch Trailer - IGN"
+      },
+      "detectedAt": "2026-10-15T15:59:52.315Z",
+      "firstSeenAt": "2026-10-15T15:59:52.315Z",
+      "contentHash": "572c8b8f70f7e029",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMirAFBVV95cUxPUFVJTHdUZVhES1FrTElPR2RwbTdMT0JhTC05NWNMYkdFb1l1M0ZsaEs0aURxZGZINDE0QU5nQnZHdHA1S3NwY0luaVRVM3VObDJxNWNhbjBhLXRvQ05HQUEwT09qRXFOLWltMXlZeUdmZF91eG51ek96YUhFVFRxZk0yVjRXbGVJakI5OUFnMzAtRDJwUVNHUU5hUXZ4a3YyZjNkbkdmVTNNSl9p",
       "sourceId": "press-coverage",
@@ -21,26 +104,6 @@
       "contentHash": "eea4e8a55fc731ae",
       "timesSeen": 1,
       "confidence": 0.69,
-      "corroborations": []
-    },
-    {
-      "id": "rockstar-site:stated-dates",
-      "sourceId": "rockstar-site",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 8, 2026, September 24, 2026",
-      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 8, 2026, September 24, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
-      "url": "https://www.rockstargames.com/VI",
-      "sourceLabel": "Official site",
-      "occurredAt": "2026-10-08T22:40:36.452Z",
-      "fields": {
-        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|October 8, 2026|September 24, 2026"
-      },
-      "detectedAt": "2026-10-08T22:40:34.694Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "5d7557580ce11299",
-      "timesSeen": 4,
-      "confidence": 0.95,
       "corroborations": []
     },
     {
