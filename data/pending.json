@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T15:59:52.315Z",
+  "updatedAt": "2026-10-15T20:43:57.344Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMifkFVX3lxTE1BOVZEdndnS1hrbkVaS1JvUnloWEJ4Y3YzbXktR21GTmxDc056Ykg5UUxyTXcta1h0SFkxVjZLdEp3WlVfNFFEZnBIMTZhUVI1TlZmcl9fQXJOekQySk5KZzVUcVdBVm1OV0NUU1J5RklKMV9TZk1Td2NNcy1MQQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "33 New Details From the GTA 6 Launch Trailer",
+      "description": "IGN published: \"33 New Details From the GTA 6 Launch Trailer - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVZEdndnS1hrbkVaS1JvUnloWEJ4Y3YzbXktR21GTmxDc056Ykg5UUxyTXcta1h0SFkxVjZLdEp3WlVfNFFEZnBIMTZhUVI1TlZmcl9fQXJOekQySk5KZzVUcVdBVm1OV0NUU1J5RklKMV9TZk1Td2NNcy1MQQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-15T16:35:48.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "33 New Details From the GTA 6 Launch Trailer - IGN"
+      },
+      "detectedAt": "2026-10-15T20:43:57.344Z",
+      "firstSeenAt": "2026-10-15T20:43:57.344Z",
+      "contentHash": "c11d32feb5b4a95b",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
