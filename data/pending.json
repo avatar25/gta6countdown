@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T21:07:42.662Z",
+  "updatedAt": "2026-10-15T02:23:55.859Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMirAFBVV95cUxPUFVJTHdUZVhES1FrTElPR2RwbTdMT0JhTC05NWNMYkdFb1l1M0ZsaEs0aURxZGZINDE0QU5nQnZHdHA1S3NwY0luaVRVM3VObDJxNWNhbjBhLXRvQ05HQUEwT09qRXFOLWltMXlZeUdmZF91eG51ek96YUhFVFRxZk0yVjRXbGVJakI5OUFnMzAtRDJwUVNHUU5hUXZ4a3YyZjNkbkdmVTNNSl9p",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Take-Two CEO’s Response To Second GTA 6 Delay: “Please Tell Me You’re Kidding”",
+      "description": "GameSpot published: \"Take-Two CEO’s Response To Second GTA 6 Delay: “Please Tell Me You’re Kidding” - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFVJTHdUZVhES1FrTElPR2RwbTdMT0JhTC05NWNMYkdFb1l1M0ZsaEs0aURxZGZINDE0QU5nQnZHdHA1S3NwY0luaVRVM3VObDJxNWNhbjBhLXRvQ05HQUEwT09qRXFOLWltMXlZeUdmZF91eG51ek96YUhFVFRxZk0yVjRXbGVJakI5OUFnMzAtRDJwUVNHUU5hUXZ4a3YyZjNkbkdmVTNNSl9p?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-10-14T12:45:49.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "Take-Two CEO’s Response To Second GTA 6 Delay: “Please Tell Me You’re Kidding” - GameSpot"
+      },
+      "detectedAt": "2026-10-15T02:23:55.859Z",
+      "firstSeenAt": "2026-10-15T02:23:55.859Z",
+      "contentHash": "eea4e8a55fc731ae",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
