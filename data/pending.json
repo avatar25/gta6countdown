@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T10:21:46.002Z",
+  "updatedAt": "2026-10-16T13:25:18.723Z",
   "pending": [
     {
       "id": "press-coverage:CBMiiAFBVV95cUxNYnYxSTcwZDY0T1VwVElEMXVpMUlnZ0xzald1eVFzT1o4NWxLajktMUF5clRvQ2xLR3JjcE45YmdyeVlkZzhVYW1qRTYtUnlYRXRqVmxINlNUSkZLQmhNV2xCY0RVaF9HQV9XRjI3MWpRVkVTZnc5T19aejBJNTV3bUZNcmVLcVVj",
@@ -61,27 +61,6 @@
       "firstSeenAt": "2026-08-28T01:54:51.279Z",
       "contentHash": "f8e3f84b9b0d33f1",
       "timesSeen": 5,
-      "confidence": 0.95,
-      "corroborations": []
-    },
-    {
-      "id": "rockstar-youtube:yt:video:rz1B4B2yBZY",
-      "sourceId": "rockstar-youtube",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Rockstar published a new video: Grand Theft Auto VI Launch Trailer",
-      "description": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever i…",
-      "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
-      "sourceLabel": "Rockstar Games on YouTube",
-      "occurredAt": "2026-10-15T13:00:26.000Z",
-      "fields": {
-        "videoId": "yt:video:rz1B4B2yBZY",
-        "title": "Grand Theft Auto VI Launch Trailer"
-      },
-      "detectedAt": "2026-10-15T15:59:52.315Z",
-      "firstSeenAt": "2026-10-15T15:59:52.315Z",
-      "contentHash": "576f4d7cd6c3c617",
-      "timesSeen": 1,
       "confidence": 0.95,
       "corroborations": []
     },
