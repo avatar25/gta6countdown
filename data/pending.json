@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T20:43:57.344Z",
+  "updatedAt": "2026-10-16T02:17:09.731Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiiAFBVV95cUxNYnYxSTcwZDY0T1VwVElEMXVpMUlnZ0xzald1eVFzT1o4NWxLajktMUF5clRvQ2xLR3JjcE45YmdyeVlkZzhVYW1qRTYtUnlYRXRqVmxINlNUSkZLQmhNV2xCY0RVaF9HQV9XRjI3MWpRVkVTZnc5T19aejBJNTV3bUZNcmVLcVVj",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Grand Theft Auto VI (GTA6) – Official Launch Trailer",
+      "description": "GameSpot published: \"Grand Theft Auto VI (GTA6) – Official Launch Trailer - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnYxSTcwZDY0T1VwVElEMXVpMUlnZ0xzald1eVFzT1o4NWxLajktMUF5clRvQ2xLR3JjcE45YmdyeVlkZzhVYW1qRTYtUnlYRXRqVmxINlNUSkZLQmhNV2xCY0RVaF9HQV9XRjI3MWpRVkVTZnc5T19aejBJNTV3bUZNcmVLcVVj?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-10-15T13:15:50.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "Grand Theft Auto VI (GTA6) – Official Launch Trailer - GameSpot"
+      },
+      "detectedAt": "2026-10-16T02:17:09.731Z",
+      "firstSeenAt": "2026-10-16T02:17:09.731Z",
+      "contentHash": "97dac508dcfc4fc6",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMifkFVX3lxTE1BOVZEdndnS1hrbkVaS1JvUnloWEJ4Y3YzbXktR21GTmxDc056Ykg5UUxyTXcta1h0SFkxVjZLdEp3WlVfNFFEZnBIMTZhUVI1TlZmcl9fQXJOekQySk5KZzVUcVdBVm1OV0NUU1J5RklKMV9TZk1Td2NNcy1MQQ",
       "sourceId": "press-coverage",
