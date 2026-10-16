@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T10:21:49.389Z",
+  "updatedAt": "2026-10-16T15:47:39.973Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
@@ -30,7 +30,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 209,
+      "polls": 210,
       "errors": 0,
       "uptime": 1
     },
@@ -46,7 +46,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 209,
+      "polls": 210,
       "errors": 0,
       "uptime": 1
     },
@@ -62,7 +62,7 @@
       "score": 0.77,
       "meanLeadHours": 5.1,
       "lastApprovedAt": "2026-09-24T20:56:16.199Z",
-      "polls": 209,
+      "polls": 210,
       "errors": 2,
       "uptime": 0.99
     },
@@ -78,7 +78,7 @@
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 209,
+      "polls": 210,
       "errors": 0,
       "uptime": 1
     },
@@ -86,15 +86,15 @@
       "sourceId": "rockstar-youtube",
       "sourceType": "official",
       "candidates": 16,
-      "approved": 1,
+      "approved": 2,
       "rejected": 6,
-      "pending": 1,
+      "pending": 0,
       "corroborated": 0,
-      "approvalRate": 0.14,
-      "score": 0.96,
-      "meanLeadHours": 0.9,
-      "lastApprovedAt": "2026-08-28T01:54:51.279Z",
-      "polls": 209,
+      "approvalRate": 0.25,
+      "score": 0.97,
+      "meanLeadHours": 1.9,
+      "lastApprovedAt": "2026-10-15T15:59:52.315Z",
+      "polls": 210,
       "errors": 36,
       "uptime": 0.83
     },
@@ -110,7 +110,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 209,
+      "polls": 210,
       "errors": 0,
       "uptime": 1
     }
