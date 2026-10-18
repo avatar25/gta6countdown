@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T19:52:20.388Z",
+  "updatedAt": "2026-10-18T02:09:41.908Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMixAFBVV95cUxOM2F4cHRZWjZYTGp6V2dTeUNjM1VlakFvYnpPQVo1N0Jmdy1WRVZwY25GWko4ZFdxdTlQbkZpTnMzdFJUay1aNEZmc2U3aUVubHJNRjhXdkYzcmZEb0k1c0pzbzgxVGpEVXZwNmpRcjFpdWx4VkVYTFVxelZEcVY0N3RCX2Y3eHZWTjFtSUFMSTQ5X2NvcDhwNmNrSTVTRFlSM2plalR4X25Db0taVVQ5YVQ0bEo2ZmNUNEpWSzkzRktwWWdW",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+      "description": "Push Square published: \"'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2F4cHRZWjZYTGp6V2dTeUNjM1VlakFvYnpPQVo1N0Jmdy1WRVZwY25GWko4ZFdxdTlQbkZpTnMzdFJUay1aNEZmc2U3aUVubHJNRjhXdkYzcmZEb0k1c0pzbzgxVGpEVXZwNmpRcjFpdWx4VkVYTFVxelZEcVY0N3RCX2Y3eHZWTjFtSUFMSTQ5X2NvcDhwNmNrSTVTRFlSM2plalR4X25Db0taVVQ5YVQ0bEo2ZmNUNEpWSzkzRktwWWdW?oc=5",
+      "sourceLabel": "Push Square",
+      "occurredAt": "2026-10-18T00:00:00.000Z",
+      "fields": {
+        "outlet": "Push Square",
+        "headline": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler - Push Square"
+      },
+      "detectedAt": "2026-10-18T02:09:41.908Z",
+      "firstSeenAt": "2026-10-18T02:09:41.908Z",
+      "contentHash": "ae65e7db444c681e",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMifEFVX3lxTE1UcEl0M1JzX1dETXNGOXpGYjBVVmdTWnByMzhjekEyOWI2bHMtbTNQdFNHY1ZsTkVqVHNWdldqNUZxSEZCdXZkcFZ4QkRaaFpYNEVReXV5N283eDJ3dTJwbVVxR0JZY2ZZMHhqd1RSQTJkU3dnYk40N2lqMVM",
       "sourceId": "press-coverage",
