@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T19:53:01.900Z",
+  "updatedAt": "2026-10-19T02:25:49.329Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiygFBVV95cUxQYW5TS1ZvSEN4dURaSnBHQTFwZEdBSGl2T2F6cGd2Y3NCd1BHN1hIWUlWWExfQ0s5LWkzZ2R3d000aWlfRzFhOE5jeHlISjhWNFAzUkdJRmlwTUtVUEtpc1p3YkZPQ2Z5TFhFa21IM0ZkUEVOSGtzeHBiUkpfbzUzc2U1bnF1SG5oejhhUkNITG9iaDZpOVRfOVIySnJSV3paLW5aVl94NHE5X1F6YmJjZTJ2aWs0Y3RXMU9wTFlBS2c1M08yQ21waXNR",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Hearing That Dude Say 'Grand Theft Auto' At The End Of The Latest GTA 6 Trailer Made Me Feel Like This",
+      "description": "Kotaku published: \"Hearing That Dude Say 'Grand Theft Auto' At The End Of The Latest GTA 6 Trailer Made Me Feel Like This - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYW5TS1ZvSEN4dURaSnBHQTFwZEdBSGl2T2F6cGd2Y3NCd1BHN1hIWUlWWExfQ0s5LWkzZ2R3d000aWlfRzFhOE5jeHlISjhWNFAzUkdJRmlwTUtVUEtpc1p3YkZPQ2Z5TFhFa21IM0ZkUEVOSGtzeHBiUkpfbzUzc2U1bnF1SG5oejhhUkNITG9iaDZpOVRfOVIySnJSV3paLW5aVl94NHE5X1F6YmJjZTJ2aWs0Y3RXMU9wTFlBS2c1M08yQ21waXNR?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-10-15T15:45:54.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "Hearing That Dude Say 'Grand Theft Auto' At The End Of The Latest GTA 6 Trailer Made Me Feel Like This - Kotaku"
+      },
+      "detectedAt": "2026-10-19T02:25:49.329Z",
+      "firstSeenAt": "2026-10-19T02:25:49.329Z",
+      "contentHash": "fe57fe942838b810",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMixAFBVV95cUxOM2F4cHRZWjZYTGp6V2dTeUNjM1VlakFvYnpPQVo1N0Jmdy1WRVZwY25GWko4ZFdxdTlQbkZpTnMzdFJUay1aNEZmc2U3aUVubHJNRjhXdkYzcmZEb0k1c0pzbzgxVGpEVXZwNmpRcjFpdWx4VkVYTFVxelZEcVY0N3RCX2Y3eHZWTjFtSUFMSTQ5X2NvcDhwNmNrSTVTRFlSM2plalR4X25Db0taVVQ5YVQ0bEo2ZmNUNEpWSzkzRktwWWdW",
       "sourceId": "press-coverage",
