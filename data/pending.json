@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T10:40:05.943Z",
+  "updatedAt": "2026-10-20T16:02:57.171Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMijAFBVV95cUxOT010M21BSHJMeElIblA0ekpZbWNaTzQ4amp4b1NiTVExa3FnT2wxemp2MGhSSzBkUGJJQUVaMVNxZk9ud3hkMGpUaVZDc1k4V0pxNEJuVVBxMkpfbm0wLXRmYUVpZVJaRmlXb0Iyb1l3NlZDQ3lYcmJXZUpPRXdRUS1BY1NGaTNxYy14eg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Voice Actors – All Confirmed And Rumored Cast",
+      "description": "GameSpot published: \"GTA 6 Voice Actors – All Confirmed And Rumored Cast - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT010M21BSHJMeElIblA0ekpZbWNaTzQ4amp4b1NiTVExa3FnT2wxemp2MGhSSzBkUGJJQUVaMVNxZk9ud3hkMGpUaVZDc1k4V0pxNEJuVVBxMkpfbm0wLXRmYUVpZVJaRmlXb0Iyb1l3NlZDQ3lYcmJXZUpPRXdRUS1BY1NGaTNxYy14eg?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-10-20T11:05:29.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6 Voice Actors – All Confirmed And Rumored Cast - GameSpot"
+      },
+      "detectedAt": "2026-10-20T16:02:57.171Z",
+      "firstSeenAt": "2026-10-20T16:02:57.171Z",
+      "contentHash": "a94af38d7a7123ab",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiygFBVV95cUxQYW5TS1ZvSEN4dURaSnBHQTFwZEdBSGl2T2F6cGd2Y3NCd1BHN1hIWUlWWExfQ0s5LWkzZ2R3d000aWlfRzFhOE5jeHlISjhWNFAzUkdJRmlwTUtVUEtpc1p3YkZPQ2Z5TFhFa21IM0ZkUEVOSGtzeHBiUkpfbzUzc2U1bnF1SG5oejhhUkNITG9iaDZpOVRfOVIySnJSV3paLW5aVl94NHE5X1F6YmJjZTJ2aWs0Y3RXMU9wTFlBS2c1M08yQ21waXNR",
       "sourceId": "press-coverage",
