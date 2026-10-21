@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T16:19:49.003Z",
+  "updatedAt": "2026-10-21T21:02:59.273Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMipwFBVV95cUxPaUpWbzVMU3Qyc1lWUkZfT1k1eUxBMWF0dzhpNFI4UXhTMnA5ZDlBeklORXV1Vzd4U1hPbGhQbTd6eEVPbzZGR1ozekt1U2R0c3FDby01dEtiaVdCbGVheWJuWnNOdjhwOXlpdm5veWRWRFBSenE1WXRMNjVmRUUtQWJHU1BFeG54eVhSR1Z0UXBzZk84ZUdnSGU5dllaQWxISHR0cHVvbw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
+      "description": "IGN published: \"Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUpWbzVMU3Qyc1lWUkZfT1k1eUxBMWF0dzhpNFI4UXhTMnA5ZDlBeklORXV1Vzd4U1hPbGhQbTd6eEVPbzZGR1ozekt1U2R0c3FDby01dEtiaVdCbGVheWJuWnNOdjhwOXlpdm5veWRWRFBSenE1WXRMNjVmRUUtQWJHU1BFeG54eVhSR1Z0UXBzZk84ZUdnSGU5dllaQWxISHR0cHVvbw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-20T18:24:08.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date - IGN"
+      },
+      "detectedAt": "2026-10-21T21:02:59.273Z",
+      "firstSeenAt": "2026-10-21T21:02:59.273Z",
+      "contentHash": "65e8f49b6023f59e",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMijAFBVV95cUxOT010M21BSHJMeElIblA0ekpZbWNaTzQ4amp4b1NiTVExa3FnT2wxemp2MGhSSzBkUGJJQUVaMVNxZk9ud3hkMGpUaVZDc1k4V0pxNEJuVVBxMkpfbm0wLXRmYUVpZVJaRmlXb0Iyb1l3NlZDQ3lYcmJXZUpPRXdRUS1BY1NGaTNxYy14eg",
       "sourceId": "press-coverage",
