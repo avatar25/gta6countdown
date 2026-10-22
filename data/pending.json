@@ -1,7 +1,49 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T21:02:59.273Z",
+  "updatedAt": "2026-10-22T02:30:42.214Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMigAFBVV95cUxNM0szMlBWWk1XWHFYTENEbl96VE1tUEhhNmNDdWlEbHhPSGJ5XzR0SVhLY3Q4cHFGTjQzdG5FeEpxVTJDMUlrT3pZVGhnR1VWOFliWFN3eXRsX1doWXRnclA2dFBfU2FJWW5SQ1lpUVFtd2ROaV84MGN4QjJYYXBUUQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Preorders Are Up to $11 Off If You Follow These 3 Simple Steps (Today Only)",
+      "description": "IGN published: \"GTA 6 Preorders Are Up to $11 Off If You Follow These 3 Simple Steps (Today Only) - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0szMlBWWk1XWHFYTENEbl96VE1tUEhhNmNDdWlEbHhPSGJ5XzR0SVhLY3Q4cHFGTjQzdG5FeEpxVTJDMUlrT3pZVGhnR1VWOFliWFN3eXRsX1doWXRnclA2dFBfU2FJWW5SQ1lpUVFtd2ROaV84MGN4QjJYYXBUUQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-21T19:40:51.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Preorders Are Up to $11 Off If You Follow These 3 Simple Steps (Today Only) - IGN"
+      },
+      "detectedAt": "2026-10-22T02:30:42.214Z",
+      "firstSeenAt": "2026-10-22T02:30:42.214Z",
+      "contentHash": "8d1ed2432ed59d7e",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMi4gFBVV95cUxOYkc1dkNDTnpfLTRSZzIxYy1YS0xUa0NLUWNpMTNHamQ5eEhlUndoYXhmT1pTWlVXenhUN05Zc1NPY1piZThubU9TcUtjZ085WWJKN1NRS1JVbFJ0R0s5MTh5M2NZQlB5YVdJRkNsTUlwaWpIai1rejlaWWlzTW1obWxRT251aXdxaktkYlNRWUZ1Z2RIZmFqNzN2bzJjWlJWOWktR09CeDF0ZVFNRXQ5aHozNjRpVzVEaWNycEJHbkNFYVFwdUxQdnViSXFiQVNZcUtiTHlhUUJMUktXSjBZdmNR",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+      "description": "IGN published: \"GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYkc1dkNDTnpfLTRSZzIxYy1YS0xUa0NLUWNpMTNHamQ5eEhlUndoYXhmT1pTWlVXenhUN05Zc1NPY1piZThubU9TcUtjZ085WWJKN1NRS1JVbFJ0R0s5MTh5M2NZQlB5YVdJRkNsTUlwaWpIai1rejlaWWlzTW1obWxRT251aXdxaktkYlNRWUZ1Z2RIZmFqNzN2bzJjWlJWOWktR09CeDF0ZVFNRXQ5aHozNjRpVzVEaWNycEJHbkNFYVFwdUxQdnViSXFiQVNZcUtiTHlhUUJMUktXSjBZdmNR?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-21T11:52:27.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami - IGN"
+      },
+      "detectedAt": "2026-10-22T02:30:42.214Z",
+      "firstSeenAt": "2026-10-22T02:30:42.214Z",
+      "contentHash": "b0094f8bebaa2fb9",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMipwFBVV95cUxPaUpWbzVMU3Qyc1lWUkZfT1k1eUxBMWF0dzhpNFI4UXhTMnA5ZDlBeklORXV1Vzd4U1hPbGhQbTd6eEVPbzZGR1ozekt1U2R0c3FDby01dEtiaVdCbGVheWJuWnNOdjhwOXlpdm5veWRWRFBSenE1WXRMNjVmRUUtQWJHU1BFeG54eVhSR1Z0UXBzZk84ZUdnSGU5dllaQWxISHR0cHVvbw",
       "sourceId": "press-coverage",
