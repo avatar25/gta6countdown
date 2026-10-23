@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T20:59:49.573Z",
+  "updatedAt": "2026-10-23T02:35:10.407Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMimwFBVV95cUxQUEkwdGd1d0doMi11V3l3YkMxTlF4UEp1OHZxR05DcUpPVUFKekE2ejEyWk5CTVVZdUY0X3lfYUVZU19pTlA3bElKQzlJd0tFazYtUnJpZzY4VFFramhFaW5xRFlrcENKSUhpNVEyYmNIUC13V2U3MXQ4azNkNTlPNE1LVllGVTYyZG40VVRtZThTTS1aUGVROXEtdw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
+      "description": "GameSpot published: \"GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEkwdGd1d0doMi11V3l3YkMxTlF4UEp1OHZxR05DcUpPVUFKekE2ejEyWk5CTVVZdUY0X3lfYUVZU19pTlA3bElKQzlJd0tFazYtUnJpZzY4VFFramhFaW5xRFlrcENKSUhpNVEyYmNIUC13V2U3MXQ4azNkNTlPNE1LVllGVTYyZG40VVRtZThTTS1aUGVROXEtdw?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-10-21T07:00:00.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself - GameSpot"
+      },
+      "detectedAt": "2026-10-23T02:35:10.407Z",
+      "firstSeenAt": "2026-10-23T02:35:10.407Z",
+      "contentHash": "465a26707793602b",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMigAFBVV95cUxNM0szMlBWWk1XWHFYTENEbl96VE1tUEhhNmNDdWlEbHhPSGJ5XzR0SVhLY3Q4cHFGTjQzdG5FeEpxVTJDMUlrT3pZVGhnR1VWOFliWFN3eXRsX1doWXRnclA2dFBfU2FJWW5SQ1lpUVFtd2ROaV84MGN4QjJYYXBUUQ",
       "sourceId": "press-coverage",
