@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T17:02:13.147Z",
+  "updatedAt": "2026-10-27T21:37:03.077Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
@@ -30,7 +30,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 254,
+      "polls": 255,
       "errors": 0,
       "uptime": 1
     },
@@ -46,23 +46,23 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 254,
+      "polls": 255,
       "errors": 0,
       "uptime": 1
     },
     "press-coverage": {
       "sourceId": "press-coverage",
       "sourceType": "press",
-      "candidates": 58,
+      "candidates": 60,
       "approved": 3,
       "rejected": 32,
-      "pending": 23,
+      "pending": 25,
       "corroborated": 0,
       "approvalRate": 0.09,
       "score": 0.77,
       "meanLeadHours": 5.1,
       "lastApprovedAt": "2026-09-24T20:56:16.199Z",
-      "polls": 254,
+      "polls": 255,
       "errors": 3,
       "uptime": 0.99
     },
@@ -78,7 +78,7 @@
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 254,
+      "polls": 255,
       "errors": 0,
       "uptime": 1
     },
@@ -94,7 +94,7 @@
       "score": 0.97,
       "meanLeadHours": 1.9,
       "lastApprovedAt": "2026-10-15T15:59:52.315Z",
-      "polls": 254,
+      "polls": 255,
       "errors": 44,
       "uptime": 0.83
     },
@@ -110,7 +110,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 254,
+      "polls": 255,
       "errors": 0,
       "uptime": 1
     }
