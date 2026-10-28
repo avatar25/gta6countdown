@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T03:04:58.076Z",
+  "updatedAt": "2026-10-28T11:50:33.439Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMilwFBVV95cUxQcW96UFJUemtJVzZGbjF0T0Nrc0syTlgzYlJ6ZEhnb19mYlFuR3BCUFlYaTY4Q1AtTGtYMFdUMnRUUzl0djhkalc1clMxRW81Sjhra09xQVQ2eDBjMXhrTGpPUFhDNjZhN0Y0M2tLanp6bXpJRXhPYnVLbEwzRXRPUFZ2VmVIRlVqQnRQTmZyZWNkQmJVMVQ4",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "description": "Push Square published: \"GTA 6 Release Times and Preload: When Can You Start Playing? - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcW96UFJUemtJVzZGbjF0T0Nrc0syTlgzYlJ6ZEhnb19mYlFuR3BCUFlYaTY4Q1AtTGtYMFdUMnRUUzl0djhkalc1clMxRW81Sjhra09xQVQ2eDBjMXhrTGpPUFhDNjZhN0Y0M2tLanp6bXpJRXhPYnVLbEwzRXRPUFZ2VmVIRlVqQnRQTmZyZWNkQmJVMVQ4?oc=5",
+      "sourceLabel": "Push Square",
+      "occurredAt": "2026-10-28T00:14:06.000Z",
+      "fields": {
+        "outlet": "Push Square",
+        "headline": "GTA 6 Release Times and Preload: When Can You Start Playing? - Push Square"
+      },
+      "detectedAt": "2026-10-28T11:50:33.439Z",
+      "firstSeenAt": "2026-10-28T11:50:33.439Z",
+      "contentHash": "e7e66e70d6f95914",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMigAFBVV95cUxPcngyNC1wMUdsNTltVGp1eDI4M2hSN0ROVzdzU0w5cEhmQUV1VVVBQTBnVlF3YWNndzJoUWdqcXAxaFNiSk03c1NPZllWRU1CWGlSZU1aTlE2SFBfR3lJVW44YldHMmhFeEEtTlRxdHRwa19HTXBybC1YdjhyYnRlNg",
       "sourceId": "press-coverage",
