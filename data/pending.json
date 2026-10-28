@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T17:39:21.768Z",
+  "updatedAt": "2026-10-28T22:00:43.933Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMigAFBVV95cUxPcngyNC1wMUdsNTltVGp1eDI4M2hSN0ROVzdzU0w5cEhmQUV1VVVBQTBnVlF3YWNndzJoUWdqcXAxaFNiSk03c1NPZllWRU1CWGlSZU1aTlE2SFBfR3lJVW44YldHMmhFeEEtTlRxdHRwa19HTXBybC1YdjhyYnRlNg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 File Size Revealed, And It's Massive--See How It Compares To Other Huge Games",
+      "description": "GameSpot published: \"GTA 6 File Size Revealed, And It's Massive--See How It Compares To Other Huge Games - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcngyNC1wMUdsNTltVGp1eDI4M2hSN0ROVzdzU0w5cEhmQUV1VVVBQTBnVlF3YWNndzJoUWdqcXAxaFNiSk03c1NPZllWRU1CWGlSZU1aTlE2SFBfR3lJVW44YldHMmhFeEEtTlRxdHRwa19HTXBybC1YdjhyYnRlNg?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-10-27T17:50:38.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "GTA 6 File Size Revealed, And It's Massive--See How It Compares To Other Huge Games - GameSpot"
+      },
+      "detectedAt": "2026-10-28T22:00:43.933Z",
+      "firstSeenAt": "2026-10-27T21:36:58.598Z",
+      "contentHash": "d0a86d17fd568c49",
+      "timesSeen": 2,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMilwFBVV95cUxQcW96UFJUemtJVzZGbjF0T0Nrc0syTlgzYlJ6ZEhnb19mYlFuR3BCUFlYaTY4Q1AtTGtYMFdUMnRUUzl0djhkalc1clMxRW81Sjhra09xQVQ2eDBjMXhrTGpPUFhDNjZhN0Y0M2tLanp6bXpJRXhPYnVLbEwzRXRPUFZ2VmVIRlVqQnRQTmZyZWNkQmJVMVQ4",
       "sourceId": "press-coverage",
@@ -19,27 +40,6 @@
       "detectedAt": "2026-10-28T11:50:33.439Z",
       "firstSeenAt": "2026-10-28T11:50:33.439Z",
       "contentHash": "e7e66e70d6f95914",
-      "timesSeen": 1,
-      "confidence": 0.69,
-      "corroborations": []
-    },
-    {
-      "id": "press-coverage:CBMigAFBVV95cUxPcngyNC1wMUdsNTltVGp1eDI4M2hSN0ROVzdzU0w5cEhmQUV1VVVBQTBnVlF3YWNndzJoUWdqcXAxaFNiSk03c1NPZllWRU1CWGlSZU1aTlE2SFBfR3lJVW44YldHMmhFeEEtTlRxdHRwa19HTXBybC1YdjhyYnRlNg",
-      "sourceId": "press-coverage",
-      "sourceType": "press",
-      "provenance": "official",
-      "title": "GTA 6 File Size Revealed, And It’s Massive",
-      "description": "GameSpot published: \"GTA 6 File Size Revealed, And It’s Massive - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcngyNC1wMUdsNTltVGp1eDI4M2hSN0ROVzdzU0w5cEhmQUV1VVVBQTBnVlF3YWNndzJoUWdqcXAxaFNiSk03c1NPZllWRU1CWGlSZU1aTlE2SFBfR3lJVW44YldHMmhFeEEtTlRxdHRwa19HTXBybC1YdjhyYnRlNg?oc=5",
-      "sourceLabel": "GameSpot",
-      "occurredAt": "2026-10-27T17:49:14.000Z",
-      "fields": {
-        "outlet": "GameSpot",
-        "headline": "GTA 6 File Size Revealed, And It’s Massive - GameSpot"
-      },
-      "detectedAt": "2026-10-27T21:36:58.598Z",
-      "firstSeenAt": "2026-10-27T21:36:58.598Z",
-      "contentHash": "c887851a4b8f5941",
       "timesSeen": 1,
       "confidence": 0.69,
       "corroborations": []
