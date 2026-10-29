@@ -1,7 +1,48 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T11:58:05.834Z",
+  "updatedAt": "2026-10-29T18:01:44.638Z",
   "pending": [
+    {
+      "id": "rockstar-site:stated-dates",
+      "sourceId": "rockstar-site",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 29, 2026, October 8, 2026",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 29, 2026, October 8, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "url": "https://www.rockstargames.com/VI",
+      "sourceLabel": "Official site",
+      "occurredAt": "2026-10-29T18:01:45.779Z",
+      "fields": {
+        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|October 15, 2026|October 29, 2026|October 8, 2026"
+      },
+      "detectedAt": "2026-10-29T18:01:44.638Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "12cb08420ef54f07",
+      "timesSeen": 6,
+      "confidence": 0.95,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMi8gFBVV95cUxQYlhnZG03N1pDOXFDZXNGQm5EX08wS0lSd0NZNHFxMGxnYUtlTEVGTHRKLUJVZHdXS0htbXdwMXNvalVDUHhLdmw1VmY1eUFmQzV5N0dWekdid2tNZUpsLVJRbUczbFBLMWlFT3I1VFZFWGtqVEo3dzhxZ1VQb0FKSHpDa1U4QVVrS3BJWXJYTjNvU2l6NGdLbkVIU3FYZF9aOVhiWHdxREZuR20wNFlDVTU4dnBuR2RIV2ZDMGZtWnhJY002dWxQUzJwSHhTSVB0YllMZnFjeG1BUDQ2b1QtQWtaUXp0Q2pFX0F6Z3NPd3JfQQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now",
+      "description": "Video Games Chronicle published: \"The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now - Video Games Chronicle\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYlhnZG03N1pDOXFDZXNGQm5EX08wS0lSd0NZNHFxMGxnYUtlTEVGTHRKLUJVZHdXS0htbXdwMXNvalVDUHhLdmw1VmY1eUFmQzV5N0dWekdid2tNZUpsLVJRbUczbFBLMWlFT3I1VFZFWGtqVEo3dzhxZ1VQb0FKSHpDa1U4QVVrS3BJWXJYTjNvU2l6NGdLbkVIU3FYZF9aOVhiWHdxREZuR20wNFlDVTU4dnBuR2RIV2ZDMGZtWnhJY002dWxQUzJwSHhTSVB0YllMZnFjeG1BUDQ2b1QtQWtaUXp0Q2pFX0F6Z3NPd3JfQQ?oc=5",
+      "sourceLabel": "Video Games Chronicle",
+      "occurredAt": "2026-10-29T13:47:04.000Z",
+      "fields": {
+        "outlet": "Video Games Chronicle",
+        "headline": "The official Grand Theft Auto 6 musical score by Justice is released in December, CD and vinyl pre-orders available now - Video Games Chronicle"
+      },
+      "detectedAt": "2026-10-29T18:01:44.638Z",
+      "firstSeenAt": "2026-10-29T18:01:44.638Z",
+      "contentHash": "ab519ad2213952af",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMigAFBVV95cUxPcngyNC1wMUdsNTltVGp1eDI4M2hSN0ROVzdzU0w5cEhmQUV1VVVBQTBnVlF3YWNndzJoUWdqcXAxaFNiSk03c1NPZllWRU1CWGlSZU1aTlE2SFBfR3lJVW44YldHMmhFeEEtTlRxdHRwa19HTXBybC1YdjhyYnRlNg",
       "sourceId": "press-coverage",
@@ -294,26 +335,6 @@
       "contentHash": "c11d32feb5b4a95b",
       "timesSeen": 1,
       "confidence": 0.69,
-      "corroborations": []
-    },
-    {
-      "id": "rockstar-site:stated-dates",
-      "sourceId": "rockstar-site",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 8, 2026",
-      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 8, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
-      "url": "https://www.rockstargames.com/VI",
-      "sourceLabel": "Official site",
-      "occurredAt": "2026-10-15T15:59:53.532Z",
-      "fields": {
-        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|October 15, 2026|October 8, 2026"
-      },
-      "detectedAt": "2026-10-15T15:59:52.315Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "f8e3f84b9b0d33f1",
-      "timesSeen": 5,
-      "confidence": 0.95,
       "corroborations": []
     },
     {
