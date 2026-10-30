@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T18:01:44.638Z",
+  "updatedAt": "2026-10-30T03:33:57.775Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMivwFBVV95cUxQNkFBSHoxcnR1Sl9pU0VRbWdGekN0M3NSUzVsdzlSa3Q3RERBTWlFNnNpV2hUQzZIWWhaMm53OEctak0wTWhjbnA4Y1h2dXZqd3VPYTl2VktqN0QyeXk0M2Vmd0dYc050YVRNV1o3UmRDTDJTdV9QTnZMb3hscmxCWWM4eFo4NF9BYWQ1TU9oS2x3cVNmaS1mZ0p1UEpvVlh5S1ZxMk9IMkhzeXdkYmZGY1NtQkd2cEMyZHk3a2JwZw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "The GTA 6: Original Score Has a Release Date and a Brand New Track You Can Listen to Right Now",
+      "description": "IGN published: \"The GTA 6: Original Score Has a Release Date and a Brand New Track You Can Listen to Right Now - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkFBSHoxcnR1Sl9pU0VRbWdGekN0M3NSUzVsdzlSa3Q3RERBTWlFNnNpV2hUQzZIWWhaMm53OEctak0wTWhjbnA4Y1h2dXZqd3VPYTl2VktqN0QyeXk0M2Vmd0dYc050YVRNV1o3UmRDTDJTdV9QTnZMb3hscmxCWWM4eFo4NF9BYWQ1TU9oS2x3cVNmaS1mZ0p1UEpvVlh5S1ZxMk9IMkhzeXdkYmZGY1NtQkd2cEMyZHk3a2JwZw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-29T13:32:09.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "The GTA 6: Original Score Has a Release Date and a Brand New Track You Can Listen to Right Now - IGN"
+      },
+      "detectedAt": "2026-10-30T03:33:57.775Z",
+      "firstSeenAt": "2026-10-30T03:33:57.775Z",
+      "contentHash": "00fde4242522bdc9",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
