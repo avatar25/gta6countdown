@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T17:27:53.720Z",
+  "updatedAt": "2026-10-30T21:48:17.539Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMihwFBVV95cUxQQkJlNEFpMnJpeGh6QldfM3pDaEtwZThpOUxuZmNCNVRCLVVRVTREbTZsM2NnT1MtVURzNWlSc3dTYzdCR1o1czBYU0ZPU1dlaW1tWEJnbGxLSjF3MHNSVHdJSWxpNTlkcUhQeGM1SHF1WjMtQTFaMkoxR0lXSjZwQV82UlhjdHc",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Grand Theft Auto VI: The Original Score Vinyl Is Up for Preorder (Not to Be Confused with GTA 6: The Album)",
+      "description": "IGN published: \"Grand Theft Auto VI: The Original Score Vinyl Is Up for Preorder (Not to Be Confused with GTA 6: The Album) - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkJlNEFpMnJpeGh6QldfM3pDaEtwZThpOUxuZmNCNVRCLVVRVTREbTZsM2NnT1MtVURzNWlSc3dTYzdCR1o1czBYU0ZPU1dlaW1tWEJnbGxLSjF3MHNSVHdJSWxpNTlkcUhQeGM1SHF1WjMtQTFaMkoxR0lXSjZwQV82UlhjdHc?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-10-30T19:15:34.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Grand Theft Auto VI: The Original Score Vinyl Is Up for Preorder (Not to Be Confused with GTA 6: The Album) - IGN"
+      },
+      "detectedAt": "2026-10-30T21:48:17.539Z",
+      "firstSeenAt": "2026-10-30T21:48:17.539Z",
+      "contentHash": "09866bbe0ca9ba2d",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMivwFBVV95cUxQNkFBSHoxcnR1Sl9pU0VRbWdGekN0M3NSUzVsdzlSa3Q3RERBTWlFNnNpV2hUQzZIWWhaMm53OEctak0wTWhjbnA4Y1h2dXZqd3VPYTl2VktqN0QyeXk0M2Vmd0dYc050YVRNV1o3UmRDTDJTdV9QTnZMb3hscmxCWWM4eFo4NF9BYWQ1TU9oS2x3cVNmaS1mZ0p1UEpvVlh5S1ZxMk9IMkhzeXdkYmZGY1NtQkd2cEMyZHk3a2JwZw",
       "sourceId": "press-coverage",
