@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T14:13:44.561Z",
+  "updatedAt": "2026-11-03T00:12:10.161Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMikgFBVV95cUxOTk1iNk9WSDBQWlgydnJMelMtOGR5MURiQXNiT1lRUU9DTzdWdHA5Z2NhY1JKdjZfNEUweURyLXY3cnFkcUk1U2gwV1kzTWR3RF9FcFgxa2RWSzhHQ1NqMW5xTFB2SDFrOENiS2ZLY0JmekNjazRONkYtdWllTUJPRUZJU0FwVDNzOUN6bURfX2hnUQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Walmart GTA 6 Pre-Orders Will Include A ‘Surprise’",
+      "description": "Kotaku published: \"Walmart GTA 6 Pre-Orders Will Include A ‘Surprise’ - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTk1iNk9WSDBQWlgydnJMelMtOGR5MURiQXNiT1lRUU9DTzdWdHA5Z2NhY1JKdjZfNEUweURyLXY3cnFkcUk1U2gwV1kzTWR3RF9FcFgxa2RWSzhHQ1NqMW5xTFB2SDFrOENiS2ZLY0JmekNjazRONkYtdWllTUJPRUZJU0FwVDNzOUN6bURfX2hnUQ?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-11-02T14:32:38.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "Walmart GTA 6 Pre-Orders Will Include A ‘Surprise’ - Kotaku"
+      },
+      "detectedAt": "2026-11-03T00:12:10.161Z",
+      "firstSeenAt": "2026-11-03T00:12:10.161Z",
+      "contentHash": "6313210b97727f24",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMihwFBVV95cUxQQkJlNEFpMnJpeGh6QldfM3pDaEtwZThpOUxuZmNCNVRCLVVRVTREbTZsM2NnT1MtVURzNWlSc3dTYzdCR1o1czBYU0ZPU1dlaW1tWEJnbGxLSjF3MHNSVHdJSWxpNTlkcUhQeGM1SHF1WjMtQTFaMkoxR0lXSjZwQV82UlhjdHc",
       "sourceId": "press-coverage",
