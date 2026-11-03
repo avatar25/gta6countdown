@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T00:12:10.161Z",
+  "updatedAt": "2026-11-03T13:16:42.723Z",
   "sources": {
     "xbox-store": {
-      "lastPolledAt": "2026-11-03T00:12:10.161Z",
+      "lastPolledAt": "2026-11-03T13:16:42.723Z",
       "status": "unchanged",
       "candidates": {
         "xbox-store:9P3H4968GRSM:release-date": "2409d3dbc4c33b33",
@@ -13,12 +13,12 @@
         "xbox-store:9NNZSNHLR63L:0017:price": "70ccdfb5a18dcc18",
         "xbox-store:9NNZSNHLR63L:editions": "173fb12d6a53cdd2"
       },
-      "polls": 276,
+      "polls": 277,
       "errors": 0,
       "bodyHash": "60110ab4c732431a"
     },
     "playstation-store": {
-      "lastPolledAt": "2026-11-03T00:12:10.161Z",
+      "lastPolledAt": "2026-11-03T13:16:42.723Z",
       "status": "unchanged",
       "candidates": {
         "playstation-store:EP1004-PPSA01547_00-GTAVISTANDARD001:release-date": "3b819205c17e609d",
@@ -30,13 +30,13 @@
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:platforms": "bc33753171cc1cb6",
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:publisher": "38034553550ad168"
       },
-      "polls": 276,
+      "polls": 277,
       "errors": 0,
       "bodyHash": "81a13a80ed36d8ba"
     },
     "rockstar-youtube": {
-      "lastPolledAt": "2026-11-03T00:12:10.161Z",
-      "status": "error",
+      "lastPolledAt": "2026-11-03T13:16:42.723Z",
+      "status": "ok",
       "candidates": {
         "rockstar-youtube:yt:video:qq76pQsI1iw": "3e51df6e34f80af9",
         "rockstar-youtube:yt:video:vK_IL6V17Js": "f725665df3bac974",
@@ -55,35 +55,34 @@
         "rockstar-youtube:yt:video:tJbzMqJGH4k": "853d68f55f42c1a9",
         "rockstar-youtube:yt:video:rz1B4B2yBZY": "576f4d7cd6c3c617"
       },
-      "polls": 276,
+      "polls": 277,
       "errors": 50,
-      "bodyHash": "dfa5eaba481437f4",
-      "error": "fetch failed for https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A: HTTP 404 Not Found"
+      "bodyHash": "7bb46cdd8a1bc120"
     },
     "rockstar-site": {
-      "lastPolledAt": "2026-11-03T00:12:10.161Z",
+      "lastPolledAt": "2026-11-03T13:16:42.723Z",
       "status": "unchanged",
       "candidates": {
         "rockstar-site:page-copy": "3cd730354cfdb9a2",
         "rockstar-site:stated-dates": "12cb08420ef54f07"
       },
-      "polls": 276,
+      "polls": 277,
       "errors": 0,
       "bodyHash": "968929ec98344246"
     },
     "netflix-premiere": {
-      "lastPolledAt": "2026-11-03T00:12:10.161Z",
+      "lastPolledAt": "2026-11-03T13:16:42.723Z",
       "status": "ok",
       "candidates": {
         "netflix-premiere:listing": "2328498b3573bd96",
         "netflix-premiere:schedule": "4e07bf70602dbd43"
       },
-      "polls": 276,
+      "polls": 277,
       "errors": 0,
-      "bodyHash": "cb88531461498bbd"
+      "bodyHash": "557d355c694d1b83"
     },
     "press-coverage": {
-      "lastPolledAt": "2026-11-03T00:12:10.161Z",
+      "lastPolledAt": "2026-11-03T13:16:42.723Z",
       "status": "ok",
       "candidates": {
         "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs": "20de6c9b623e90e6",
@@ -152,9 +151,9 @@
         "press-coverage:CBMihwFBVV95cUxQQkJlNEFpMnJpeGh6QldfM3pDaEtwZThpOUxuZmNCNVRCLVVRVTREbTZsM2NnT1MtVURzNWlSc3dTYzdCR1o1czBYU0ZPU1dlaW1tWEJnbGxLSjF3MHNSVHdJSWxpNTlkcUhQeGM1SHF1WjMtQTFaMkoxR0lXSjZwQV82UlhjdHc": "09866bbe0ca9ba2d",
         "press-coverage:CBMikgFBVV95cUxOTk1iNk9WSDBQWlgydnJMelMtOGR5MURiQXNiT1lRUU9DTzdWdHA5Z2NhY1JKdjZfNEUweURyLXY3cnFkcUk1U2gwV1kzTWR3RF9FcFgxa2RWSzhHQ1NqMW5xTFB2SDFrOENiS2ZLY0JmekNjazRONkYtdWllTUJPRUZJU0FwVDNzOUN6bURfX2hnUQ": "6313210b97727f24"
       },
-      "polls": 276,
+      "polls": 277,
       "errors": 4,
-      "bodyHash": "53dd1e228f2b7774"
+      "bodyHash": "4debf4a180c34793"
     }
   }
 }
