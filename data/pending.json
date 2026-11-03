@@ -1,7 +1,90 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T13:16:42.723Z",
+  "updatedAt": "2026-11-03T22:41:52.473Z",
   "pending": [
+    {
+      "id": "rockstar-site:stated-dates",
+      "sourceId": "rockstar-site",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, October 15, 2026, October 29, 2026",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, October 15, 2026, October 29, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "url": "https://www.rockstargames.com/VI",
+      "sourceLabel": "Official site",
+      "occurredAt": "2026-11-03T22:41:53.672Z",
+      "fields": {
+        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|November 3, 2026|October 15, 2026|October 29, 2026"
+      },
+      "detectedAt": "2026-11-03T22:41:52.473Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "24c96110c34bd596",
+      "timesSeen": 7,
+      "confidence": 0.95,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMixwFBVV95cUxOZFFVQkRwR3ZIU2wyYlFZZlFRem02ejJhNVpuNTJWWGtrNnVCT09RdElKTzZuVFVfMENaWFhWWUJjaXl5RFdTWGN6QXZVckZTTlVVWTdkSU9fVlJwajNrRWxWS2JidHduT3luNGZvbk81WS1ZWVFnd1B0VXdXX1FfMzExTk81S3VsejBsdFpmal9NalN1WjVaYzhVMEdtVF9hcWoyQ01EbFJOdXczbXFfR0hqempLRktaY2hHWGZhWTFNcFowX1Nz",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies",
+      "description": "Push Square published: \"GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFFVQkRwR3ZIU2wyYlFZZlFRem02ejJhNVpuNTJWWGtrNnVCT09RdElKTzZuVFVfMENaWFhWWUJjaXl5RFdTWGN6QXZVckZTTlVVWTdkSU9fVlJwajNrRWxWS2JidHduT3luNGZvbk81WS1ZWVFnd1B0VXdXX1FfMzExTk81S3VsejBsdFpmal9NalN1WjVaYzhVMEdtVF9hcWoyQ01EbFJOdXczbXFfR0hqempLRktaY2hHWGZhWTFNcFowX1Nz?oc=5",
+      "sourceLabel": "Push Square",
+      "occurredAt": "2026-11-03T15:15:00.000Z",
+      "fields": {
+        "outlet": "Push Square",
+        "headline": "GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies - Push Square"
+      },
+      "detectedAt": "2026-11-03T22:41:52.473Z",
+      "firstSeenAt": "2026-11-03T22:41:52.473Z",
+      "contentHash": "e87254e8cc2e09a3",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMinwFBVV95cUxQaWg3RVBIN3pxMUpPSGFsSVdVUl9uQUU3bDdNRzh5bHJpZ3NnRGlfdDc1YlVZYTZlNm5pSlU3TkpPWlJfN3U0dUU5YkhvMURTbzdrMlhoZFVIZjhpUGk4UkdqWTRERUJ5UURURW1LWUwyMmF3TmZjZF9EeDZ0a1lVRGo3MFZYdEdsVzA3MHZQNGZhWnZJRktMRnJFOFExQ1U",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Pre-Load Times, Install Size, And Global Release Times Confirmed",
+      "description": "Kotaku published: \"GTA 6 Pre-Load Times, Install Size, And Global Release Times Confirmed - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWg3RVBIN3pxMUpPSGFsSVdVUl9uQUU3bDdNRzh5bHJpZ3NnRGlfdDc1YlVZYTZlNm5pSlU3TkpPWlJfN3U0dUU5YkhvMURTbzdrMlhoZFVIZjhpUGk4UkdqWTRERUJ5UURURW1LWUwyMmF3TmZjZF9EeDZ0a1lVRGo3MFZYdEdsVzA3MHZQNGZhWnZJRktMRnJFOFExQ1U?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-11-03T17:04:02.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "GTA 6 Pre-Load Times, Install Size, And Global Release Times Confirmed - Kotaku"
+      },
+      "detectedAt": "2026-11-03T22:41:52.473Z",
+      "firstSeenAt": "2026-11-03T22:41:52.473Z",
+      "contentHash": "629616b9f276d8f2",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMitAFBVV95cUxPRVU3dnlFRHNxR3ZTeFhnMm84M0hOVjhSVDhCRTRUUjZDLVhvekVPYlFkYmVZNk9mSWl3UUFFWUpJWjRtcUtMODNWWUR5RTRwbnE3TG9Sbml3MmZjM3gxd2U4NXY3RGtOaWRBZ2Q0elJDdER1a2o4LWxkWHFYeVVqbHVfd21GR2k2MGJWMzlYUTlBbXJrOGhsUEdBc3JzLXNqd3dYNkl1WW1ZQ0dKMHFPcEtMSFM",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Rockstar details Grand Theft Auto 6 pre-load date and time, and file size",
+      "description": "Video Games Chronicle published: \"Rockstar details Grand Theft Auto 6 pre-load date and time, and file size - Video Games Chronicle\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVU3dnlFRHNxR3ZTeFhnMm84M0hOVjhSVDhCRTRUUjZDLVhvekVPYlFkYmVZNk9mSWl3UUFFWUpJWjRtcUtMODNWWUR5RTRwbnE3TG9Sbml3MmZjM3gxd2U4NXY3RGtOaWRBZ2Q0elJDdER1a2o4LWxkWHFYeVVqbHVfd21GR2k2MGJWMzlYUTlBbXJrOGhsUEdBc3JzLXNqd3dYNkl1WW1ZQ0dKMHFPcEtMSFM?oc=5",
+      "sourceLabel": "Video Games Chronicle",
+      "occurredAt": "2026-11-03T15:02:37.000Z",
+      "fields": {
+        "outlet": "Video Games Chronicle",
+        "headline": "Rockstar details Grand Theft Auto 6 pre-load date and time, and file size - Video Games Chronicle"
+      },
+      "detectedAt": "2026-11-03T22:41:52.473Z",
+      "firstSeenAt": "2026-11-03T22:41:52.473Z",
+      "contentHash": "5310688e6e3020ba",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMikgFBVV95cUxOTk1iNk9WSDBQWlgydnJMelMtOGR5MURiQXNiT1lRUU9DTzdWdHA5Z2NhY1JKdjZfNEUweURyLXY3cnFkcUk1U2gwV1kzTWR3RF9FcFgxa2RWSzhHQ1NqMW5xTFB2SDFrOENiS2ZLY0JmekNjazRONkYtdWllTUJPRUZJU0FwVDNzOUN6bURfX2hnUQ",
       "sourceId": "press-coverage",
@@ -63,26 +146,6 @@
       "contentHash": "00fde4242522bdc9",
       "timesSeen": 1,
       "confidence": 0.69,
-      "corroborations": []
-    },
-    {
-      "id": "rockstar-site:stated-dates",
-      "sourceId": "rockstar-site",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 29, 2026, October 8, 2026",
-      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, October 15, 2026, October 29, 2026, October 8, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
-      "url": "https://www.rockstargames.com/VI",
-      "sourceLabel": "Official site",
-      "occurredAt": "2026-10-29T18:01:45.779Z",
-      "fields": {
-        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|October 15, 2026|October 29, 2026|October 8, 2026"
-      },
-      "detectedAt": "2026-10-29T18:01:44.638Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "12cb08420ef54f07",
-      "timesSeen": 6,
-      "confidence": 0.95,
       "corroborations": []
     },
     {
