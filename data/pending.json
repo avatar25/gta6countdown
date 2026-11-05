@@ -1,25 +1,109 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T13:43:03.663Z",
+  "updatedAt": "2026-11-05T23:01:50.744Z",
   "pending": [
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
       "sourceType": "official",
       "provenance": "official",
-      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, October 15, 2026, October 29, 2026",
-      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, October 15, 2026, October 29, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, November 5, 2026, October 15, 2026, October 29, 2026",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, November 5, 2026, October 15, 2026, October 29, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
       "url": "https://www.rockstargames.com/VI",
       "sourceLabel": "Official site",
-      "occurredAt": "2026-11-03T22:41:53.672Z",
+      "occurredAt": "2026-11-05T23:01:51.905Z",
       "fields": {
-        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|November 3, 2026|October 15, 2026|October 29, 2026"
+        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|November 3, 2026|November 5, 2026|October 15, 2026|October 29, 2026"
       },
-      "detectedAt": "2026-11-03T22:41:52.473Z",
+      "detectedAt": "2026-11-05T23:01:50.744Z",
       "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "24c96110c34bd596",
-      "timesSeen": 7,
+      "contentHash": "be5c5f01e1409d20",
+      "timesSeen": 8,
       "confidence": 0.95,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMipAFBVV95cUxNVzdyU3hCaWNvc2RjM2VTOW1fY0RTZm8yU0IyN09YOWZtOHBWYXlEX1g5d28xN2tROFJvOWJYQnZtdFoyRnlYMmpzTjBuVUpxR0x1NF9HaG9EdXp1ZENsd0dldldBMG9VaERoSzg4Z2k5aWxRNE5ZbXRrdGhjSkhPczZZTzYtOTVtTnNkRGtYVDJEQVNEMlNzMDUyTWlMUUNiTnlCaQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+      "description": "GamesIndustry.biz published: \"Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 - GamesIndustry.biz\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzdyU3hCaWNvc2RjM2VTOW1fY0RTZm8yU0IyN09YOWZtOHBWYXlEX1g5d28xN2tROFJvOWJYQnZtdFoyRnlYMmpzTjBuVUpxR0x1NF9HaG9EdXp1ZENsd0dldldBMG9VaERoSzg4Z2k5aWxRNE5ZbXRrdGhjSkhPczZZTzYtOTVtTnNkRGtYVDJEQVNEMlNzMDUyTWlMUUNiTnlCaQ?oc=5",
+      "sourceLabel": "GamesIndustry.biz",
+      "occurredAt": "2026-11-05T14:13:50.000Z",
+      "fields": {
+        "outlet": "GamesIndustry.biz",
+        "headline": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 - GamesIndustry.biz"
+      },
+      "detectedAt": "2026-11-05T23:01:50.744Z",
+      "firstSeenAt": "2026-11-05T23:01:50.744Z",
+      "contentHash": "b08681206d424486",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMiwAFBVV95cUxONUV5TEpQU0xpQUZpZHFNMFFpVWFiWHJZV2F2VGNfLTg1bEhyakQ1LWpKbDI2S3V2c051OUgwOWc4Q2xaMHd2eHo4WmVFWF90ZzhNbndNMXVna2FpNXZpbUNGcWh4M3V1a3gzMVgyVTB2NDQ3bG9xUWx2UVNhdXJWbjJ4dndSNHREMkVfVC01eXBIcVlXaVFyRWxFVzlZM1FDWXp4a0llTURjYTNLdUJCS1Q4bkN0LU12MFgzbXpWRlg",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date",
+      "description": "IGN published: \"GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUV5TEpQU0xpQUZpZHFNMFFpVWFiWHJZV2F2VGNfLTg1bEhyakQ1LWpKbDI2S3V2c051OUgwOWc4Q2xaMHd2eHo4WmVFWF90ZzhNbndNMXVna2FpNXZpbUNGcWh4M3V1a3gzMVgyVTB2NDQ3bG9xUWx2UVNhdXJWbjJ4dndSNHREMkVfVC01eXBIcVlXaVFyRWxFVzlZM1FDWXp4a0llTURjYTNLdUJCS1Q4bkN0LU12MFgzbXpWRlg?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-11-05T19:43:23.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Rakes in Over $750 Million in Preorders 2 Weeks Ahead of Release Date - IGN"
+      },
+      "detectedAt": "2026-11-05T23:01:50.744Z",
+      "firstSeenAt": "2026-11-05T23:01:50.744Z",
+      "contentHash": "08c9f4bc20def5ac",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMi4wFBVV95cUxQSmpFY1R6bWxHSzQ0VWk2eXh1Wi02TWc1MHZrbkpzUmtjZWtUVkVVTi0zeFF5V0M4cm11aHNXZjZybU9BLW9Da2JGdGsweEhIMFI1cXB0T3YtXzNiQm1pOWVLd0l1aExPWFhTVlVIcV9NOE1Mcm5weHRzWVd4Sk5TVjBud3N2QjZGLVQ4MUxOSHhSWmlTM3YtY2tQVS0wV0FtWlIzSVZUdlhjXzdiN052Z1BUOXNxWWVBUVhhZzVkdWY1N0tOekZpdU1XckxOT1JoUkJ1M0ViSk53eFgtRDVhVDJ4WQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent",
+      "description": "IGN published: \"Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSmpFY1R6bWxHSzQ0VWk2eXh1Wi02TWc1MHZrbkpzUmtjZWtUVkVVTi0zeFF5V0M4cm11aHNXZjZybU9BLW9Da2JGdGsweEhIMFI1cXB0T3YtXzNiQm1pOWVLd0l1aExPWFhTVlVIcV9NOE1Mcm5weHRzWVd4Sk5TVjBud3N2QjZGLVQ4MUxOSHhSWmlTM3YtY2tQVS0wV0FtWlIzSVZUdlhjXzdiN052Z1BUOXNxWWVBUVhhZzVkdWY1N0tOekZpdU1XckxOT1JoUkJ1M0ViSk53eFgtRDVhVDJ4WQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-11-05T19:43:22.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "Sony Announces Official Marvel's Wolverine Sales Figure for the First Time, Raises PlayStation Sales Forecast With GTA 6 Imminent - IGN"
+      },
+      "detectedAt": "2026-11-05T23:01:50.744Z",
+      "firstSeenAt": "2026-11-05T23:01:50.744Z",
+      "contentHash": "c64239b4bfcd908d",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMiaEFVX3lxTE9XNjI3bDdHaUJrYnU2Vkh1djYyeFp5bHNmLXZweUJLR1NvOHFSMW54LUxLaXk2R2gtZjJIaWtKcEpwa0FJOUVYM1NKaXhnY0JVbVUtaVlDVkR0WWE1SlJuM0I4Q1o1MUxJ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "When does GTA 6 come out? Confirmed release date and time",
+      "description": "Rock Paper Shotgun published: \"When does GTA 6 come out? Confirmed release date and time - Rock Paper Shotgun\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNjI3bDdHaUJrYnU2Vkh1djYyeFp5bHNmLXZweUJLR1NvOHFSMW54LUxLaXk2R2gtZjJIaWtKcEpwa0FJOUVYM1NKaXhnY0JVbVUtaVlDVkR0WWE1SlJuM0I4Q1o1MUxJ?oc=5",
+      "sourceLabel": "Rock Paper Shotgun",
+      "occurredAt": "2026-11-05T16:58:30.000Z",
+      "fields": {
+        "outlet": "Rock Paper Shotgun",
+        "headline": "When does GTA 6 come out? Confirmed release date and time - Rock Paper Shotgun"
+      },
+      "detectedAt": "2026-11-05T23:01:50.744Z",
+      "firstSeenAt": "2026-11-05T23:01:50.744Z",
+      "contentHash": "d8a156027bb00488",
+      "timesSeen": 1,
+      "confidence": 0.69,
       "corroborations": []
     },
     {
