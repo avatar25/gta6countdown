@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T13:27:19.156Z",
+  "updatedAt": "2026-11-06T22:31:56.850Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMiqgJBVV95cUxOdUFlMEpPTkFsdjlYeTFMekx6NmQxdjRkc3RrZUlrZTBjMjZOZ2tXOHJvNkdhOTZsU3Z4eFEwNWk2a3Rsd3RPVlB4dzVJeWY4bXVVbV9mUXM5dTZxMFNnUnF6eHQ4enJ4RDR0cXNSalVjZVU4THE4OVlDRk9qZWJLUlM2RGJRMTVuLXc1SVppMGFrZWpRLWNlaGdEZmFrRnYyRjZWR1pOdEowSkxkNUNibkxkMXRNNFRGNWZvcTFDNUl5RC1GdUpzSHRDRFdXZ1R4bUhuN0RfMUZGdUJmcHB4RTZ2aWxXMG5NYlVmNGdzTldWYTVQLU1wMzZZNWNEQWhwckxid2JETTNwNXNiOHdhVF9WQldZSXFhczBrTjVpLXdwNGVmQU5WLXpR",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
+      "description": "PC Gamer published: \"Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category' - PC Gamer\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goe…",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOdUFlMEpPTkFsdjlYeTFMekx6NmQxdjRkc3RrZUlrZTBjMjZOZ2tXOHJvNkdhOTZsU3Z4eFEwNWk2a3Rsd3RPVlB4dzVJeWY4bXVVbV9mUXM5dTZxMFNnUnF6eHQ4enJ4RDR0cXNSalVjZVU4THE4OVlDRk9qZWJLUlM2RGJRMTVuLXc1SVppMGFrZWpRLWNlaGdEZmFrRnYyRjZWR1pOdEowSkxkNUNibkxkMXRNNFRGNWZvcTFDNUl5RC1GdUpzSHRDRFdXZ1R4bUhuN0RfMUZGdUJmcHB4RTZ2aWxXMG5NYlVmNGdzTldWYTVQLU1wMzZZNWNEQWhwckxid2JETTNwNXNiOHdhVF9WQldZSXFhczBrTjVpLXdwNGVmQU5WLXpR?oc=5",
+      "sourceLabel": "PC Gamer",
+      "occurredAt": "2026-11-06T11:40:38.000Z",
+      "fields": {
+        "outlet": "PC Gamer",
+        "headline": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category' - PC Gamer"
+      },
+      "detectedAt": "2026-11-06T22:31:56.850Z",
+      "firstSeenAt": "2026-11-06T22:31:56.850Z",
+      "contentHash": "642a6a8976a613c7",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
