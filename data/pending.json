@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T03:45:40.008Z",
+  "updatedAt": "2026-11-07T12:06:30.486Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMioAFBVV95cUxNNkhXMmw3WWZvUHdmNEV0a2d1dGZubnlieDBNdDRQMjZDQUQ3aDd5Q0Qwa1dUNDdocUEtNUhkUWJPd3l1MEhmUjl0THNkZkhwWDBjVUlMYlhJREZZM3dPMGk2UXdTOEdYeXRnVDFiR2dWdU5lYW1kbVJzalE4elVwNVBwc3J6WGgySVc0bk9VTVc5RG1mR2F0YzZfMDRvWjNK",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
+      "description": "GameSpot published: \"Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNkhXMmw3WWZvUHdmNEV0a2d1dGZubnlieDBNdDRQMjZDQUQ3aDd5Q0Qwa1dUNDdocUEtNUhkUWJPd3l1MEhmUjl0THNkZkhwWDBjVUlMYlhJREZZM3dPMGk2UXdTOEdYeXRnVDFiR2dWdU5lYW1kbVJzalE4elVwNVBwc3J6WGgySVc0bk9VTVc5RG1mR2F0YzZfMDRvWjNK?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-11-06T20:23:39.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How - GameSpot"
+      },
+      "detectedAt": "2026-11-07T12:06:30.486Z",
+      "firstSeenAt": "2026-11-07T12:06:30.486Z",
+      "contentHash": "284d1ec90e49e161",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiqgJBVV95cUxOdUFlMEpPTkFsdjlYeTFMekx6NmQxdjRkc3RrZUlrZTBjMjZOZ2tXOHJvNkdhOTZsU3Z4eFEwNWk2a3Rsd3RPVlB4dzVJeWY4bXVVbV9mUXM5dTZxMFNnUnF6eHQ4enJ4RDR0cXNSalVjZVU4THE4OVlDRk9qZWJLUlM2RGJRMTVuLXc1SVppMGFrZWpRLWNlaGdEZmFrRnYyRjZWR1pOdEowSkxkNUNibkxkMXRNNFRGNWZvcTFDNUl5RC1GdUpzSHRDRFdXZ1R4bUhuN0RfMUZGdUJmcHB4RTZ2aWxXMG5NYlVmNGdzTldWYTVQLU1wMzZZNWNEQWhwckxid2JETTNwNXNiOHdhVF9WQldZSXFhczBrTjVpLXdwNGVmQU5WLXpR",
       "sourceId": "press-coverage",
