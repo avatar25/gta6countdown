@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T13:57:54.878Z",
+  "updatedAt": "2026-11-10T22:39:32.636Z",
   "pending": [
+    {
+      "id": "rockstar-youtube:yt:video:_yl5ELcmugI",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: Pre-Load Now",
+      "description": "Pre-loading is now available for everyone who has pre-ordered Grand Theft Auto VI digitally. Players who pre-ordered the code-in-box version can also activate their code and begin pre-loading as soon as it’s received. If you still have yet to pre-order, now’s the time to make sure you're prepared for November 19. http…",
+      "url": "https://www.youtube.com/watch?v=_yl5ELcmugI",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-11-10T13:55:06.000Z",
+      "fields": {
+        "videoId": "yt:video:_yl5ELcmugI",
+        "title": "Grand Theft Auto VI: Pre-Load Now"
+      },
+      "detectedAt": "2026-11-10T22:39:32.636Z",
+      "firstSeenAt": "2026-11-10T22:39:32.636Z",
+      "contentHash": "be1a006cc9be9489",
+      "timesSeen": 1,
+      "confidence": 0.96,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMi2AFBVV95cUxNbUxLSlJLTXQ0UnlKcC1BcFp3Znl3bUlFMjFPVEdJMmp5dlNhN3Q0ZFRSdGRsWHJHNUJsaU14Z3RiakR4V3ZKcXBMaDYta0tWQlBsRjRKOHdvS0ZpdGVGVmx4V0pBaFlSb2RBcU5HNlA0ai1xZ3hmOGJNMGFRbmpJRldXWU5hYmdaNVg3UkZMU3htXzhZTzR1dDN5TDZLQzBLMWR1bENYUjlSZ2ZXc3F4dFlCWS03bzVqLU9hekJlRGRJb2tPSGdCVkJDUkstX0h0aGl5RndpaWQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued",
+      "description": "IGN published: \"GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbUxLSlJLTXQ0UnlKcC1BcFp3Znl3bUlFMjFPVEdJMmp5dlNhN3Q0ZFRSdGRsWHJHNUJsaU14Z3RiakR4V3ZKcXBMaDYta0tWQlBsRjRKOHdvS0ZpdGVGVmx4V0pBaFlSb2RBcU5HNlA0ai1xZ3hmOGJNMGFRbmpJRldXWU5hYmdaNVg3UkZMU3htXzhZTzR1dDN5TDZLQzBLMWR1bENYUjlSZ2ZXc3F4dFlCWS03bzVqLU9hekJlRGRJb2tPSGdCVkJDUkstX0h0aGl5RndpaWQ?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-11-10T16:11:26.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Now the Most Preordered Game in PlayStation Store and Microsoft Store History, Official Preload Warning Issued - IGN"
+      },
+      "detectedAt": "2026-11-10T22:39:32.636Z",
+      "firstSeenAt": "2026-11-10T22:39:32.636Z",
+      "contentHash": "aaf20dcfab9d53c3",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMi6AFBVV95cUxPZ1B1WmV0dTNyX0lEYm1Jc25KNzM2bW0tWmU2OWlYQ2lReUpjZnFoRkJvaGFJZkJTd1plZHowdmVzSklQTm9ybjB1YkhlTl94QXNBR0xLUTg4ZHBFcm5UTzJsQ05TT1VMaGJfMHpYb3RabC1CMld4cEQ0c0FoYXlWWExQMGNSU2Z5MU95Ry00WmxUbXlXZU5uWldyLW5yOFR3eWhCUWZKSFNWdWN0ekR1cG5fN0JWLUJ5dmNmSVBzOHphR01FN2JoNjJjWWxyNUJXRV9BdlJWNWh2a1dvZnAySHhaMTVGdTY2",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
+      "description": "Game Developer published: \"Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations - Game Developer\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ1B1WmV0dTNyX0lEYm1Jc25KNzM2bW0tWmU2OWlYQ2lReUpjZnFoRkJvaGFJZkJTd1plZHowdmVzSklQTm9ybjB1YkhlTl94QXNBR0xLUTg4ZHBFcm5UTzJsQ05TT1VMaGJfMHpYb3RabC1CMld4cEQ0c0FoYXlWWExQMGNSU2Z5MU95Ry00WmxUbXlXZU5uWldyLW5yOFR3eWhCUWZKSFNWdWN0ekR1cG5fN0JWLUJ5dmNmSVBzOHphR01FN2JoNjJjWWxyNUJXRV9BdlJWNWh2a1dvZnAySHhaMTVGdTY2?oc=5",
+      "sourceLabel": "Game Developer",
+      "occurredAt": "2026-11-10T17:49:29.000Z",
+      "fields": {
+        "outlet": "Game Developer",
+        "headline": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations - Game Developer"
+      },
+      "detectedAt": "2026-11-10T22:39:32.636Z",
+      "firstSeenAt": "2026-11-10T22:39:32.636Z",
+      "contentHash": "0197490467431b5d",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMixAFBVV95cUxOb2dhU1UtdjRxR2VhZmhaQUtHdzM4X0NlNFR1Xzk2SkZzd0l6MHdPcGN1eE5ISU85QzBVUUlINlV5Q0RvaTFSaXhUNllfT3Zsel8zV05KSXRzaHBVQWl3alMycGxreDBTV1cyME50bzRWLWgzWmVUV0tzclZWaDF1dXVTQ090R0w5VDZKQi1qRHNnNGFMWThPZDV5VS1qcXRtMjhjUHc5OHA5a25jaC1VXzlHakFxSFo0N0UyOHVycUNEeWFk",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 PS5 Pro Upgrades Finally Revealed: Frame-Rate, Upscaling, Ray Tracing Confirmed",
+      "description": "Digital Foundry published: \"GTA 6 PS5 Pro Upgrades Finally Revealed: Frame-Rate, Upscaling, Ray Tracing Confirmed - Digital Foundry\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2dhU1UtdjRxR2VhZmhaQUtHdzM4X0NlNFR1Xzk2SkZzd0l6MHdPcGN1eE5ISU85QzBVUUlINlV5Q0RvaTFSaXhUNllfT3Zsel8zV05KSXRzaHBVQWl3alMycGxreDBTV1cyME50bzRWLWgzWmVUV0tzclZWaDF1dXVTQ090R0w5VDZKQi1qRHNnNGFMWThPZDV5VS1qcXRtMjhjUHc5OHA5a25jaC1VXzlHakFxSFo0N0UyOHVycUNEeWFk?oc=5",
+      "sourceLabel": "Digital Foundry",
+      "occurredAt": "2026-11-10T14:50:00.000Z",
+      "fields": {
+        "outlet": "Digital Foundry",
+        "headline": "GTA 6 PS5 Pro Upgrades Finally Revealed: Frame-Rate, Upscaling, Ray Tracing Confirmed - Digital Foundry"
+      },
+      "detectedAt": "2026-11-10T22:39:32.636Z",
+      "firstSeenAt": "2026-11-10T22:39:32.636Z",
+      "contentHash": "bfdcba3ebaf52d55",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "rockstar-site:stated-dates",
       "sourceId": "rockstar-site",
