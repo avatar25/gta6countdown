@@ -1,7 +1,49 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:42:08.499Z",
+  "updatedAt": "2026-11-10T00:58:41.062Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMihgFBVV95cUxPOG83U2t4bHhDTmxGMjBxWkdSME54dVZkUVVNaWJMNlhIY0J2dHZTWkVMWXlTemh2Q1JxcHhMZENuNFBHR2NHeTVkUUN2ZXhPeXlzSnJOLWlWd0xReDUyMmlNdDI2d2VXQVZGUXpMVmk3eC1kYlg1b1RtWENzTG9fZVMwYzctZw",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch",
+      "description": "IGN published: \"As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOG83U2t4bHhDTmxGMjBxWkdSME54dVZkUVVNaWJMNlhIY0J2dHZTWkVMWXlTemh2Q1JxcHhMZENuNFBHR2NHeTVkUUN2ZXhPeXlzSnJOLWlWd0xReDUyMmlNdDI2d2VXQVZGUXpMVmk3eC1kYlg1b1RtWENzTG9fZVMwYzctZw?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-11-09T13:00:47.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "As GTA 6 Preload Goes Live, Fans Dig Into the Data to Try to Unearth Unannounced Information Ahead of Launch - IGN"
+      },
+      "detectedAt": "2026-11-10T00:58:41.062Z",
+      "firstSeenAt": "2026-11-10T00:58:41.062Z",
+      "contentHash": "ee18df50385da359",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMi9AFBVV95cUxOZ19IQnJEVVdWUW9INHE4UDc5R19EdWJKd0xkQy16dkFwNW1CY3pzbkFSU1IyMlRpY2tqdTNoaW5CZG9NZFh5SDhtR2R0UTBLY20tcVQxcDZibG5ISldwRHNYczhFTHFLTHFQWTZOZEFrMHE4R21fTzc0YXFaelNhbnA0WkduSzk0MFY5SlN4dHBxN29GbVFncFk0eXBqdkVDLUlsanU0ZkVZUVVDUEVyLThKRFZPTjVCcjZsMUZyTXMxTldDbWRpdTRTdmVqVDdLV3Z0U1kycDJGczBfTHVVcjFmV3BQNXJDRnVMcTVBX0t4dU1x",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+      "description": "GamesIndustry.biz published: \"Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations - GamesIndustry.biz\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ19IQnJEVVdWUW9INHE4UDc5R19EdWJKd0xkQy16dkFwNW1CY3pzbkFSU1IyMlRpY2tqdTNoaW5CZG9NZFh5SDhtR2R0UTBLY20tcVQxcDZibG5ISldwRHNYczhFTHFLTHFQWTZOZEFrMHE4R21fTzc0YXFaelNhbnA0WkduSzk0MFY5SlN4dHBxN29GbVFncFk0eXBqdkVDLUlsanU0ZkVZUVVDUEVyLThKRFZPTjVCcjZsMUZyTXMxTldDbWRpdTRTdmVqVDdLV3Z0U1kycDJGczBfTHVVcjFmV3BQNXJDRnVMcTVBX0t4dU1x?oc=5",
+      "sourceLabel": "GamesIndustry.biz",
+      "occurredAt": "2026-11-09T21:22:20.000Z",
+      "fields": {
+        "outlet": "GamesIndustry.biz",
+        "headline": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations - GamesIndustry.biz"
+      },
+      "detectedAt": "2026-11-10T00:58:41.062Z",
+      "firstSeenAt": "2026-11-10T00:58:41.062Z",
+      "contentHash": "98f3a2b6aed4b997",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMitwFBVV95cUxOVTUxa04tQV9vS04xRktaVHZNcGJ6STJuMTJINUZQdFZvUmwyNjhFZHNGOVc3bXFwWDRsNGpEM2JfVTNYdTNCNno2a1NWY3pueS1PVjJwZU8yTDdENld4TnVpZ2pEYTVPbkRubGZ3dDV4ZHQ3VmNHZXVMempNeEZXb0oxbmlmdC1hc3ptMGJEZVVPNGttVEVqdTlDWWFaOGNIODNHZzFTeWJwLV9NSGpHZldyanUxSzQ",
       "sourceId": "press-coverage",
