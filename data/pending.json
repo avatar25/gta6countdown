@@ -1,7 +1,90 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T00:58:41.062Z",
+  "updatedAt": "2026-11-10T13:57:54.878Z",
   "pending": [
+    {
+      "id": "rockstar-site:stated-dates",
+      "sourceId": "rockstar-site",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 10, 2026, November 19, 2026, November 3, 2026, November 5, 2026, October 15, 2026",
+      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 10, 2026, November 19, 2026, November 3, 2026, November 5, 2026, October 15, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
+      "url": "https://www.rockstargames.com/VI",
+      "sourceLabel": "Official site",
+      "occurredAt": "2026-11-10T13:57:56.149Z",
+      "fields": {
+        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 10, 2026|November 19, 2026|November 3, 2026|November 5, 2026|October 15, 2026"
+      },
+      "detectedAt": "2026-11-10T13:57:54.878Z",
+      "firstSeenAt": "2026-08-28T01:54:51.279Z",
+      "contentHash": "d7aa4cfc9223a720",
+      "timesSeen": 9,
+      "confidence": 0.95,
+      "corroborations": []
+    },
+    {
+      "id": "rockstar-youtube:yt:video:AvBcfBrBl60",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: Grand Theft Auto VI: The Festival",
+      "description": "REMINDER: The deadline to join the Grand Theft Auto VI: The Festival ticket lottery is today by 4 p.m. ET. Sign up with an active @dicefm account. Winners to be randomly selected and contacted with access codes by 7 p.m. ET. Tickets limited to 2 per code. https://gtavi-thefestival.miami",
+      "url": "https://www.youtube.com/shorts/AvBcfBrBl60",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-11-10T12:59:01.000Z",
+      "fields": {
+        "videoId": "yt:video:AvBcfBrBl60",
+        "title": "Grand Theft Auto VI: The Festival"
+      },
+      "detectedAt": "2026-11-10T13:57:54.878Z",
+      "firstSeenAt": "2026-11-10T13:57:54.878Z",
+      "contentHash": "f86a20c27e269836",
+      "timesSeen": 1,
+      "confidence": 0.96,
+      "corroborations": []
+    },
+    {
+      "id": "rockstar-youtube:yt:video:Rj2Jnbt-5p4",
+      "sourceId": "rockstar-youtube",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Rockstar published a new video: A Night in Vice City",
+      "description": "On the eve of the release of Grand Theft Auto VI, tune in to the NBA on ESPN Wednesday, November 18 at 7PM Eastern to see the HEAT trade Miami for Vice City when they host the Milwaukee Bucks. https://HEAT.com/ViceCity",
+      "url": "https://www.youtube.com/shorts/Rj2Jnbt-5p4",
+      "sourceLabel": "Rockstar Games on YouTube",
+      "occurredAt": "2026-11-09T20:59:12.000Z",
+      "fields": {
+        "videoId": "yt:video:Rj2Jnbt-5p4",
+        "title": "A Night in Vice City"
+      },
+      "detectedAt": "2026-11-10T13:57:54.878Z",
+      "firstSeenAt": "2026-11-10T13:57:54.878Z",
+      "contentHash": "4ca7ee973f19f0f0",
+      "timesSeen": 1,
+      "confidence": 0.96,
+      "corroborations": []
+    },
+    {
+      "id": "press-coverage:CBMic0FVX3lxTE0zVWJia3RwSVEyRHJDSzludzZ6ZjZDTDA4ZW5oNVpaQ3dWb3dSQXRoQkdNTko1ZVg3aDZFdDBOcWx2LTdlN1hhVjdOT1ZSbG5XMnJCdlNrbkFjMl9YLXZCdzlHREpxUVdXQUhNZ0pwQ3k0SUU",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Is Now Available For Preload If You Have A Spare 212GB",
+      "description": "Engadget published: \"GTA 6 Is Now Available For Preload If You Have A Spare 212GB - Engadget\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zVWJia3RwSVEyRHJDSzludzZ6ZjZDTDA4ZW5oNVpaQ3dWb3dSQXRoQkdNTko1ZVg3aDZFdDBOcWx2LTdlN1hhVjdOT1ZSbG5XMnJCdlNrbkFjMl9YLXZCdzlHREpxUVdXQUhNZ0pwQ3k0SUU?oc=5",
+      "sourceLabel": "Engadget",
+      "occurredAt": "2026-11-10T10:01:45.000Z",
+      "fields": {
+        "outlet": "Engadget",
+        "headline": "GTA 6 Is Now Available For Preload If You Have A Spare 212GB - Engadget"
+      },
+      "detectedAt": "2026-11-10T13:57:54.878Z",
+      "firstSeenAt": "2026-11-10T13:57:54.878Z",
+      "contentHash": "41938a7ad237cd4f",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMihgFBVV95cUxPOG83U2t4bHhDTmxGMjBxWkdSME54dVZkUVVNaWJMNlhIY0J2dHZTWkVMWXlTemh2Q1JxcHhMZENuNFBHR2NHeTVkUUN2ZXhPeXlzSnJOLWlWd0xReDUyMmlNdDI2d2VXQVZGUXpMVmk3eC1kYlg1b1RtWENzTG9fZVMwYzctZw",
       "sourceId": "press-coverage",
@@ -126,26 +209,6 @@
       "contentHash": "642a6a8976a613c7",
       "timesSeen": 1,
       "confidence": 0.69,
-      "corroborations": []
-    },
-    {
-      "id": "rockstar-site:stated-dates",
-      "sourceId": "rockstar-site",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Official site now states: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, November 5, 2026, October 15, 2026, October 29, 2026",
-      "description": "Dates printed on the official site: August 27, 2026, December 4, 2023, May 6, 2025, November 19, 2026, November 3, 2026, November 5, 2026, October 15, 2026, October 29, 2026. A date appearing, moving or disappearing here is a first-party statement, not a rumour.",
-      "url": "https://www.rockstargames.com/VI",
-      "sourceLabel": "Official site",
-      "occurredAt": "2026-11-05T23:01:51.905Z",
-      "fields": {
-        "dates": "August 27, 2026|December 4, 2023|May 6, 2025|November 19, 2026|November 3, 2026|November 5, 2026|October 15, 2026|October 29, 2026"
-      },
-      "detectedAt": "2026-11-05T23:01:50.744Z",
-      "firstSeenAt": "2026-08-28T01:54:51.279Z",
-      "contentHash": "be5c5f01e1409d20",
-      "timesSeen": 8,
-      "confidence": 0.95,
       "corroborations": []
     },
     {
