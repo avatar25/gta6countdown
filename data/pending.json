@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T22:39:32.636Z",
+  "updatedAt": "2026-11-11T03:47:11.168Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMisgFBVV95cUxOTFE0dDBiTTBGdFdlb3pDSlktaVZZSHd0N3Fuc3Z5cXMtaVdQdVF0am9YdzFrRW9KQzBzNmNtM2ZmaHdZSTNRdDEtVG5TazR1MVV2blpTSUZyRFBhQWowX1lSd0VNZmcwUTRVSVVMeUhPb3FmdkF2S2NVam5jVFpDOFFkRS16MFN0d3dWcEpQWnlhcG5HMXJQNGo1cVJYNDRKc1hwSjYzSE9QX3pkQklwY2ZB",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A \"Bargain\" At $80, Take-Two CEO Says",
+      "description": "GameSpot published: \"Amid Higher Gas And Grocery Prices, GTA 6 Is A \"Bargain\" At $80, Take-Two CEO Says - GameSpot\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFE0dDBiTTBGdFdlb3pDSlktaVZZSHd0N3Fuc3Z5cXMtaVdQdVF0am9YdzFrRW9KQzBzNmNtM2ZmaHdZSTNRdDEtVG5TazR1MVV2blpTSUZyRFBhQWowX1lSd0VNZmcwUTRVSVVMeUhPb3FmdkF2S2NVam5jVFpDOFFkRS16MFN0d3dWcEpQWnlhcG5HMXJQNGo1cVJYNDRKc1hwSjYzSE9QX3pkQklwY2ZB?oc=5",
+      "sourceLabel": "GameSpot",
+      "occurredAt": "2026-11-10T20:16:09.000Z",
+      "fields": {
+        "outlet": "GameSpot",
+        "headline": "Amid Higher Gas And Grocery Prices, GTA 6 Is A \"Bargain\" At $80, Take-Two CEO Says - GameSpot"
+      },
+      "detectedAt": "2026-11-11T03:47:11.168Z",
+      "firstSeenAt": "2026-11-11T03:47:11.168Z",
+      "contentHash": "c2ea5e17db8d798a",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "rockstar-youtube:yt:video:_yl5ELcmugI",
       "sourceId": "rockstar-youtube",
