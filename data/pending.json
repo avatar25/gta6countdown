@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T13:12:48.242Z",
+  "updatedAt": "2026-11-11T23:51:37.272Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMilgFBVV95cUxQN0dCSjY5bmVrY2d1TGlYX2pJUGdHbUVHNzYtTzF4TmgwelhUZlViRV9KU0RVc3d6ei03RFlvc2FrT0NORXBaWFNPYS01RnRsZXdpQW1yM3ZZSXBuUVpUdGJPU2FBR2JYTTM3M2V4N0kzOFRVb0dfWUhGc3dVYkdBaklXUVFHMU9HdGNZUkF4TEFDZm1vN3c",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6′ s File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns",
+      "description": "Kotaku published: \"GTA 6′ s File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns - Kotaku\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0dCSjY5bmVrY2d1TGlYX2pJUGdHbUVHNzYtTzF4TmgwelhUZlViRV9KU0RVc3d6ei03RFlvc2FrT0NORXBaWFNPYS01RnRsZXdpQW1yM3ZZSXBuUVpUdGJPU2FBR2JYTTM3M2V4N0kzOFRVb0dfWUhGc3dVYkdBaklXUVFHMU9HdGNZUkF4TEFDZm1vN3c?oc=5",
+      "sourceLabel": "Kotaku",
+      "occurredAt": "2026-11-11T12:00:12.000Z",
+      "fields": {
+        "outlet": "Kotaku",
+        "headline": "GTA 6′ s File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns - Kotaku"
+      },
+      "detectedAt": "2026-11-11T23:51:37.272Z",
+      "firstSeenAt": "2026-11-11T23:51:37.272Z",
+      "contentHash": "39afde7b37169fbc",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiowFBVV95cUxOSVNnYXVNOVJkX3ZTbzlhdzZQem0tMW9Jcmd2dEM1enhyWmlsemV6WDNlaHQwam9IOC1acnFocktKOWdfeUFncjY5eG41WXBNb1NYU1RqS29lUmtUVk8xRllXTldrY280NW9yS01URzE4c0VxVEp0ZDl0RnN0cW1MQVVRVFRYWExCZzlLeDEtcDkwYkFkNUtXSHJRQl9kQ3BfeHkw",
       "sourceId": "press-coverage",
