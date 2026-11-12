@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T04:55:42.094Z",
+  "updatedAt": "2026-11-12T14:16:26.088Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMi3gFBVV95cUxPa3NCbFdoUGJsOUQ1ZzMyZGJPZlI1VVBOTFAwSzVQUVVqaEtpUkhkeVpSYmtxMWFCN3ZkY01qQllZV3gyR0F1amxVSnpJV0cwRFV5dkN5bWVSYm9adVRvTFpiWGhWWEVyUG4zcEhOQ2pZU3JQMWphSWdOaHJSVm9Da3FvTVc2dERhYTgyOUtORS1tOFdSU01oajFjS3NmRzM4UXRNT05HbllITDlMTjJOWDFEaTlOV1U4LXdMMEt2WWtDbjRHdWk3bDZkYkt1WGRKLUdhWVBsRWFEOTFPU2c",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer",
+      "description": "IGN published: \"GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer - IGN\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa3NCbFdoUGJsOUQ1ZzMyZGJPZlI1VVBOTFAwSzVQUVVqaEtpUkhkeVpSYmtxMWFCN3ZkY01qQllZV3gyR0F1amxVSnpJV0cwRFV5dkN5bWVSYm9adVRvTFpiWGhWWEVyUG4zcEhOQ2pZU3JQMWphSWdOaHJSVm9Da3FvTVc2dERhYTgyOUtORS1tOFdSU01oajFjS3NmRzM4UXRNT05HbllITDlMTjJOWDFEaTlOV1U4LXdMMEt2WWtDbjRHdWk3bDZkYkt1WGRKLUdhWVBsRWFEOTFPU2c?oc=5",
+      "sourceLabel": "IGN",
+      "occurredAt": "2026-11-12T06:08:51.000Z",
+      "fields": {
+        "outlet": "IGN",
+        "headline": "GTA 6 Fans Think a Beloved Legacy Character from a Previous Game Is Hiding in the Latest Trailer - IGN"
+      },
+      "detectedAt": "2026-11-12T14:16:26.088Z",
+      "firstSeenAt": "2026-11-12T14:16:26.088Z",
+      "contentHash": "b54fa82655433a23",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMilgFBVV95cUxQN0dCSjY5bmVrY2d1TGlYX2pJUGdHbUVHNzYtTzF4TmgwelhUZlViRV9KU0RVc3d6ei03RFlvc2FrT0NORXBaWFNPYS01RnRsZXdpQW1yM3ZZSXBuUVpUdGJPU2FBR2JYTTM3M2V4N0kzOFRVb0dfWUhGc3dVYkdBaklXUVFHMU9HdGNZUkF4TEFDZm1vN3c",
       "sourceId": "press-coverage",
