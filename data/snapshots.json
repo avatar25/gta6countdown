@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T23:01:40.339Z",
+  "updatedAt": "2026-11-14T04:04:15.390Z",
   "sources": {
     "xbox-store": {
-      "lastPolledAt": "2026-11-13T23:01:40.339Z",
+      "lastPolledAt": "2026-11-14T04:04:15.390Z",
       "status": "unchanged",
       "candidates": {
         "xbox-store:9P3H4968GRSM:release-date": "2409d3dbc4c33b33",
@@ -13,12 +13,12 @@
         "xbox-store:9NNZSNHLR63L:0017:price": "70ccdfb5a18dcc18",
         "xbox-store:9NNZSNHLR63L:editions": "173fb12d6a53cdd2"
       },
-      "polls": 307,
+      "polls": 308,
       "errors": 0,
       "bodyHash": "30bf0f192af2ee07"
     },
     "playstation-store": {
-      "lastPolledAt": "2026-11-13T23:01:40.339Z",
+      "lastPolledAt": "2026-11-14T04:04:15.390Z",
       "status": "unchanged",
       "candidates": {
         "playstation-store:EP1004-PPSA01547_00-GTAVISTANDARD001:release-date": "3b819205c17e609d",
@@ -30,13 +30,13 @@
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:platforms": "bc33753171cc1cb6",
         "playstation-store:EP1004-PPSA01547_00-GTAVIULTIMATE001:publisher": "38034553550ad168"
       },
-      "polls": 307,
+      "polls": 308,
       "errors": 0,
       "bodyHash": "a0246ca103ec4d83"
     },
     "rockstar-youtube": {
-      "lastPolledAt": "2026-11-13T23:01:40.339Z",
-      "status": "ok",
+      "lastPolledAt": "2026-11-14T04:04:15.390Z",
+      "status": "error",
       "candidates": {
         "rockstar-youtube:yt:video:qq76pQsI1iw": "3e51df6e34f80af9",
         "rockstar-youtube:yt:video:vK_IL6V17Js": "f725665df3bac974",
@@ -58,34 +58,35 @@
         "rockstar-youtube:yt:video:Rj2Jnbt-5p4": "4ca7ee973f19f0f0",
         "rockstar-youtube:yt:video:_yl5ELcmugI": "be1a006cc9be9489"
       },
-      "polls": 307,
-      "errors": 59,
-      "bodyHash": "8506ebb8894739f7"
+      "polls": 308,
+      "errors": 60,
+      "bodyHash": "8506ebb8894739f7",
+      "error": "fetch failed for https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A: HTTP 404 Not Found"
     },
     "rockstar-site": {
-      "lastPolledAt": "2026-11-13T23:01:40.339Z",
+      "lastPolledAt": "2026-11-14T04:04:15.390Z",
       "status": "unchanged",
       "candidates": {
         "rockstar-site:page-copy": "3cd730354cfdb9a2",
         "rockstar-site:stated-dates": "d7aa4cfc9223a720"
       },
-      "polls": 307,
+      "polls": 308,
       "errors": 0,
       "bodyHash": "5f8117f24654f371"
     },
     "netflix-premiere": {
-      "lastPolledAt": "2026-11-13T23:01:40.339Z",
+      "lastPolledAt": "2026-11-14T04:04:15.390Z",
       "status": "ok",
       "candidates": {
         "netflix-premiere:listing": "2328498b3573bd96",
         "netflix-premiere:schedule": "4e07bf70602dbd43"
       },
-      "polls": 307,
+      "polls": 308,
       "errors": 0,
-      "bodyHash": "eb6d5b92a3484cd6"
+      "bodyHash": "379774b810bf721c"
     },
     "press-coverage": {
-      "lastPolledAt": "2026-11-13T23:01:40.339Z",
+      "lastPolledAt": "2026-11-14T04:04:15.390Z",
       "status": "ok",
       "candidates": {
         "press-coverage:CBMitwFBVV95cUxNWGJpMXQ1WFNlU0dSVnBhS1loTTNQenA1ZmVyWWVlYkRBRk1ON2pwamd1Q2o5QndSSTctNVpEcWFoRGRoWkZqbXVzZFVSc2d2SWU0RzgteFV3Y2hVYWw2eWJKVTB4R2h6RUc4QVhybUs3MHpQNWZySHE5dHRTT2puLVVoVDV0NnNCdDAtRWlBQmRUeVVGSlM5NC1tUmlvOEFsZEdCckU5M1oxWmg4YnU4WDZPc1NMdGs": "20de6c9b623e90e6",
@@ -175,9 +176,9 @@
         "press-coverage:CBMilgFBVV95cUxQN0dCSjY5bmVrY2d1TGlYX2pJUGdHbUVHNzYtTzF4TmgwelhUZlViRV9KU0RVc3d6ei03RFlvc2FrT0NORXBaWFNPYS01RnRsZXdpQW1yM3ZZSXBuUVpUdGJPU2FBR2JYTTM3M2V4N0kzOFRVb0dfWUhGc3dVYkdBaklXUVFHMU9HdGNZUkF4TEFDZm1vN3c": "39afde7b37169fbc",
         "press-coverage:CBMi3gFBVV95cUxPa3NCbFdoUGJsOUQ1ZzMyZGJPZlI1VVBOTFAwSzVQUVVqaEtpUkhkeVpSYmtxMWFCN3ZkY01qQllZV3gyR0F1amxVSnpJV0cwRFV5dkN5bWVSYm9adVRvTFpiWGhWWEVyUG4zcEhOQ2pZU3JQMWphSWdOaHJSVm9Da3FvTVc2dERhYTgyOUtORS1tOFdSU01oajFjS3NmRzM4UXRNT05HbllITDlMTjJOWDFEaTlOV1U4LXdMMEt2WWtDbjRHdWk3bDZkYkt1WGRKLUdhWVBsRWFEOTFPU2c": "b54fa82655433a23"
       },
-      "polls": 307,
+      "polls": 308,
       "errors": 4,
-      "bodyHash": "0a0c553aa47f8598"
+      "bodyHash": "7a16edd920eacbf1"
     }
   }
 }
