@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T13:10:01.344Z",
+  "updatedAt": "2026-11-15T22:17:07.168Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMitwFBVV95cUxQS0tNNnNIVkp3em1uOGFoejdUUXVLcUJBczNFcERZVU1fMG9RVjZtRzVYTDFlYWlESVBsOHVVVFk5Y2p1VDRRb2pZUVZPdnhMci0yWFRPOUROQ2RfVDdNQjY0OVNDTS1FNnZqWk1DSk11eC1yUkxyUUswYzVNZklmWVFfM19jaHBTaEk2bm5LRl9PRTdEM2IwNWpudGV6R0YwMWptWHlObGpiRFJ1MlBPVE90WG5fdkk",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
+      "description": "Push Square published: \"GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It - Push Square\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS0tNNnNIVkp3em1uOGFoejdUUXVLcUJBczNFcERZVU1fMG9RVjZtRzVYTDFlYWlESVBsOHVVVFk5Y2p1VDRRb2pZUVZPdnhMci0yWFRPOUROQ2RfVDdNQjY0OVNDTS1FNnZqWk1DSk11eC1yUkxyUUswYzVNZklmWVFfM19jaHBTaEk2bm5LRl9PRTdEM2IwNWpudGV6R0YwMWptWHlObGpiRFJ1MlBPVE90WG5fdkk?oc=5",
+      "sourceLabel": "Push Square",
+      "occurredAt": "2026-11-15T00:00:00.000Z",
+      "fields": {
+        "outlet": "Push Square",
+        "headline": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It - Push Square"
+      },
+      "detectedAt": "2026-11-15T22:17:07.168Z",
+      "firstSeenAt": "2026-11-15T22:17:07.168Z",
+      "contentHash": "c7722e81ecf06ef0",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiqgFBVV95cUxPcW9BaXRXUkxoNUFSR2dKaVY4b1pCQXNhWHFqVUlmOVdUc3BWVndzdVFlSC01VWlhWXNULXEyTmZOSGQ5bEljelFQSE9CNnNoLVpOeWJUVldfMzdFNklRUmYyRFJ6VWx4SE54LTB3NF9qY1o2NU5LdXNGV2x2NzVELTUzX3cyNTFUSUJpM2tMalVCRENxQU5ld0pwMHphenpSM2h0MUVOR2xFdw",
       "sourceId": "press-coverage",
