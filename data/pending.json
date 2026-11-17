@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T14:18:57.431Z",
+  "updatedAt": "2026-11-17T01:17:59.456Z",
   "pending": [
+    {
+      "id": "press-coverage:CBMipwFBVV95cUxNRmVDMlZ5S2hacDBWaExmSHVwNGdtclhhbWFibllNb2ZCa212ZTNEdUxhVjdnSjhfakh2TnNBdm95cHdHeWRLTnMtNDgzbHBfVjNlMGJhLU5kSkxnSUF1UlMxWXBxR2ZZWVBGTFR3c0NzTjBiTG5zVm1yQnR2dFZxcW1UbHVjVlNCZFFaZnM1ZXJVM0E1MGNuRTRTZ1FkNTlKMnhqa0Y3UQ",
+      "sourceId": "press-coverage",
+      "sourceType": "press",
+      "provenance": "official",
+      "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+      "description": "GamesIndustry.biz published: \"Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition - GamesIndustry.biz\". Reported coverage, not a first-party statement — confirm against the official sources before the confidence on this entry goes up.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRmVDMlZ5S2hacDBWaExmSHVwNGdtclhhbWFibllNb2ZCa212ZTNEdUxhVjdnSjhfakh2TnNBdm95cHdHeWRLTnMtNDgzbHBfVjNlMGJhLU5kSkxnSUF1UlMxWXBxR2ZZWVBGTFR3c0NzTjBiTG5zVm1yQnR2dFZxcW1UbHVjVlNCZFFaZnM1ZXJVM0E1MGNuRTRTZ1FkNTlKMnhqa0Y3UQ?oc=5",
+      "sourceLabel": "GamesIndustry.biz",
+      "occurredAt": "2026-11-17T01:00:00.000Z",
+      "fields": {
+        "outlet": "GamesIndustry.biz",
+        "headline": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition - GamesIndustry.biz"
+      },
+      "detectedAt": "2026-11-17T01:17:59.456Z",
+      "firstSeenAt": "2026-11-17T01:17:59.456Z",
+      "contentHash": "d84799cc514d5e62",
+      "timesSeen": 1,
+      "confidence": 0.69,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMiZ0FVX3lxTE9uWm5rbElzV2hwZjNaOU5QV0U5b2hvVVRsUWdCdTNDanJoWlpyZ0s2TmZmTkw3Y19rSXFGaGNibDNBaGZMNW13YzdVbk5RQmRmM3hqQlQzd2UyM1o4aTVfRmhIYWNrcVU",
       "sourceId": "press-coverage",
