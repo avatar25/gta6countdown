@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T23:42:42.449Z",
+  "updatedAt": "2026-11-19T05:03:29.846Z",
   "pending": [
+    {
+      "id": "xbox-store:9P3H4968GRSM:0010:price",
+      "sourceId": "xbox-store",
+      "sourceType": "storefront",
+      "provenance": "official",
+      "title": "Grand Theft Auto VI: listed at 79.99 USD",
+      "description": "The Microsoft Store lists Grand Theft Auto VI at 79.99 USD.",
+      "url": "https://www.xbox.com/en-US/games/store/_/9P3H4968GRSM",
+      "sourceLabel": "Microsoft Store listing",
+      "occurredAt": "2026-11-19T05:03:29.945Z",
+      "fields": {
+        "skuId": "0010",
+        "listPrice": 79.99,
+        "currency": "USD"
+      },
+      "detectedAt": "2026-11-19T05:03:29.846Z",
+      "firstSeenAt": "2026-11-19T05:03:29.846Z",
+      "contentHash": "f666b73409fa9ad7",
+      "timesSeen": 1,
+      "confidence": 0.9,
+      "corroborations": []
+    },
+    {
+      "id": "xbox-store:9NNZSNHLR63L:0010:price",
+      "sourceId": "xbox-store",
+      "sourceType": "storefront",
+      "provenance": "official",
+      "title": "Grand Theft Auto VI: Ultimate Edition: listed at 99.99 USD",
+      "description": "The Microsoft Store lists Grand Theft Auto VI: Ultimate Edition at 99.99 USD.",
+      "url": "https://www.xbox.com/en-US/games/store/_/9NNZSNHLR63L",
+      "sourceLabel": "Microsoft Store listing",
+      "occurredAt": "2026-11-19T05:03:29.945Z",
+      "fields": {
+        "skuId": "0010",
+        "listPrice": 99.99,
+        "currency": "USD"
+      },
+      "detectedAt": "2026-11-19T05:03:29.846Z",
+      "firstSeenAt": "2026-11-19T05:03:29.846Z",
+      "contentHash": "c7d50ff9f22c55e5",
+      "timesSeen": 1,
+      "confidence": 0.9,
+      "corroborations": []
+    },
     {
       "id": "press-coverage:CBMipwFBVV95cUxNRmVDMlZ5S2hacDBWaExmSHVwNGdtclhhbWFibllNb2ZCa212ZTNEdUxhVjdnSjhfakh2TnNBdm95cHdHeWRLTnMtNDgzbHBfVjNlMGJhLU5kSkxnSUF1UlMxWXBxR2ZZWVBGTFR3c0NzTjBiTG5zVm1yQnR2dFZxcW1UbHVjVlNCZFFaZnM1ZXJVM0E1MGNuRTRTZ1FkNTlKMnhqa0Y3UQ",
       "sourceId": "press-coverage",
