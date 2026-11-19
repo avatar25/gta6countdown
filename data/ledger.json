@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T05:03:32.445Z",
+  "updatedAt": "2026-11-19T14:55:11.437Z",
   "sources": {
     "manual": {
       "sourceId": "manual",
@@ -30,7 +30,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 321,
+      "polls": 322,
       "errors": 0,
       "uptime": 1
     },
@@ -46,7 +46,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 321,
+      "polls": 322,
       "errors": 0,
       "uptime": 1
     },
@@ -62,7 +62,7 @@
       "score": 0.77,
       "meanLeadHours": 5.1,
       "lastApprovedAt": "2026-09-24T20:56:16.199Z",
-      "polls": 321,
+      "polls": 322,
       "errors": 4,
       "uptime": 0.99
     },
@@ -78,23 +78,23 @@
       "score": 0.95,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 321,
+      "polls": 322,
       "errors": 0,
       "uptime": 1
     },
     "rockstar-youtube": {
       "sourceId": "rockstar-youtube",
       "sourceType": "official",
-      "candidates": 19,
+      "candidates": 22,
       "approved": 2,
       "rejected": 6,
-      "pending": 3,
+      "pending": 6,
       "corroborated": 0,
       "approvalRate": 0.25,
       "score": 0.97,
       "meanLeadHours": 1.9,
       "lastApprovedAt": "2026-10-15T15:59:52.315Z",
-      "polls": 321,
+      "polls": 322,
       "errors": 63,
       "uptime": 0.8
     },
@@ -110,7 +110,7 @@
       "score": 0.9,
       "meanLeadHours": null,
       "lastApprovedAt": null,
-      "polls": 321,
+      "polls": 322,
       "errors": 0,
       "uptime": 1
     }
