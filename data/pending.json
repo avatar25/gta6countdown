@@ -1,7 +1,28 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T14:55:08.198Z",
+  "updatedAt": "2026-11-20T00:01:31.709Z",
   "pending": [
+    {
+      "id": "netflix-premiere:listing",
+      "sourceId": "netflix-premiere",
+      "sourceType": "official",
+      "provenance": "official",
+      "title": "Netflix listing copy changed",
+      "description": "The Netflix listing now reads \"Watch Grand Theft Auto VI: An Extended Look | Netflix\": See the next evolution in the groundbreaking Grand Theft Auto series. Now available on PlayStation 5 and XBOX Series X|S.",
+      "url": "https://www.netflix.com/GTAVI",
+      "sourceLabel": "Netflix listing",
+      "occurredAt": "2026-11-20T00:01:33.223Z",
+      "fields": {
+        "title": "Watch Grand Theft Auto VI: An Extended Look | Netflix",
+        "description": "See the next evolution in the groundbreaking Grand Theft Auto series. Now available on PlayStation 5 and XBOX Series X|S."
+      },
+      "detectedAt": "2026-11-20T00:01:31.709Z",
+      "firstSeenAt": "2026-10-07T22:26:57.037Z",
+      "contentHash": "a5a856b6b5417c21",
+      "timesSeen": 2,
+      "confidence": 0.9,
+      "corroborations": []
+    },
     {
       "id": "rockstar-youtube:yt:video:_yl5ELcmugI",
       "sourceId": "rockstar-youtube",
@@ -1177,27 +1198,6 @@
       "contentHash": "69d89dc238868ee5",
       "timesSeen": 1,
       "confidence": 0.69,
-      "corroborations": []
-    },
-    {
-      "id": "netflix-premiere:listing",
-      "sourceId": "netflix-premiere",
-      "sourceType": "official",
-      "provenance": "official",
-      "title": "Netflix listing copy changed",
-      "description": "The Netflix listing now reads \"Netflix\": Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.",
-      "url": "https://www.netflix.com/GTAVI",
-      "sourceLabel": "Netflix listing",
-      "occurredAt": "2026-10-07T22:26:59.773Z",
-      "fields": {
-        "title": "Netflix",
-        "description": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more."
-      },
-      "detectedAt": "2026-10-07T22:26:57.037Z",
-      "firstSeenAt": "2026-10-07T22:26:57.037Z",
-      "contentHash": "2328498b3573bd96",
-      "timesSeen": 1,
-      "confidence": 0.9,
       "corroborations": []
     },
     {
