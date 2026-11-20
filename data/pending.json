@@ -1,7 +1,49 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T00:01:31.709Z",
+  "updatedAt": "2026-11-20T14:36:35.096Z",
   "pending": [
+    {
+      "id": "xbox-store:9P3H4968GRSM:editions",
+      "sourceId": "xbox-store",
+      "sourceType": "storefront",
+      "provenance": "official",
+      "title": "Grand Theft Auto VI: 2 edition(s) listed on Microsoft Store",
+      "description": "Edition line-up currently on the listing: Grand Theft Auto VI, Grand Theft Auto VI.",
+      "url": "https://www.xbox.com/en-US/games/store/_/9P3H4968GRSM",
+      "sourceLabel": "Microsoft Store listing",
+      "occurredAt": "2026-11-20T14:36:35.207Z",
+      "fields": {
+        "editions": "0010:Grand Theft Auto VI|0017:Grand Theft Auto VI",
+        "preorder": "false"
+      },
+      "detectedAt": "2026-11-20T14:36:35.096Z",
+      "firstSeenAt": "2026-11-20T14:36:35.096Z",
+      "contentHash": "460797043a9bade8",
+      "timesSeen": 1,
+      "confidence": 0.9,
+      "corroborations": []
+    },
+    {
+      "id": "xbox-store:9NNZSNHLR63L:editions",
+      "sourceId": "xbox-store",
+      "sourceType": "storefront",
+      "provenance": "official",
+      "title": "Grand Theft Auto VI: Ultimate Edition: 2 edition(s) listed on Microsoft Store",
+      "description": "Edition line-up currently on the listing: Grand Theft Auto VI: Ultimate Edition, Grand Theft Auto VI: Ultimate Edition.",
+      "url": "https://www.xbox.com/en-US/games/store/_/9NNZSNHLR63L",
+      "sourceLabel": "Microsoft Store listing",
+      "occurredAt": "2026-11-20T14:36:35.207Z",
+      "fields": {
+        "editions": "0010:Grand Theft Auto VI: Ultimate Edition|0017:Grand Theft Auto VI: Ultimate Edition",
+        "preorder": "false"
+      },
+      "detectedAt": "2026-11-20T14:36:35.096Z",
+      "firstSeenAt": "2026-11-20T14:36:35.096Z",
+      "contentHash": "ab15508ca190c709",
+      "timesSeen": 1,
+      "confidence": 0.9,
+      "corroborations": []
+    },
     {
       "id": "netflix-premiere:listing",
       "sourceId": "netflix-premiere",
